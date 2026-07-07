@@ -40,6 +40,9 @@ jobs:
         run: npm start
 
       - name: Commit updated history
+        # 履歴の保存は"おまけ"。ここが失敗（古いコミットでの再実行や競合）しても
+        # サイトのデプロイは止めない。
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
