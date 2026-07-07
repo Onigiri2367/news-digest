@@ -1,7 +1,15 @@
 import Parser from "rss-parser";
 import { FEEDS } from "./feeds.js";
 
-const parser = new Parser({ timeout: 15000 });
+// User-Agent を付けないと 406/403 で弾くフィード（Nature等）があるため付与する
+const parser = new Parser({
+  timeout: 15000,
+  headers: {
+    "User-Agent":
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    Accept: "application/rss+xml, application/xml, text/xml, */*",
+  },
+});
 
 // 直近この時間内の記事だけを対象にする（時間）
 const WINDOW_HOURS = Number(process.env.WINDOW_HOURS || 24);

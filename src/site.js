@@ -23,7 +23,10 @@ const SITE_TITLE = process.env.SITE_TITLE || "朝のニュースダイジェス�
 const THEME = "#0b1020";
 const ACCENT = "#6ea8fe";
 
-const CATEGORY_EMOJI = { 世界: "🌍", 経済: "💹", AI: "🤖", テック: "💻" };
+const CATEGORY_EMOJI = {
+  世界: "🌍", 日本: "🗾", アジア: "🌏", 経済: "💹",
+  AI: "🤖", テック: "💻", 科学: "🔬",
+};
 
 function esc(s = "") {
   return String(s)
