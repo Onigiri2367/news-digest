@@ -28,7 +28,12 @@ async function main() {
   console.log(`✅ サイト生成完了: ${entryDate}（${siteDir}）`);
 }
 
-main().catch((err) => {
-  console.error("❌ エラー:", err);
-  process.exit(1);
-});
+main()
+  // 処理完了後、SDKのkeep-alive接続などで event loop が残りプロセスが
+  // 終了しないこと（＝CIが固まる）を防ぐため、明示的に終了する。
+  // buildSite は writeFileSync で書き終えているので即 exit しても安全。
+  .then(() => process.exit(0))
+  .catch((err) => {
+    console.error("❌ エラー:", err);
+    process.exit(1);
+  });
