@@ -1,0 +1,27 @@
+name: Daily News Digest
+
+on:
+  schedule:
+    # GitHub Actions は UTC 基準。6:00 JST = 21:00 UTC（前日）
+    - cron: "0 21 * * *"
+  workflow_dispatch: {} # 手動実行ボタンも有効化（テスト用）
+
+jobs:
+  send-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Send news digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: npm start
