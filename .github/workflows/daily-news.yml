@@ -47,6 +47,8 @@ jobs:
             echo "履歴に変更なし"
           else
             git commit -m "chore: update digest history ($(date -u +%Y-%m-%d))"
+            # 実行中に main が進んでいても取りこぼさないよう rebase してから push
+            git pull --rebase --autostash origin main || true
             git push
           fi
 
