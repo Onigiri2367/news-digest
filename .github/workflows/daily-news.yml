@@ -36,6 +36,7 @@ jobs:
       - name: Generate site
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TOP_N: "20" # 毎朝ここで指定した本数を選ぶ（変えたいときはこの数字だけ書き換える）
         run: npm start
 
       - name: Commit updated history
