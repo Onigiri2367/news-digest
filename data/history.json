@@ -2,185 +2,185 @@
   {
     "date": "2026-07-07",
     "dateLabel": "2026年7月7日(火)",
-    "generatedAt": "2026-07-07T11:58:18.361Z",
-    "overview": "NATOアンカラ首脳会議とホルムズ海峡でのイラン関連ミサイル攻撃、ダマスカスでのマクロン訪問中爆発が国際情勢の緊張を象徴する一日。中国の潜水艦発射ミサイル実験や米中AI競争の深化も、地政学とテクノロジーが交差する構造変化を示している。",
+    "generatedAt": "2026-07-07T11:59:51.137Z",
+    "overview": "NATO首脳会議での対ロシア・対中国戦略、ホルムズ海峡での緊迫化、そしてAI覇権を巡る米中韓の競争が今日の焦点。地政学リスクと市場のボラティリティが同時進行している。",
     "stories": [
       {
         "rank": 1,
-        "title_ja": "トランプ氏、NATO首脳会議に到着 ロシア攻撃と米国の苛立ちで同盟に緊張",
-        "summary": "トランプ大統領がアンカラでのNATO首脳会議に到着した。ロシアによるウクライナへの激しい攻撃が続く中、米国はホルムズ海峡の掃海協力拒否など同盟国への不満を募らせている。",
-        "take": "💭 米国の関与縮小観測が強まる中、欧州は自前の防衛体制構築を迫られており、この会議の実質的な成果がNATOの結束の試金石になる。",
+        "title_ja": "NATO首脳会議、ロシアの攻撃激化と米国の苛立ちで緊張",
+        "summary": "トランプ大統領がトルコでのNATO首脳会議に出席。ロシアによる激しい攻撃が続く中、米国はホルムズ海峡問題への加盟国の対応の遅さに不満を示している。",
+        "take": "💭 米国の関与縮小が明確化する中、欧州が「独自防衛」への転換を迫られる転換点になり得る。トランプの発言一つで同盟の結束が試される場面が続く。",
         "category": "経済",
         "source": "CNBC",
         "link": "https://www.cnbc.com/2026/07/07/trump-nato-turkey-russia-ukraine-spending.html"
       },
       {
         "rank": 2,
-        "title_ja": "イラン、ホルムズ海峡で商船を攻撃か 原油価格上昇",
-        "summary": "イランによるホルムズ海峡での商船へのミサイル攻撃報道を受け、原油先物価格が上昇した。カタールのガスタンカーなど複数の船舶が被害を受けたとされる。",
-        "take": "💭 ホルムズ海峡の緊張は単なる一時的リスクではなく、マラッカ海峡など他の海上交通路への「通行料紛争」波及の前例になりかねない。",
+        "title_ja": "米国抜きでの欧州防衛、現実味を帯びる議論に",
+        "summary": "NATO首脳会議を機に、欧州が米国の支援なしにロシアと対峙する場合の防衛体制について本格的に検討し始めている。",
+        "take": "💭 これは単なる思考実験ではなく、防衛産業・国防予算配分に直結する構造変化の兆し。日本の防衛政策議論にも波及必至。",
         "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html"
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/ffd323d9-8a8c-4b67-ae0d-208c8f994ece"
       },
       {
         "rank": 3,
-        "title_ja": "ウクライナ、ロシア最大級の製油所を攻撃 シベリアも射程に",
-        "summary": "ウクライナがロシア西シベリアの最大級製油所をドローン攻撃し、これまでで最長となる約2700キロの攻撃を実現した。ゼレンスキー氏はNATO首脳会議を前に迎撃ミサイルの追加供与を訴える構え。",
-        "take": "💭 ロシア領奥深くへの攻撃能力の獲得は、戦争の「均衡点」を変えつつあり、NATOの防空支援議論に直接的な圧力をかける。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/07/ukraine-russia-omsk-oil-refinery-putin-nato.html"
-      },
-      {
-        "rank": 4,
-        "title_ja": "中国、NATO首脳会議直前に潜水艦発射ミサイル実験",
-        "summary": "中国が核弾頭搭載可能な長距離潜水艦発射弾道ミサイルの初の実射実験を行い、NATO事務総長ラッテ氏が「インド太平洋の動きは大西洋にも関係する」と警告した。オーストラリアや太平洋島嶼国も懸念を表明。",
-        "take": "💭 大西洋と太平洋の安全保障が一体化しつつある証左であり、日本を含むアジア諸国はNATOとの連携強化を迫られる局面に入った。",
+        "title_ja": "中国、NATO首脳会議直前に潜水艦発射弾道ミサイル実験",
+        "summary": "中国が原子力潜水艦から戦略ミサイルを発射する初の実験を実施したとみられる。NATO事務総長ラッテ氏は「インド太平洋の動きは大西洋にも関係する」と警告した。",
+        "take": "💭 タイミングが露骨に政治的で、NATOと中国を同時に牽制する意図が読める。日本や太平洋島嶼国への軍事的圧力としても機能する二重メッセージだ。",
         "category": "アジア",
         "source": "SCMP",
         "link": "https://www.scmp.com/plus/news/china/diplomacy/article/3359717/china-submarine-fires-long-range-missile-ahead-nato-summit?utm_source=rss_feed"
       },
       {
+        "rank": 4,
+        "title_ja": "ホルムズ海峡でイランが商船にミサイル攻撃、原油価格上昇",
+        "summary": "イランがホルムズ海峡で商船複数隻にミサイルを発射したと報じられ、ブレント原油・WTIともに上昇。英国当局も別のタンカー被弾を確認した。",
+        "take": "💭 核問題を後回しにしてでも海峡の実効支配を既成事実化しようとするイランの狙いが透ける。マラッカ海峡など他の海上交通路への波及リスクも投資家は警戒し始めている。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/07/oil-prices-iran-strait-hormuz.html"
+      },
+      {
         "rank": 5,
-        "title_ja": "ロシアに「爆発的な」銀行危機リスク、欧州情報機関が警告",
-        "summary": "欧州の国家情報機関がロシアの銀行システムに「爆発的な」危機のリスクがあると警告した。制裁の長期化と戦費負担がロシア経済の構造的な脆弱性を強めているとみられる。",
-        "take": "💭 ロシア経済の内部崩壊リスクが顕在化すれば、プーチン政権の継戦能力と対外強硬姿勢の両方に影響を与える転換点になり得る。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHRhNHdNU29Rckt2eXdfd0g2OFZoamlaOU5QS0Y4MzNycDJJWVhia2dsS3REeTJEa3BjSTZRX2pBY2hWZHlSR01Uam5xdEhOZncySXlqdzYwWmNWa2M2UjVXOHN4SjFCUkRXeFdiUWZRQkM4YkhJeXhDYjRnak1NUQ?oc=5"
+        "title_ja": "韓国株急落、AI相場への警戒で半導体株売り　KOSPI一時8%安",
+        "summary": "AI関連銘柄への過熱警戒から韓国市場で半導体株が急落し、KOSPIが一時8%安となり売買停止となった。サムスン電子は好決算にもかかわらず株価が下落。",
+        "take": "💭 好決算でも売られるのはAIバブル論が投資家心理に根を張った証拠。半導体サイクルの「過熱→調整」局面入りを示すシグナルとして注視すべき。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CVTYyZ2VHNUJGSld3RlEyaC1laDNaYUxLZUxaM3g2cDdTRFpnS21IOG5YMEtkNENVdUJDS1BKVm9kVDJ0aGFZcWsxTEU4NzNqcXZrdDFhVDNWN1BESlRDcUNyLU8teF9jdG5nUHAzMTNCbVVldlN3?oc=5"
       },
       {
         "rank": 6,
-        "title_ja": "マクロン氏訪問中のダマスカスで爆発、18人負傷",
-        "summary": "フランスのマクロン大統領がシリアを訪問中、ダマスカスで爆発が発生し18人が負傷した。EU首脳としてアサド政権崩壊後初のシリア訪問という重要な局面での事件となった。",
-        "take": "💭 新シリア政権の治安掌握能力への疑念が国際社会に広がれば、復興支援や外交正常化のプロセスが停滞しかねない。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss"
+        "title_ja": "中国製AIモデル、米企業への浸透加速　OpenAI・Anthropicはコスト高で苦戦",
+        "summary": "DeepSeekやZ.aiなど中国製AIモデルが米企業の間でコスト効率と性能の両面で評価を高め、シリコンバレーの前提を揺るがしている。",
+        "take": "💭 「オープンモデルで中国が主導権を握る」というシナリオが現実味を帯び始めた。米AI企業の高価格戦略が自らの首を絞める結果になりかねない。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
       },
       {
         "rank": 7,
-        "title_ja": "「中国ショック」がシリコンバレーを揺るがす",
-        "summary": "DeepSeekやZ.aiなど中国発のオープンモデルが、米国のAI覇権に対する最大級の脅威になりつつあると指摘されている。性能面で米フロンティアモデルに匹敵するとの評価も出ている。",
-        "take": "💭 オープンモデルのコスト優位性が米国クローズドモデルの収益モデルを侵食しており、AI覇権の構図は技術力だけでなく価格競争の様相を帯び始めた。",
+        "title_ja": "中国ショックがシリコンバレーを揺るがす",
+        "summary": "中国発のオープンモデルが米AI業界の既存秩序に対する最大級の脅威になりつつあると指摘されている。",
+        "take": "💭 技術覇権競争は「クローズドで高性能」対「オープンで低コスト」の構図に移行しつつあり、後者が市場シェアを侵食し始めている点は要警戒。",
         "category": "日本",
         "source": "Japan Times",
         "link": "https://www.japantimes.co.jp/commentary/2026/07/07/world/china-shock-shakes-silicon-valley/"
       },
       {
         "rank": 8,
-        "title_ja": "中国製AIモデル、コスト高騰の米企業に浸透",
-        "summary": "OpenAIやAnthropicのコスト上昇を背景に、DeepSeekやZ.aiなど中国発AIモデルが米企業の間で採用を広げている。性能面でも競争力があると評価されている。",
-        "take": "💭 安全保障上の懸念より価格性能比が優先される企業導入の実態は、米国の対中AI規制の実効性に疑問を投げかける。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html"
-      },
-      {
-        "rank": 9,
-        "title_ja": "韓国株急落、AI相場警戒で半導体株売り　KOSPI一時8%安",
-        "summary": "AI関連銘柄への過熱警戒から韓国半導体株が急落し、KOSPIは一時8%安となり売買停止に至った。サムスン電子の好決算にもかかわらず利益確定売りが優勢となった。",
-        "take": "💭 好決算でも売られる現象はAIバブル的期待の巻き戻しの前兆であり、日本や米国の半導体株にも波及するリスクを注視すべきだ。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CVTYyZ2VHNUJGSld3RlEyaC1laDNaYUxLZUxaM3g2cDdTRFpnS21IOG5YMEtkNENVdUJDS1BKVm9kVDJ0aGFZcWsxTEU4NzNqcXZrdDFhVDNWN1BESlRDcUNyLU8teF9jdG5nUHAzMTNCbVVldlN3?oc=5"
-      },
-      {
-        "rank": 10,
-        "title_ja": "NATO首脳会議、アンカラで開幕　防衛費と対米関係が焦点",
-        "summary": "NATO加盟32カ国の首脳がアンカラで2日間の会議を開催。ラッテ事務総長は同盟が「機能し続ける」ことを確認する場と位置付けた。米国の関与縮小への対応が主要議題となる。",
-        "take": "💭 トランプ氏への「おだて外交」が同盟維持の代償として語られる現状は、NATOの結束が実力ではなく個人的関係に依存する脆弱性を露呈している。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/nato-summit-allies-in-ankara-for-talks-defense-deals/live-77858549?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 11,
-        "title_ja": "マイクロソフト、数千人規模の人員削減　Xboxに打撃",
-        "summary": "マイクロソフトがゲーム部門を中心に約4800人、全従業員の2.1%を削減すると発表した。Xbox傘下の複数スタジオが独立を余儀なくされ、業界再編が進んでいる。",
-        "take": "💭 AIによる代替ではなく事業モデルの不振が理由とされる点が重要で、AI起因の雇用不安言説と実態のギャップを示す好例だ。",
+        "title_ja": "マイクロソフト、大規模人員削減　Xboxに打撃",
+        "summary": "マイクロソフトがゲーム部門を中心に数千人規模の人員削減を発表。同社幹部は削減分がAIに置き換わるわけではないと説明した。",
+        "take": "💭 AIによる直接代替ではなくとも、収益構造の見直しの口実としてAIが多用される時代に入った。テック業界のリストラの「AI言い訳」化が加速している。",
         "category": "世界",
         "source": "Deutsche Welle",
         "link": "https://www.dw.com/en/microsoft-to-cut-thousands-of-jobs-xbox-to-be-hit-hard/a-77857704?maca=en-rss-en-all-1573-rdf"
       },
       {
+        "rank": 9,
+        "title_ja": "2026年、AIを理由に挙げたテック大手の人員削減が続出",
+        "summary": "今年に入り主要テック企業がAIを削減理由として名指しするケースが相次いでいる状況をまとめた記事。",
+        "take": "💭 「AI要因」の実態は玉石混交で、経営効率化の言い訳としてのAIと実質的な自動化によるAIを区別して見る必要がある。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+      },
+      {
+        "rank": 10,
+        "title_ja": "「初のAI主導ランサムウェア攻撃」も人間の関与が判明",
+        "summary": "AIエージェントがランサムウェア攻撃の技術的実行を担った初の事例とされたが、標的選定やインフラ構築、認証情報の提供は依然として人間が行っていたことが判明した。",
+        "take": "💭 「AI自律型サイバー犯罪」という煽り報道への冷静な検証例。誇張と実態のギャップを見極める重要な参考事例になる。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/"
+      },
+      {
+        "rank": 11,
+        "title_ja": "ドイツ、防衛費増額と財政悪化が同時進行",
+        "summary": "ドイツ政府の2027年度予算案は軍事費を増やす一方、他分野への支出を削減する内容で、債務は急速に増加する見通し。閣議は承認済みで議会審議へ進む。",
+        "take": "💭 「財政規律の国」ドイツの変貌は欧州全体の防衛費拡大トレンドを象徴する。日本の防衛費倍増議論とも軌を一にする構造変化だ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/germany-record-debt-and-a-seismic-policy-shift/a-77861879?maca=en-rss-en-all-1573-rdf"
+      },
+      {
         "rank": 12,
-        "title_ja": "高市首相、法案審議で国会会期延長の可能性",
-        "summary": "高市早苗首相が日本維新の会への約束と参院での法案通過の困難さの間で板挟みとなり、国会会期が延長される可能性が出てきた。",
-        "take": "💭 連立の政策合意と国会運営の現実のズレは、今後の予算編成や外交日程にも影響しかねない構造的な火種だ。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/07/japan/politics/two-bills-ldp-jip/"
+        "title_ja": "フォルクスワーゲン、最大10万人削減へ　中国EVの猛攻に苦境",
+        "summary": "経営不振のフォルクスワーゲンが63万人の従業員のうち最大10万人を削減する計画。中国製EVの攻勢にどこまで対抗できるかが焦点。",
+        "take": "💭 欧州基幹産業の雇用構造そのものが中国EVによって揺さぶられている。政治的に敏感な大量解雇が実行されれば、独仏の産業政策論争に火をつけるだろう。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-all-1573-rdf"
       },
       {
         "rank": 13,
         "title_ja": "日本国債利回り、3%に接近　財政懸念が拡大",
-        "summary": "日本国債の利回りが3%に向けて上昇を続けており、財政赤字への懸念が市場で強まっている。円安と債券安が同時進行する「ダブル安」の様相を呈している。",
-        "take": "💭 円安・金利上昇の同時進行は日銀の政策余地を狭め、政府の利払い負担増を通じて財政運営そのものを制約し始める段階に入った。",
+        "summary": "日本の国債利回りが3%に向けて上昇しており、財政悪化への懸念が市場で強まっている。",
+        "take": "💭 円安・金利上昇・財政不安の三重苦が同時進行している。日銀の政策余地が急速に狭まっている点は看過できない。",
         "category": "アジア",
         "source": "Nikkei Asia",
         "link": "https://asia.nikkei.com/business/markets/bonds/japanese-bond-yields-march-toward-3-as-fiscal-fears-escalate2"
       },
       {
         "rank": 14,
-        "title_ja": "ドル円162円台、約40年ぶりの円安圏に",
-        "summary": "NY外国為替市場でドル円が162円台前半まで下落し、約40年ぶりの円安水準となった。当局による為替介入への警戒感が続いている。",
-        "take": "💭 40年ぶりの水準という重みは輸入物価と家計負担に直結し、政治的にも介入是非の判断を迫られる局面が近づいている。",
+        "title_ja": "ドル円162円台、約40年ぶりの円安圏で介入警戒続く",
+        "summary": "NY外為市場でドル円が162円台前半まで上昇し、約40年ぶりの円安水準となった。市場は日本当局による為替介入の可能性を警戒している。",
+        "take": "💭 円安は輸入物価を通じて家計を直撃する一方、政府・与党の危機感の薄さが「口先介入」の説得力を削いでいる構図が透ける。",
         "category": "世界",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NUjd0eGEwa3FPM1BiVkJTRzhPbEhWd2FELThYeS14Q05OenFzMkRjc2JpcDQzVG1sT0MzYkFBVGZrVWZQRDN5WHhhRTNuV0lua1J5NUF5V294eHNrTTQ4aW10TW8wMkZQUTdfYy1TWVJsNWx3b3JSLQ?oc=5"
       },
       {
         "rank": 15,
-        "title_ja": "ドイツ、防衛費拡大で記録的債務へ　財政の地殻変動",
-        "summary": "ドイツ政府の2027年度予算案は軍事費を大幅に増やす一方、他分野への支出を削減する内容となった。債務は急速に拡大しており、内閣は既に承認済みで議会審議を待つ。",
-        "take": "💭 「財政均衡の優等生」だったドイツの路線転換は、NATO内の負担分担議論と欧州全体の防衛産業再編に直結する構造変化だ。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/germany-record-debt-and-a-seismic-policy-shift/a-77861879?maca=en-rss-en-all-1573-rdf"
+        "title_ja": "高市政権、法案審議で国会延長の可能性",
+        "summary": "高市早苗首相は日本維新の会との約束と、参院での法案可決の困難さの間で板挟みになっている。",
+        "take": "💭 少数与党的な運営を強いられる中、連立の駆け引きが政策実行力を左右する。会期延長は政権の求心力低下のシグナルにもなり得る。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/07/japan/politics/two-bills-ldp-jip/"
       },
       {
         "rank": 16,
-        "title_ja": "フォルクスワーゲン、最大10万人削減へ　中国EVの猛攻に苦戦",
-        "summary": "経営難のフォルクスワーゲンが63万人規模の従業員のうち最大10万人を削減する計画を進めている。中国製EVの攻勢にどう対応するかが生存の鍵となる。",
-        "take": "💭 欧州製造業の雇用モデルの限界が露わになっており、これは日本の自動車産業にとっても対岸の火事ではない。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-liability/a-77766154?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 17,
-        "title_ja": "日中の巡視船、尖閣諸島周辺でにらみ合い",
-        "summary": "尖閣諸島周辺で日本と中国の巡視船が対峙し、双方が相手を追い払ったと主張している。日中関係の緊張が高まる中での発生となった。",
-        "take": "💭 中国の潜水艦ミサイル実験と同時期の事案であり、日本は南西諸島の防衛態勢強化を改めて迫られる局面にある。",
+        "title_ja": "尖閣諸島付近で日中両国の海警船がにらみ合い",
+        "summary": "尖閣諸島周辺で日中双方の海上保安船が対峙し、両国とも相手を排除したと主張。日中間の緊張が高まる中での事案。",
+        "take": "💭 中国の潜水艦ミサイル実験と同時期に起きたことは偶然ではなく、地域における圧力の掛け方を多角化する中国の狙いを示している。",
         "category": "世界",
         "source": "Deutsche Welle",
         "link": "https://www.dw.com/en/japan-china-coast-guards-square-off-near-disputed-islands/a-77860700?maca=en-rss-en-all-1573-rdf"
       },
       {
+        "rank": 17,
+        "title_ja": "中国のミサイル実験、太平洋諸国に警戒感",
+        "summary": "豪州首相アルバニージー氏は中国の大陸間弾道ミサイル実験について、兵器化されれば「相当な被害」をもたらし得ると指摘。ソロモン諸島首相も懸念を表明した。",
+        "take": "💭 太平洋島嶼国が名指しで懸念を示すのは異例。中国の軍事プレゼンス拡大に対する地域の「静かな反発」が表面化し始めた。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/07/chinese-government-tells-critics-not-to-overinterpret-missile-test-in-pacific-as-criticism-grows"
+      },
+      {
         "rank": 18,
-        "title_ja": "最先端半導体は日本を再興できるか　北海道の一社に懸かる夢",
-        "summary": "北海道での半導体ハブ構想が、政府支援を受ける単一企業（ラピダス）の成否に大きく依存している実態を分析。地方創生と国家戦略産業の交差点となっている。",
-        "take": "💭 一企業への集中投資というリスクの高い賭けは、成功すれば地域経済の起爆剤となるが、失敗時の政治的・財政的コストも甚大だ。",
-        "category": "経済",
-        "source": "The Economist",
-        "link": "https://www.economist.com/asia/2026/07/07/can-cutting-edge-semiconductors-supercharge-japan"
+        "title_ja": "カナダ、独社製潜水艦12隻を選定　対中韓の入札競争制す",
+        "summary": "カナダが韓国のハンファオーシャンを退け、ドイツのティッセンクルップ・マリンシステムズを潜水艦調達の優先交渉先に選定。NATO関係強化につながる大型契約。",
+        "take": "💭 防衛調達は単なる商取引でなく同盟強化の手段になっている。韓国造船業にとっては痛手で、日本の防衛輸出戦略にも示唆を与える。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/06/canada-buys-12-tkms-german-norwegian-submarines-after-bidding-war"
       },
       {
         "rank": 19,
-        "title_ja": "グーグル、核融合スタートアップ支援　欧州初の商用炉目指す",
-        "summary": "核融合スタートアップのProxima Fusionが4億6800万ドルを調達し、Googleが支援に加わった。欧州初の商用核融合発電所の実現を目指している。",
-        "take": "💭 AI向け電力需要の急増が核融合投資を加速させている構図が見えるが、商用化までの技術的距離はなお大きく、期待先行に注意が必要だ。",
+        "title_ja": "グーグル、核融合スタートアップに出資　欧州初の商用炉目指す",
+        "summary": "核融合スタートアップのプロキシマ・フュージョンが4億6800万ドルを調達、グーグルも出資。欧州初の商用核融合発電所建設を目指す。",
+        "take": "💭 AIの電力需要急増が核融合投資を後押しする構図。実用化はなお遠いが、ビッグテックが自ら電源確保に動く流れは加速するだろう。",
         "category": "経済",
         "source": "CNBC",
         "link": "https://www.cnbc.com/2026/07/07/google-proxima-fusion-funding.html"
       },
       {
         "rank": 20,
-        "title_ja": "AIが加速する室温超伝導体探索　新超伝導体2種を発見",
-        "summary": "機械学習と量子物理学を組み合わせた手法により、研究者らが2種類の新しい超伝導体を発見し、探索速度を大幅に向上させた。室温超伝導体という長年の目標への接近とされる。",
-        "take": "💭 AIによる材料探索の高速化は本物の技術進展だが、「室温超伝導体」自体の実用化にはまだ大きな距離があり、過度な期待は禁物だ。",
+        "title_ja": "AIが室温超伝導探索を加速、新超伝導体2種を発見",
+        "summary": "機械学習と量子物理を組み合わせた手法で新たな超伝導体2種を発見し、探索速度を大幅に向上させたと科学者が発表。",
+        "take": "💭 「室温超伝導」への期待は過去何度も過熱・失望を繰り返してきた分野。今回はAIによる探索効率化という具体的進展だが、実用化にはまだ長い距離がある。",
         "category": "科学",
         "source": "ScienceDaily",
         "link": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
