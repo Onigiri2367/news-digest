@@ -1,11 +1,13 @@
 import "./env.js"; // 何よりも先に .env を読み込む（ローカル実行用）
 import { fetchAllNews } from "./fetchNews.js";
 import { curateNews } from "./claude.js";
-import { formatMessage } from "./format.js";
-import { sendTelegram } from "./telegram.js";
+import { buildSite } from "./site.js";
 
 async function main() {
   console.log("🌅 朝のニュースダイジェスト開始:", new Date().toISOString());
+
+  // DRY_RUN=1 または --dry のときは history.json を書き換えず site/ の生成だけ試す
+  const dryRun = process.env.DRY_RUN || process.argv.includes("--dry");
 
   // 1. 全フィードから直近24時間の記事を取得
   const articles = await fetchAllNews();
@@ -14,19 +16,16 @@ async function main() {
   const curated = await curateNews(articles);
   console.log(`📝 選定: ${curated.stories.length}本`);
 
-  // 3. Telegram向けに整形
-  const message = formatMessage(curated);
+  // 3. 静的サイト（GitHub Pages + PWA）を生成。dryのときは履歴を汚さない。
+  const { siteDir, entryDate } = buildSite(curated, { persist: !dryRun });
 
-  // DRY_RUN=1 または --dry のときは送信せずコンソール出力だけ（動作確認用）
-  const dryRun = process.env.DRY_RUN || process.argv.includes("--dry");
   if (dryRun) {
-    console.log("\n──────── DRY RUN（送信なし） ────────\n");
-    console.log(message);
+    console.log(`\n🧪 DRY RUN: ${entryDate} のサイトを ${siteDir} に生成しました（history.jsonは未更新）。`);
+    console.log("ブラウザで site/index.html を開くと見た目を確認できます。");
     return;
   }
 
-  // 4. 配信
-  await sendTelegram(message);
+  console.log(`✅ サイト生成完了: ${entryDate}（${siteDir}）`);
 }
 
 main().catch((err) => {
