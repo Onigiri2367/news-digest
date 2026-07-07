@@ -8,6 +8,10 @@ const MODEL = process.env.CLAUDE_MODEL || "claude-sonnet-5";
 // 選ぶ本数
 const TOP_N = Number(process.env.TOP_N || 5);
 
+// 出力トークン上限。本数に応じて拡大（1本あたり約250tok + 総括ぶんの余裕）。
+// これが小さいとJSONが途中で切れて解析に失敗するため、TOP_Nを増やすなら必ず連動させる。
+const MAX_TOKENS = Number(process.env.MAX_TOKENS || 1000 + TOP_N * 250);
+
 // ───────────────────────────────────────────────────────────
 // 💭 Claudeの「視点」の切り口をここで決める。
 // この LENS の文章を書き換えるだけでコメントの性格が変わる。
@@ -77,7 +81,10 @@ export async function curateNews(articles) {
 
   const res = await anthropic.messages.create({
     model: MODEL,
-    max_tokens: 2000,
+    max_tokens: MAX_TOKENS,
+    // 選別＋要約はJSON抽出タスク。Sonnet 5は思考が既定ONで max_tokens を消費し
+    // JSONが途切れる恐れがあるため、思考は切って安定・低コストにする。
+    thinking: { type: "disabled" },
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: buildUserMessage(articles) }],
   });
