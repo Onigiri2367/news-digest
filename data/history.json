@@ -1,5 +1,193 @@
 [
   {
+    "date": "2026-07-09",
+    "dateLabel": "2026年7月9日(木)",
+    "generatedAt": "2026-07-08T22:04:28.013Z",
+    "overview": "米国がイランへの攻撃を再開し停戦崩壊の危機が深まる中、NATO首脳会議ではトランプ氏の言動が同盟の結束を揺さぶった。市場は中東情勢の緊迫化を受けて原油高・株安に反応し、AI関連投資の過熱感にも警戒が広がっている。",
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米、イランへの攻撃を再開　停戦は「終わった」とトランプ氏",
+        "summary": "トランプ大統領がイランとの停戦は終了したと宣言し、米軍が24時間で2度目となる攻撃を実施。イランは3隻の商船を攻撃するなど報復の応酬が続いている。",
+        "take": "💭 停戦の「終了宣言」自体に法的拘束力はないが、これは事実上の交渉決裂シグナル。ホルムズ海峡の航行リスクが再燃すれば原油市場への影響は避けられず、日本のエネルギー安保にも直結する。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "イラン、ホルムズ海峡を対米圧力の武器に",
+        "summary": "イランの最新攻撃は、同国が海運・エネルギー市場を容易に混乱させ、湾岸諸国を巻き込める能力を持つことを示した。この高リスク戦略が自らに跳ね返る可能性も指摘されている。",
+        "take": "💭 ホルムズ海峡は世界の原油輸送の2割が通過する動脈。日本の原油輸入の9割超が中東依存である以上、この海峡の緊張は日本のエネルギー価格・物流コストに直結する構造的リスクだ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/how-iran-uses-the-strait-of-hormuz-to-pressure-the-us/a-77870807?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 3,
+        "title_ja": "米イラン戦争再燃、湾岸諸国に大打撃の恐れ",
+        "summary": "イランは米軍施設のあるバーレーンとクウェートを標的にした。イランが直接政府や住民を狙わなくても、湾岸諸国は経済的・安全保障的に大きな損失を被る可能性がある。",
+        "take": "💭 湾岸産油国は「巻き添え被害国」になりつつある。域内の米軍基地依存とイランとの地理的近さが、彼らを紛争の当事者化させかねない。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/renewed-us-iran-war-would-hit-gulf-countries-hard/a-77876781?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 4,
+        "title_ja": "NATO首脳会議、5つの要点　トランプ氏が対欧州・対イラン発言で主導権",
+        "summary": "アンカラで開催されたNATO首脳会議はトランプ氏の対欧州批判とイラン非難で埋め尽くされたが、防衛費拡大とウクライナ支援継続では合意した。",
+        "take": "💭 トランプ氏の「愛情」と「罵倒」が同居する異例の展開は、同盟の結束が個人の気分に左右される脆さを露呈した。防衛費増額の実行力が今後の焦点になる。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ウクライナ、パトリオットミサイルの自国生産許可へ",
+        "summary": "トランプ大統領はウクライナがパトリオット迎撃ミサイルを自国生産できるようライセンスを付与すると表明。ロシアの弾道ミサイルに対して極めて有効だが、生産には長期間を要する。",
+        "take": "💭 米国依存からの脱却は長期的な安全保障の自立につながるが、生産体制構築までの空白期間はロシアの攻撃機会を広げかねない諸刃の剣だ。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 6,
+        "title_ja": "NATO同盟国、370億ポンドの新ミサイル計画を発表",
+        "summary": "スターマー英首相がアンカラで約12カ国の首脳を招集し、新たなミサイル防衛プログラムについて協議した。",
+        "take": "💭 欧州の防衛産業投資が加速する兆候。米国依存を減らす動きは長期的に欧州の戦略的自律性を高めるが、調達コストと生産能力の制約が試金石となる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "トランプ氏、NATOとウクライナに武器売却で驚きの好転",
+        "summary": "トランプ大統領は欧州向けに先進防空システムなどの新たな武器売却を約束し、同盟批判を繰り返した後の首脳会議を前向きな形で締めくくった。",
+        "take": "💭 批判と譲歩を交互に繰り出す交渉スタイルは同盟国を疲弊させるが、結果的に軍需産業と欧州防衛強化には追い風となる。米国の武器輸出戦略としても注目に値する。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/diplomacy/article/3359902/trump-surprises-nato-allies-arms-deals-and-praise-summit-ends-positively?utm_source=rss_feed"
+      },
+      {
+        "rank": 8,
+        "title_ja": "AIマネーがシフト、エヌビディア株は2019年以来の割安水準に",
+        "summary": "AI関連投資の資金フローが変化し、エヌビディア株のバリュエーションが2019年以来の低水準まで低下している。",
+        "take": "💭 AIブームの主役だったエヌビディアの割安化は、投資家がインフラ層から応用層・他プレイヤーへ資金をシフトさせ始めた兆候かもしれない。過熱感の調整局面として注視すべきだ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EMkJpVXpvWEZjaTJqNlZfTUgtSWQtYk1SOFdMTVlFWENySVlSUjBTbjVWVzFNWUlGUng5YmFiaGNrSVRxZDVLb0FqbERXTVFOdEtnV2RFT25UdE9BUDZhUXpIRHdscmVwUXdJaHotdGxUS1lYVnVJ?oc=5"
+      },
+      {
+        "rank": 9,
+        "title_ja": "韓国株、AI懸念で6月高値から20%下落",
+        "summary": "韓国株式市場の下落が続き、6月の高値からの下落率が20%に拡大した。AI関連の懸念が背景にある。",
+        "take": "💭 半導体依存度の高い韓国経済にとって、AI投資サイクルの減速は輸出・GDPへの直撃弾。日本の半導体関連企業への波及も注視が必要だ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9wWVJub3I3MjROQ0UtOG84QW1BQjl0Y05aeVRhamRWRnRvc282eENFbHZoNTc3WHZMa1VMSjRILWVoczhfZnlNNkZTQUJTaGJMcHhfR0M3ZHFUY0RfWFQ1V09FS3RaTG1JYzJ2dEtVMzRNRWZENlE4?oc=5"
+      },
+      {
+        "rank": 10,
+        "title_ja": "半導体株、16兆ドルの重圧　サムスン好業績でも消えぬ疑心暗鬼",
+        "summary": "サムスン電子の好決算にもかかわらず、半導体セクター全体には過剰投資への懸念が根強く残っている。",
+        "take": "💭 好決算でも払拭できない不安は、市場がAI設備投資の持続可能性そのものを疑い始めている証left。次の需要の谷が来た時の調整幅が焦点だ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VNHBQQmdEZmw0NFhRZVM4OGF1ajdtRXdadkU0RlJ4SXJDZFlianpHS2lpYXRseS1mdFRLdkdBYXJZa29zczg1bnJ4OFA3UGVFdVQ1NktYdVJGSmdJSTVkRFZnSTZydHZtTy1aMkV5U2h5WWFXcEZF?oc=5"
+      },
+      {
+        "rank": 11,
+        "title_ja": "AI投資競争は収まるか？　計算能力に過剰の兆し",
+        "summary": "AIへの巨額投資が続く中、計算能力（コンピュート）の供給過剰の兆候が見え始めていると報じられている。",
+        "take": "💭 データセンター建設ラッシュの裏で需要予測が過大だった可能性が浮上。過剰投資の調整は関連銘柄だけでなく電力インフラ投資計画にも波及するだろう。",
+        "category": "経済",
+        "source": "Wall St Journal",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYko2LWFSbTFBU1RIN08wODhLQzI2TEVnd2U2WW5vQ2hReGRDLXc2eHhrZGdiUlZYbS1OQnE0Q2M1VGJsdC04a0tGRUVJV0xJQk5yYzVWNjBhbjJNUDNBSTg3RGNuWXlRR3loTDFvWjZoTFhWZnJCZEl3NC1aQWUtWEZRNm1rMm1UTzZEZ09Ea3ByaWU0X05r?oc=5"
+      },
+      {
+        "rank": 12,
+        "title_ja": "空前のテック起債ラッシュ、250億ドル級が新常態に",
+        "summary": "テック企業による巨額の社債発行が相次ぎ、250億ドル規模の起債が「新常態」になりつつあると報じられている。市場の受容能力が試されている。",
+        "take": "💭 AIインフラ投資の資金調達が株式から負債へシフトしている兆候。金利上昇局面での大型起債は、将来の返済負担というレバレッジリスクを増大させる。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zNUZFUTVzdHkzMDlQZ2tjRTVOSDJ6NVhrSkJmNVBqMGhWbnE3ZDdtMThnUVVJaUlzdTdUMG5lRktNNXNHS3VwWFp1WDdRUU5tOUJGOUVxNjNPbEV2aHZlSFZzME5KUDlkbzBZUFgwXzBYVzJBaVdj?oc=5"
+      },
+      {
+        "rank": 13,
+        "title_ja": "BofA、かつて断ったOpenAIへの融資枠を供与へ",
+        "summary": "バンク・オブ・アメリカは新規株式公開（IPO）を見据え、以前は断っていたOpenAIへの融資枠を提供する方針に転換した。",
+        "take": "💭 銀行の姿勢転換はOpenAIのIPO観測が現実味を帯びてきたサイン。金融機関がAI企業の信用リスクを再評価し始めている点は今後の資金調達環境を左右する。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ROGV2M2tTcGVyT2Fxa09UR2RnSFZzb01LVzUwTW4xeldGOEFGZmZTaC1EV0NGWjVxN0dxOFh1bXI0SHM0b2hpRUhvaTFUZ2k1MFRUUkZ2ZFFMcjJNMUd3aWpHV1U2ajdWZWc4cmgySHJKa1RzMm5N?oc=5"
+      },
+      {
+        "rank": 14,
+        "title_ja": "AIデータセンターの環境負荷「隠蔽」に警鐘",
+        "summary": "FTの論説は、AI企業がデータセンター拡大に伴う環境負荷の実態を開示していないと指摘し、透明性の必要性を訴えている。",
+        "take": "💭 電力・水資源消費の実態が明らかになれば、規制強化や地域住民の反発がAI拡大のボトルネックになりかねない。ESG投資の観点でも見逃せない論点だ。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/7800ba0f-1420-49fe-b260-9838632a19a4"
+      },
+      {
+        "rank": 15,
+        "title_ja": "全東信破産、地銀と飲食業者に打撃　二次破綻の懸念",
+        "summary": "大阪拠点のクレジットカード決済処理会社「全東信」の破産により、地方銀行や飲食店に影響が波及。二次破綻を警戒する声が上がっている。",
+        "take": "💭 決済インフラの一社集中依存が招いた連鎖リスクの典型例。中小事業者のキャッシュフロー管理と決済プロバイダーの分散化が急務だ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE85N2lwc3l4SDZSQmt3QUR5SVZ6NGNXc0FCeXpqTWVlU2J3amJBMFNlUE5PdHprTXkzSzZKSFMxYkJDY19MbFdPVTExbGlnemRiMXFRN1JmVVprek1yejVCQnNnT0gxeG1nUllzTTBld190clRHY1lr?oc=5"
+      },
+      {
+        "rank": 16,
+        "title_ja": "全東信、粉飾決算で600億円超の債務超過の疑い",
+        "summary": "東京商工リサーチによると、全東信は粉飾決算により600億円を超える債務超過に陥っていた可能性がある。",
+        "take": "💭 決済代行業という信用が命の業態での粉飾は、業界全体への信頼失墜につながりかねない。監督体制の甘さも問われるだろう。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Dejl4RThITFlVb3ROb2JkRldiZENPajZ1R2Zoa3R2S1BvYmpVckR3eTUxYzZXMXFJM0phWXpIUzBTa2ptajRIZHpNb0l4MTgzZnh6cGEzOFgyMTFoRl9uV1ZLWktqVjJlUGJZcjE0cXhWbDVQOUhB?oc=5"
+      },
+      {
+        "rank": 17,
+        "title_ja": "FRB、インフレ高止まりなら利上げ視野に　FOMC議事要旨",
+        "summary": "FOMC議事要旨で、一部当局者がインフレが高止まりした場合の利上げの必要性を主張していたことが判明した。",
+        "take": "💭 利下げ期待が後退すれば株式市場のバリュエーションに逆風。中東情勢による原油高が加わればインフレ圧力は一段と複雑化する。",
+        "category": "経済",
+        "source": "Wall St Journal",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV2FGRGJzUnFTcXNtaUhSTWJFWWRnOHM3U0c3bUhiVkRxZWNmcXF1OFZtZU55VzFOa0lIMmFrbTA0dlZuRTFfM2tDR3ZvSDJOR3Q5elpic3dYS2hHYlZqU0YwQTZVWVRlV0tOSmdyNVBWbmQweTNBUVczUGE0b3V4b0xaY0hzVkltTFg4bHZnNlhQVXlKY3lZXzI1RjU?oc=5"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ispace、スペースXのスターシップで月へのライドシェア契約",
+        "summary": "東京拠点のispaceは、2030年にも打ち上げ予定のスターシップに500キログラムの輸送能力を5000万ドルで購入した。",
+        "take": "💭 日本の宇宙スタートアップが米国の巨大ロケットインフラを活用する構図は、自国開発能力とコスト効率のトレードオフを象徴する。月面ビジネスの競争が本格化する前兆だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/08/ispace-spacex-moon/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "決済処理会社の破綻、銀行と飲食店を直撃",
+        "summary": "大阪拠点のクレジットカード決済処理会社、全東信が月曜日に破産申請した。",
+        "take": "💭 決済網の単一障害点リスクが顕在化した事例。日本の中小企業金融インフラの脆弱性を浮き彫りにしている。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/08/companies/zentoshin-impact-restaurants/"
+      },
+      {
+        "rank": 20,
+        "title_ja": "「AIによる統治」への警鐘",
+        "summary": "政府がアルゴリズムに意思決定を委ねることの危険性について論じた論説。過去の事例から学ぶべき教訓を指摘している。",
+        "take": "💭 行政のAI活用は効率化の名の下に説明責任の空洞化を招く恐れがある。ブラックボックス化した意思決定への民主的統制の仕組みづくりが急務だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/commentary/2026/07/08/world/government-by-ai/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-08",
     "dateLabel": "2026年7月8日(水)",
     "generatedAt": "2026-07-07T22:10:48.008Z",
