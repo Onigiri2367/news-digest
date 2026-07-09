@@ -1,5 +1,193 @@
 [
   {
+    "date": "2026-07-10",
+    "dateLabel": "2026年7月10日(金)",
+    "generatedAt": "2026-07-09T22:20:58.723Z",
+    "overview": "米国とイランの{報復|ほうふく}攻撃の応酬が中東情勢を再び{緊迫|きんぱく}させ、ホルムズ海峡と原油市場に波及している。同時に、AI業界の主導権争いや半導体・金融市場の動きなど、地政学とテクノロジー・経済が絡み合う1日となった。",
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米、イランへ第2波の空爆　テヘランも応戦し死者14人に",
+        "summary": "米中央軍はイラン国内の90か所を攻撃したと発表。イラン保健省によると火曜日以降の攻撃で少なくとも14人が死亡した。停戦から一転、報復の応酬が続いている。",
+        "take": "💭 停戦の枠組みが事実上崩れつつあり、次はイランがどこまで対米・対イスラエルで反撃するかが焦点。原油と海運への波及が最大のリスク。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ホルムズ海峡の通行、原油・ガス船が急減",
+        "summary": "今週の攻撃を受け、ホルムズ海峡を通過する原油・ガス・貨物船の数が大きく減少しているとデータが示している。世界のエネルギー供給網への影響が懸念される。",
+        "take": "💭 世界の原油輸送の約2割が通る{要衝|ようしょう}が事実上{機能不全|きのうふぜん}に陥れば、日本を含むアジアのエネルギー調達コストに直撃する。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ハメネイ師死去後のイラン、新体制の行方",
+        "summary": "最高指導者ハメネイ師の死去を受け、息子のモジタバ・ハメネイ氏が新最高指導者となり、父が築いた政治体制を引き継ぐ形となった。国内外の反応が注目される。",
+        "take": "💭 世襲的な権力継承は{正統性|せいとうせい}の弱さを露呈しかねず、対外強硬路線を維持することで国内求心力を保とうとする可能性がある。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/iran-after-khamenei-a-new-order-takes-shape/a-77887756?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 4,
+        "title_ja": "米戦略石油備蓄、1983年以来の低水準に",
+        "summary": "米国の戦略石油備蓄（SPR）が1983年以来の低水準となっており、イランとの緊張激化のなかでエネルギー安全保障上の懸念が高まっている。",
+        "take": "💭 備蓄の薄さは有事の価格急騰への{緩衝材|かんしょうざい}不足を意味し、米政権のエネルギー政策の選択肢を狭めている。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ロシアの輸出停止で世界的な軽油不足の懸念",
+        "summary": "ウクライナによるドローン攻撃でロシアの製油所が大きな打撃を受け、ロシアが軽油輸出を停止したことで、世界的な軽油不足の{逼迫|ひっぱく}が懸念されている。",
+        "take": "💭 中東情勢とロシア製油所への攻撃が重なり、燃料市場の供給ショックが同時多発的に起きているのは見落とされがちなリスク。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/48959ee1-ccb9-48dc-8d85-1422a63ec234"
+      },
+      {
+        "rank": 6,
+        "title_ja": "中国AIショック、シリコンバレーを揺るがす",
+        "summary": "中国のAIモデル「GLM」の台頭が米シリコンバレーの競争構造を揺さぶっているとされ、米中のAI開発競争における勢力図の変化が指摘されている。",
+        "take": "💭 米国の対中規制にもかかわらず中国発の高性能モデルが実力を示せば、AI覇権論そのものの前提が揺らぐ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZGU2X3dMX19hUUFjRURPai1SSzNZLXBIdTZ3Um14TXlJYW43Z2JqVEt0LXhRMUxyWmx2eURqQlNiaDFhUzM2MlA2UlE5ZzRFWmF4RFRTSEVMbXloR0lrVUEyb3R0TFdWN0hBYk5IM1BPZ2tLQ004?oc=5"
+      },
+      {
+        "rank": 7,
+        "title_ja": "中国、Nvidia H200の輸入をついに解禁へ",
+        "summary": "米国が輸出を承認していたNvidiaのH200 GPUについて、北京側がこれまで及び腰だった姿勢を転換し、AI企業による購入を認める方向に動いた。",
+        "take": "💭 自国製AIチップの性能不足を{露呈|ろてい}する決定とも読めるが、短期的には中国AI産業の実力底上げにつながる。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/policy/article/3360027/game-changer-why-china-finally-letting-its-ai-firms-buy-nvidia-h200?utm_source=rss_feed"
+      },
+      {
+        "rank": 8,
+        "title_ja": "アンソロピック・OpenAI・スペースX、過去25年のテック上場を上回る規模へ",
+        "summary": "3社の大型IPOが実現すれば、2000年以降の米ベンチャー投資による全上場・売却案件の合計価値を上回る規模になると報じられている。",
+        "take": "💭 AIとロケットという2大フロンティア分野に資本が極端に集中している構図は、バブル的過熱と本質的な産業転換の両方の側面を持つ。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/"
+      },
+      {
+        "rank": 9,
+        "title_ja": "AI投資は3兆ドルに見合う効果を生むか",
+        "summary": "AI関連投資の投資対効果（ROI）を巡る議論が再燃しており、投資規模が拡大するほど、その正当化に必要な収益期待も膨らんでいる。",
+        "take": "💭 データセンターや電力インフラへの巨額投資が続くなか、実際の企業収益への転嫁がどこまで追いつくかが今後数年の焦点になる。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/"
+      },
+      {
+        "rank": 10,
+        "title_ja": "パロアルトCEO「AI料金は9割下げるべき」",
+        "summary": "パロアルトネットワークスのアローラCEOは、トークン利用コストの高騰が企業のAI導入拡大を妨げていると指摘し、価格の大幅な引き下げが必要だと述べた。",
+        "take": "💭 現場からの本音の指摘であり、AI企業の高い{粗利|あらり}前提のビジネスモデルが持続可能かという疑問を投げかけている。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora-ai-pricing.html"
+      },
+      {
+        "rank": 11,
+        "title_ja": "日本国債利回り、30年ぶり高水準に　日銀「後手」論争",
+        "summary": "10年物国債利回りが2.9%を超え、日銀が市場の動きに追いついていないのではという「ビハインド・ザ・カーブ」論争が起きている。",
+        "take": "💭 長期金利の急上昇は住宅ローンや企業の資金調達コストに直結し、日本の家計と企業双方に静かな圧力をかけ始めている。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/09/markets/behind-the-curve/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "骨太の方針、注釈に「日銀の独立性」明記へ",
+        "summary": "政府の経済財政運営の指針である「骨太の方針」の注釈に、日銀の金融政策の独立性を明記する方向で調整していると関係者が明らかにした。あくまで市場対応との位置づけ。",
+        "take": "💭 政府が日銀の独立性にわざわざ言及すること自体、市場からの政治介入懸念を意識した{布石|ふせき}と読める。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50NlA2Z1ZJSDFJR0pZdFFMY09JSHVxZFV3ODBDclY0LUdmeHlTWXNzV1ZJQXFkeFFjZUlJZWpCb0N1ak45akQ4Q2dtaVhTLURHWXR4TVRJU19aa195RmtnMlpVOWVYU1dmZzAxcWhCUWlrdHpsQVN6bWdCSmJPQQ?oc=5"
+      },
+      {
+        "rank": 13,
+        "title_ja": "日本生命社長「超長期金利は想定ぎりぎり」　30年債4%超え",
+        "summary": "日本生命保険の社長が超長期金利の上昇について「想定のぎりぎり」との認識を示した。30年国債利回りは足元で4%を超えている。",
+        "take": "💭 生保の資産運用戦略に直結する話で、超長期金利の急伸が保険料や年金運用にも波及する可能性がある。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVnB5LVdoelpqOUZEMjFsQ2g2STcwUW9kZUt0OERkN0hpd0lFQ2Jpd0JyNDdZeVdEZkpqNzNqQUp2QldJOEpwR21sdW5Tc1BrWnhTUExEQlFCeUhyNkVlOUJkMnY1WS14YlR2Rnp5X25CNWZ0ZTNJ?oc=5"
+      },
+      {
+        "rank": 14,
+        "title_ja": "決済会社ゼントウシン破綻、債権者に700億円の請求",
+        "summary": "大阪の決済会社ゼントウシンの経営破綻により、63の債権者が総額1151億6000万円の債権を持つ事態となっている。歓楽街への影響も報じられている。",
+        "take": "💭 中小企業向け決済インフラの一角が崩れたことで、連鎖的な資金繰り悪化が波及していないか注視が必要。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/09/lenders-700m-payment-firm-collapse/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "セブン&アイ、増益見通しに上方修正　立て直しに期待",
+        "summary": "セブン&アイ・ホールディングスは2027年2月期の営業利益見通しを4250億円に上方修正した。従来予想の4050億円から引き上げ、経営再建への期待が高まっている。",
+        "take": "💭 買収提案騒動を経ての増益修正は、経営陣が独立路線での企業価値向上を示す材料として重視しているはず。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/09/seven-profit-outlook-turnaround/"
+      },
+      {
+        "rank": 16,
+        "title_ja": "VW従業員、ドイツで人員削減に抗議デモ",
+        "summary": "フォルクスワーゲンが最大10万人の人員削減と工場閉鎖を含む抜本的な事業再編案を監査役会に提出し、ドイツ国内18か所で従業員による抗議デモが行われた。",
+        "take": "💭 欧州自動車産業のEVシフトの{歪|ひず}みが雇用に直撃しており、ドイツ製造業の構造転換の痛みが本格化している。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures"
+      },
+      {
+        "rank": 17,
+        "title_ja": "アジア同盟国、米ミサイル在庫減少でミサイル増産へ",
+        "summary": "米国のミサイル在庫が減少するなか、日本や韓国など米国のアジアの同盟国がミサイル生産能力の拡大を進めているとみられる。",
+        "take": "💭 台湾有事や朝鮮半島情勢を見据え、米国の抑止力を補完する形で域内の防衛産業が急速に厚みを増しつつある。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/spotlight/policy-asia/asian-allies-build-up-missile-production-as-us-stockpile-dwindles"
+      },
+      {
+        "rank": 18,
+        "title_ja": "中国、台湾東側で海警巡視を「新常態」に",
+        "summary": "中国海警局が台湾東側の海域で通航する貨物船に対し乗組員情報などを無線で照会する動きを初めて行い、既成事実化を進めている。",
+        "take": "💭 台湾封鎖の予行演習とも取れる動きで、日本のシーレーン防衛にも直結する問題として警戒が必要。",
+        "category": "アジア",
+        "source": "The Hindu",
+        "link": "https://www.thehindu.com/news/international/china-signals-new-normal-with-coast-guard-patrols-off-taiwans-east/article71199657.ece"
+      },
+      {
+        "rank": 19,
+        "title_ja": "コンゴのエボラ流行、過去最速のペースで拡大　死者600人",
+        "summary": "コンゴ民主共和国で発生しているエボラ出血熱の流行は、過去に例のない速さで拡大していると当局が発表した。感染確認数は1759件に達している。",
+        "take": "💭 医療インフラの脆弱な地域での急拡大は、国際的な渡航・貿易制限に発展しかねず、早期の国際支援が焦点になる。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/africa/article/3360036/ebola-outbreak-fastest-growing-ever-600-die-dr-congo?utm_source=rss_feed"
+      },
+      {
+        "rank": 20,
+        "title_ja": "三菱自動車、東大発ベンチャーと人型ロボット開発で協業",
+        "summary": "三菱自動車は東京大学発のロボットベンチャーと提携し、自社工場向けの人型ロボット開発を進めるため追加出資を行う方針を明らかにした。",
+        "take": "💭 自動車メーカーが人手不足解消のため人型ロボットの内製化に踏み出す動きは、製造業の労働力構造を変える先行事例になり得る。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdlNKV3doOTBPdzM0ZU94X0R3TUdJMXE5N1FPeHdhcTg0Q1o5WmllLTh5SnJZMzNUeHJhRk12a0d5Q096b3ROVm04eUJ5c0RWOUFkUmlXX2h5QWNZRFdOUkN6aks0X18ybXdMQ0RxUHBGbFJkR1luUFJsTmVXaVFiNkZwVUc?oc=5"
+      }
+    ]
+  },
+  {
     "date": "2026-07-09",
     "dateLabel": "2026年7月9日(木)",
     "generatedAt": "2026-07-09T10:24:19.624Z",
