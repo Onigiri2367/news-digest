@@ -36,6 +36,17 @@ function esc(s = "") {
     .replace(/"/g, "&quot;");
 }
 
+// Claudeが出力する {漢字|かんじ} 記法を <ruby>漢字<rt>かんじ</rt></ruby> に変換（ふりがな）。
+// esc のあとに呼ぶこと（記法の { | } は esc で壊れないので安全）。
+function ruby(s = "") {
+  return s.replace(/\{([^{}|]+)\|([^{}|]+)\}/g, "<ruby>$1<rt>$2</rt></ruby>");
+}
+
+// Claude生成テキスト用（エスケープ＋ふりがな）。見出し・要約・コメント・総括に使う。
+function fmt(s = "") {
+  return ruby(esc(s));
+}
+
 // JSTでの日付関連の文字列を作る
 function jstDateParts(now = new Date()) {
   const key = now.toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" }); // YYYY-MM-DD
@@ -66,11 +77,11 @@ function renderStories(stories) {
       const link = s.link
         ? `<a class="src" href="${esc(s.link)}" target="_blank" rel="noopener">▶ ${esc(s.source)}で読む</a>`
         : "";
-      const take = s.take ? `<p class="take">${esc(s.take)}</p>` : "";
+      const take = s.take ? `<p class="take">${fmt(s.take)}</p>` : "";
       return `
       <article class="story">
-        <h3><span class="badge">${emoji} ${esc(s.category || "")}</span>${i + 1}. ${esc(s.title_ja)}</h3>
-        <p class="summary">${esc(s.summary)}</p>
+        <h3><span class="badge">${emoji} ${esc(s.category || "")}</span>${i + 1}. ${fmt(s.title_ja)}</h3>
+        <p class="summary">${fmt(s.summary)}</p>
         ${take}
         ${link}
       </article>`;
@@ -80,7 +91,7 @@ function renderStories(stories) {
 
 function renderEntry(entry, { open }) {
   const overview = entry.overview
-    ? `<p class="overview">${esc(entry.overview)}</p>`
+    ? `<p class="overview">${fmt(entry.overview)}</p>`
     : "";
   const body = `
     ${overview}
@@ -95,7 +106,7 @@ function renderEntry(entry, { open }) {
     </section>`;
   }
   const titles = (entry.stories || [])
-    .map((s) => esc(s.title_ja))
+    .map((s) => fmt(s.title_ja))
     .slice(0, 3)
     .join(" ・ ");
   return `
@@ -152,7 +163,10 @@ function renderHtml(history) {
     background: var(--card); border:1px solid #232c49; border-radius: 14px;
     padding: 16px 16px 14px; margin: 0 0 14px;
   }
-  .story h3 { margin: 0 0 6px; font-size: 1.08rem; line-height: 1.5; }
+  .story h3 { margin: 0 0 6px; font-size: 1.08rem; line-height: 1.9; }
+  /* ふりがな（ルビ）: 読みは小さめ・控えめの色に */
+  ruby rt { font-size: 0.58em; color: var(--muted); font-weight: 400; user-select: none; }
+  .summary, .take, .overview, .story h3 { line-height: 2.0; }
   .badge {
     display:inline-block; font-size:.72rem; color:#cdd6f0; background:#222c4a;
     border-radius:999px; padding:2px 9px; margin-right:8px; vertical-align: middle; font-weight:600;
