@@ -2,188 +2,188 @@
   {
     "date": "2026-07-09",
     "dateLabel": "2026年7月9日(木)",
-    "generatedAt": "2026-07-09T10:19:05.723Z",
-    "overview": "{米国|べいこく}によるイラン再攻撃で{中東|ちゅうとう}情勢が一気に緊迫化し、{原油|げんゆ}・株式市場が動揺。{NATO|なとー}{首脳会議|しゅのうかいぎ}での{防衛|ぼうえい}{強化|きょうか}合意やAI・{半導体|はんどうたい}をめぐる{米中|べいちゅう}の{駆|か}け引きも、今日の世界を動かす主要な{潮流|ちょうりゅう}です。",
+    "generatedAt": "2026-07-09T10:24:19.624Z",
+    "overview": "米国とイランの{停戦|ていせん}が事実上崩壊し中東情勢が再び緊迫する中、NATO{首脳|しゅのう}会議での防衛費合意やAI・半導体分野の勢力図変化など、地政学と経済の両面で世界秩序の再編が進んでいます。",
     "stories": [
       {
         "rank": 1,
-        "title_ja": "{米国|べいこく}、イランへの{攻撃|こうげき}を2日連続で{実施|じっし}",
-        "summary": "トランプ大統領が{停戦|ていせん}{合意|ごうい}を「終わった」と{宣言|せんげん}した後、{米軍|べいぐん}はイラン国内3か所を再攻撃した。イランも{報復|ほうふく}として{米軍|べいぐん}関連{施設|しせつ}を{標的|ひょうてき}にしたとされる。",
-        "take": "💭 {停戦|ていせん}の{崩壊|ほうかい}は{地政学|ちせいがく}リスクの再燃を意味し、{原油|げんゆ}価格や{同盟国|どうめいこく}の{立場|たちば}にも{連鎖|れんさ}的な{影響|えいきょう}が出る可能性がある。",
+        "title_ja": "米国がイランへの空爆を2日連続で実施、トランプ氏「停戦は終わった」",
+        "summary": "トランプ大統領は{暫定|ざんてい}停戦合意が「終わった」と宣言し、米軍はイラン国内3か所を再攻撃しました。イランも報復としてバーレーン・クウェート・カタールの米軍関連施設を攻撃したと発表しています。",
+        "take": "💭 停戦の枠組みが機能不全に陥っており、ホルムズ海峡の緊張が続けば原油価格と世界経済への波及は避けられません。",
         "category": "世界",
         "source": "The Guardian",
         "link": "https://www.theguardian.com/world/2026/jul/08/us-carries-out-another-wave-of-strikes-on-iran"
       },
       {
         "rank": 2,
-        "title_ja": "ホルムズ{海峡|かいきょう}はイランの「切り{札|ふだ}」であり続けるか",
-        "summary": "イランは{海峡|かいきょう}{封鎖|ふうさ}や{船舶|せんぱく}への{攻撃|こうげき}を{通|つう}じて{原油|げんゆ}輸送を{混乱|こんらん}させる{能力|のうりょく}を{誇示|こじ}している。この{戦略|せんりゃく}が{湾岸|わんがん}{諸国|しょこく}を巻き込みつつ、どこまで有効かが問われている。",
-        "take": "💭 {海峡|かいきょう}{封鎖|ふうさ}は{世界|せかい}の{原油|げんゆ}{供給|きょうきょう}の急所であり、{日本|にほん}のエネルギー安全保障にも直結する{構造|こうぞう}的リスクだ。",
+        "title_ja": "ホルムズ海峡はなおイランの「切り札」か",
+        "summary": "イランは最近の攻撃で、海運・エネルギー市場を{混乱|こんらん}させ湾岸諸国を巻き込む能力を改めて示しました。ただし高{リスク|りすく}戦略が{裏目|うらめ}に出る可能性も指摘されています。",
+        "take": "💭 海峡封鎖の脅しは交渉カードとして有効ですが、実行すれば自国の対外貿易も打撃を受けるという{諸刃|もろは}の剣です。",
         "category": "世界",
         "source": "Deutsche Welle",
         "link": "https://www.dw.com/en/is-the-strait-of-hormuz-still-iran-s-trump-card/a-77870807?maca=en-rss-en-all-1573-rdf"
       },
       {
         "rank": 3,
-        "title_ja": "米国株、イラン{情勢|じょうせい}悪化で{主要|しゅよう}3{指数|しすう}そろって下落",
-        "summary": "トランプ氏の「イラン{合意|ごうい}終了」発言を受け、{米国|べいこく}株式市場は序盤から{主要|しゅよう}3{指数|しすう}が{軒並|のきな}み下落した。{地政学|ちせいがく}リスクの高まりが{投資家|とうしか}{心理|しんり}を冷やしている。",
-        "take": "💭 {戦争|せんそう}リスクの再燃は{原油|げんゆ}高・インフレ再燃・{金融|きんゆう}引き締め{長期|ちょうき}化という{三重苦|さんじゅうく}を市場にもたらしかねない。",
+        "title_ja": "米国株式市場が下落、「イラン合意終了」発言が重し",
+        "summary": "トランプ氏の「イラン停戦は終わった」との発言を受け、米主要3指数が{軒並|のきな}み下落しました。長期金利も数週間ぶりの高水準に達しています。",
+        "take": "💭 地政学リスクの再燃と金利上昇が同時進行しており、株式市場は「悪い金利上昇」の局面に入りつつあります。",
         "category": "世界",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWw3TUcwVjRCYXRTakR5V29Oam1XcERYSV9xUm9BWXRXVmFaNjVVRHVmOU5ZT2IzNjZGek1oX0FxeWdGcnJJdXhZV2pfOGMwbl8zand1NW9SdHlpZndBeDFqVVU1NkNwNkx5eWFsT2xROWJCdHJGWUMzTlJLQ0Q5Rg?oc=5"
       },
       {
         "rank": 4,
-        "title_ja": "{独|どく}、NATO{首脳会議|しゅのうかいぎ}でトマホーク{購入|こうにゅう}を{合意|ごうい}",
-        "summary": "{独|どく}{首相|しゅしょう}メルツ氏は、{米国|べいこく}製トマホーク{巡航|じゅんこう}ミサイルを{購入|こうにゅう}し{独|どく}国内に{配備|はいび}することで{合意|ごうい}したと{議会|ぎかい}に報告した。「{重要|じゅうよう}な{戦略|せんりゃく}的{空白|くうはく}を埋める」と{説明|せつめい}している。",
-        "take": "💭 {欧州|おうしゅう}の再{軍備|ぐんび}が{加速|かそく}しており、{独|どく}の{防衛|ぼうえい}{政策|せいさく}の{転換|てんかん}は{日本|にほん}の{防衛|ぼうえい}{予算|よさん}{議論|ぎろん}にも{示唆|しさ}を与える。",
+        "title_ja": "独、NATO首脳会議でトマホーク・ミサイル購入に合意",
+        "summary": "ドイツのメルツ首相は、米国製トマホーク巡航ミサイルを購入しドイツ国内に配備することで合意したと{議会|ぎかい}に報告しました。「防衛上の重要な{空白|くうはく}を埋める」と説明しています。",
+        "take": "💭 欧州の再軍備が加速しており、ドイツが安全保障の主要プレーヤーへ回帰する象徴的な一歩と言えます。",
         "category": "世界",
         "source": "Deutsche Welle",
         "link": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-all-1573-rdf"
       },
       {
         "rank": 5,
-        "title_ja": "ウクライナへパトリオット{製造|せいぞう}ライセンス{付与|ふよ}へ",
-        "summary": "トランプ氏はウクライナに{対|たい}し、パトリオットミサイルの{現地|げんち}{製造|せいぞう}ライセンスを{付与|ふよ}すると{発表|はっぴょう}した。{迎撃|げいげき}{能力|のうりょく}は{高|たか}いが{製造|せいぞう}には{長期間|ちょうきかん}を要する。",
-        "take": "💭 {自国|じこく}{生産|せいさん}{能力|のうりょく}の{移転|いてん}は{長期戦|ちょうきせん}を見据えた支援の質的{転換|てんかん}であり、{欧州|おうしゅう}の{防衛|ぼうえい}{産業|さんぎょう}{政策|せいさく}にも波及しうる。",
+        "title_ja": "ウクライナにパトリオット・ミサイルの製造ライセンス付与へ",
+        "summary": "トランプ氏はウクライナに対し、パトリオット{迎撃|げいげき}ミサイルの自国生産を認めるライセンスを供与すると表明しました。ロシアの弾道ミサイルに極めて有効な兵器ですが、製造には長い期間を要します。",
+        "take": "💭 即効性より長期的な防衛自立を狙った措置であり、ウクライナ支援の「持久戦」シフトを示唆しています。",
         "category": "世界",
         "source": "BBC World",
         "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss"
       },
       {
         "rank": 6,
-        "title_ja": "チェコ{首相|しゅしょう}、ウクライナ支援700{億|おく}ユーロに不参加",
-        "summary": "チェコの{首相|しゅしょう}は、ウクライナ向け700{億|おく}ユーロの{欧州|おうしゅう}支援策への不参加を表明した。ウクライナ支援をめぐる{欧州|おうしゅう}内の{足並|あしな}みの乱れが浮き彫りになっている。",
-        "take": "💭 {欧州|おうしゅう}の支援{疲|つか}れが表面化しつつあり、{結束|けっそく}の{綻|ほころ}びが{今後|こんご}の{和平|わへい}{交渉|こうしょう}での{立場|たちば}を弱める{懸念|けねん}がある。",
+        "title_ja": "チェコ首相、ウクライナ向け700億ユーロ支援に不参加を表明",
+        "summary": "チェコの{首相|しゅしょう}は、欧州が検討するウクライナ向け700億{ユーロ}規模の支援策への参加を見送ると表明しました。欧州内でウクライナ支援を巡る{足並|あしな}みの乱れが浮き彫りになっています。",
+        "take": "💭 欧州の結束にひび割れが生じつつあり、ウクライナ支援の持続可能性に疑問符が付き始めています。",
         "category": "世界",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWWdBWWZZUjhZQUZScEM5bzF2d1NTZ004OWZZYV9OYjIzNnFQXzVReXFacC01SHpsWTF5MXJweUg2WmRYWElTOEZvVW9xdzU4Z2o1SW5pdHVGeEZ3a1BKakNGSGVvcGJocDJWNFhWV2tUXzF4ZjA5cWk0NVpSdW5MQw?oc=5"
       },
       {
         "rank": 7,
-        "title_ja": "{中国|ちゅうごく}、エヌビディア「H200」の{限定|げんてい}{購入|こうにゅう}を{容認|ようにん}へ",
-        "summary": "{中国|ちゅうごく}政府は{国内|こくない}{主要|しゅよう}AI{企業|きぎょう}に{対|たい}し、エヌビディア製の{先端|せんたん}{半導体|はんどうたい}「H200」の{限定|げんてい}{購入|こうにゅう}を{認|みと}める{方針|ほうしん}と報じられた。{米中|べいちゅう}の{半導体|はんどうたい}{輸出|ゆしゅつ}規制をめぐる{駆|か}け引きが続く。",
-        "take": "💭 {中国|ちゅうごく}が{規制|きせい}緩和を受け入れる背景には{国内|こくない}AI{企業|きぎょう}の{計算|けいさん}{資源|しげん}不足があり、{米中|べいちゅう}{技術|ぎじゅつ}{覇権|はけん}争いの{均衡点|きんこうてん}を探る動きと見るべきだ。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHNYYl95Ry1ZNEExNjc5LTMyR0hvNTJJaUxxZTN6ZnB1b0tFcVRlcGZ4OG1YS2Nlal9XeHpYOXg4akZnRTJHeS0teWJ5OFU5TG9EODBibXlhQzFBM1B3Uk5XOURJazJXRVd2OTkybFVRN0NaNWNiMVZ4ZmRJTGZRRnQ4SUp6dW5yWmhj?oc=5"
+        "title_ja": "NATO、トランプ氏との「二極」的な首脳会議を乗り切る",
+        "summary": "{加盟|かめい}国は防衛費増額でトランプ氏に{譲歩|じょうほ}する形となり、同盟の結束を保ちました。ウクライナへの支援継続も一定程度確保されたとみられています。",
+        "take": "💭 トランプ氏への「おだて外交」が功を奏した形ですが、同盟の結束は本質的な信頼よりも取引の上に成り立っています。",
+        "category": "経済",
+        "source": "The Economist",
+        "link": "https://www.economist.com/europe/2026/07/08/nato-survives-its-bipolar-summit-with-donald-trump"
       },
       {
         "rank": 8,
-        "title_ja": "{中国|ちゅうごく}AIショック、シリコンバレー{揺|ゆ}るがす－GLMが変える{勢力図|せいりょくず}",
-        "summary": "{中国|ちゅうごく}発のAIモデル「GLM」の{台頭|たいとう}が、シリコンバレーのAI{企業|きぎょう}に{衝撃|しょうげき}を与えている。{低|ひく}コストで{高性能|こうせいのう}な{中国|ちゅうごく}製モデルが{米国|べいこく}{勢|ぜい}の{優位|ゆうい}性に{疑問|ぎもん}を{投|とう}げかけている。",
-        "take": "💭 AIの{競争|きょうそう}軸は{モデル性能|せいのう}から「コストパフォーマンス」へ移りつつあり、{米国|べいこく}{企業|きぎょう}の{高|たか}{評価|ひょうか}にも見直し{圧力|あつりょく}がかかる。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZGU2X3dMX19hUUFjRURPai1SSzNZLXBIdTZ3Um14TXlJYW43Z2JqVEt0LXhRMUxyWmx2eURqQlNiaDFhUzM2MlA2UlE5ZzRFWmF4RFRTSEVMbXloR0lrVUEyb3R0TFdWN0hBYk5IM1BPZ2tLQ004?oc=5"
-      },
-      {
-        "rank": 9,
-        "title_ja": "{米|べい}{長期|ちょうき}{金利|きんり}、30{年|ねん}ぶりに一時2.9％",
-        "summary": "{米国|べいこく}の{長期|ちょうき}{金利|きんり}が一時2.9％まで上昇し、30{年|ねん}ぶりの水準となった。インフレ{懸念|けねん}や{財政|ざいせい}リスクへの{警戒|けいかい}が{背景|はいけい}にある。",
-        "take": "💭 {金利|きんり}上昇が{長期化|ちょうきか}すれば{住宅|じゅうたく}・{企業|きぎょう}{投資|とうし}への{下押|したお}し圧力が強まり、{株式|かぶしき}市場の{割高|わりだか}感も{再燃|さいねん}しやすい。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JYlJfcjlObWRlUlo3NlVJTzEtUWh6NVlGc25YMG5ZRzl3eWVCb2xiZ3o2RXFQSEMyUlFlbE5fMzkxY01JZXFRTExEYk1NVzlXenU3TVpvaVNlTzhOQ05jTzBDOE5WZlRDX0hGd0xrOVJnRzV0alYtSA?oc=5"
-      },
-      {
-        "rank": 10,
-        "title_ja": "6{月|がつ}FOMC、利上げ{論|ろん}を「{数人|すうにん}」が{主張|しゅちょう}－{議事|ぎじ}要旨",
-        "summary": "{公表|こうひょう}された6{月|がつ}FOMC{会合|かいごう}の{議事|ぎじ}要旨で、一部の{当局者|とうきょくしゃ}が利上げの{論拠|ろんきょ}を{主張|しゅちょう}していたことが{判明|はんめい}した。{金融|きんゆう}{当局|とうきょく}内の{意見|いけん}の{分裂|ぶんれつ}が{浮|う}き彫りとなった。",
-        "take": "💭 インフレ{再燃|さいねん}リスクとイラン{情勢|じょうせい}が{重|かさ}なれば、FRBの{利下げ|りさげ}{路線|ろせん}が{一段|いちだん}と{不透明|ふとうめい}になる。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1lWmhzcHAyM0VLZGRVSTJKZklLZXUwR3M1Vm5mb0t2R2RNUnkza2dCZ2JaRGNNeElzMm5JWWFEMWc3Q1RldEdtbGVOVEtoS0JaR0V6M2oxM0hEeDVsZ2stajZPQUVwTlhkUHBpWEhuMmlLSkJ6elZN?oc=5"
-      },
-      {
-        "rank": 11,
-        "title_ja": "{韓国|かんこく}{最高裁|さいこうさい}、{尹|ユン}{前|ぜん}{大統領|だいとうりょう}への7{年|ねん}{実刑|じっけい}を{確定|かくてい}",
-        "summary": "{韓国|かんこく}の{最高裁|さいこうさい}は{尹錫悦|ユン・ソンニョル}{前|ぜん}{大統領|だいとうりょう}の{上告|じょうこく}を{棄却|ききゃく}し、7{年|ねん}の{実刑|じっけい}{判決|はんけつ}を{確定|かくてい}させた。{法的|ほうてき}{解釈|かいしゃく}に{誤|あやま}りはなかったとしている。",
-        "take": "💭 {戒厳令|かいげんれい}をめぐる{政治|せいじ}的{混乱|こんらん}に{司法|しほう}の{決着|けっちゃく}がつき、{韓国|かんこく}{政治|せいじ}の{不確実性|ふかくじつせい}が一つ{解消|かいしょう}される一方、{保守|ほしゅ}層の{反発|はんぱつ}は残る。",
+        "title_ja": "韓国最高裁、尹前大統領の実刑判決を確定",
+        "summary": "韓国の最高裁判所は{尹|ユン}前大統領への7年の実刑判決を{支持|しじ}し、上告を{棄却|ききゃく}しました。裁判所は{法解釈|ほうかいしゃく}に誤りはなかったと判断しています。",
+        "take": "💭 韓国政治の混乱に一区切りが付く形ですが、保守派の反発が今後の政局に影を落とす可能性があります。",
         "category": "世界",
         "source": "Deutsche Welle",
         "link": "https://www.dw.com/en/south-korea-s-top-court-upholds-ex-president-yoon-s-7-year-sentence/a-77883414?maca=en-rss-en-all-1573-rdf"
       },
       {
+        "rank": 9,
+        "title_ja": "豪印、ウラン輸出で合意 モディ首相訪問中に",
+        "summary": "オーストラリアとインドはウラン輸出で合意しました。インドは2047年までに原子力発電能力100{ギガワット}を目指しており、豪州産ウランの獲得を長年目指していました。",
+        "take": "💭 インド太平洋における資源・エネルギー同盟が強化されており、対中{牽制|けんせい}の文脈でも豪印関係の深化が注目されます。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss"
+      },
+      {
+        "rank": 10,
+        "title_ja": "中国、エヌビディア「H200」の限定購入を国内AI企業に容認へ",
+        "summary": "報道によれば、中国政府は国内の主要AI企業に対しエヌビディア製「H200」{半導体|はんどうたい}の限定的な購入を認める方針です。米中間の半導体規制を巡る駆け引きが続いています。",
+        "take": "💭 米国の輸出規制の実効性が問われる局面であり、AI開発競争における半導体アクセスの重要性を改めて示しています。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVHNYYl95Ry1ZNEExNjc5LTMyR0hvNTJJaUxxZTN6ZnB1b0tFcVRlcGZ4OG1YS2Nlal9XeHpYOXg4akZnRTJHeS0teWJ5OFU5TG9EODBibXlhQzFBM1B3Uk5XOURJazJXRVd2OTkybFVRN0NaNWNiMVZ4ZmRJTGZRRnQ4SUp6dW5yWmhj?oc=5"
+      },
+      {
+        "rank": 11,
+        "title_ja": "中国AIショック、シリコンバレーを揺るがす",
+        "summary": "中国のAIモデル「GLM」の台頭が、米シリコンバレーの競争構造に{衝撃|しょうげき}を与えています。低コストで高性能なモデルが米国企業の優位性に挑戦しています。",
+        "take": "💭 AI開発の「コスト優位」が中国勢の武器となっており、米国の技術的優位を前提とした投資戦略の見直しを迫られています。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GZGU2X3dMX19hUUFjRURPai1SSzNZLXBIdTZ3Um14TXlJYW43Z2JqVEt0LXhRMUxyWmx2eURqQlNiaDFhUzM2MlA2UlE5ZzRFWmF4RFRTSEVMbXloR0lrVUEyb3R0TFdWN0hBYk5IM1BPZ2tLQ004?oc=5"
+      },
+      {
         "rank": 12,
-        "title_ja": "{台湾|たいわん}の{輸出|ゆしゅつ}、上半期に{約|やく}50％増－「AI{島|とう}」{戦略|せんりゃく}が{奏功|そうこう}",
-        "summary": "{台湾|たいわん}の上半期{輸出|ゆしゅつ}が前年比{約|やく}50％増となり、{頼清徳|らいせいとく}{総統|そうとう}が{掲|かか}げる「AI{島|とう}」{構想|こうそう}が{成果|せいか}を上げている。AI{半導体|はんどうたい}{需要|じゅよう}の{急拡大|きゅうかくだい}が{追|お}い風となった。",
-        "take": "💭 {台湾|たいわん}のAI{半導体|はんどうたい}{依存|いぞん}が{深|ふか}まるほど、{地政学|ちせいがく}リスクが{世界|せかい}の{供給網|きょうきゅうもう}に与える{影響|えいきょう}も大きくなる。",
-        "category": "アジア",
-        "source": "Nikkei Asia",
-        "link": "https://asia.nikkei.com/economy/taiwan-s-exports-rise-nearly-50-in-first-half-as-lai-builds-ai-island"
+        "title_ja": "AIマネーのシフト鮮明に、エヌビディア株は2019年以来の割安水準",
+        "summary": "AI関連投資資金の流れが変化し、エヌビディア株の{評価|ひょうか}が2019年以来の割安水準まで低下しています。AI投資先の多様化が進んでいるとみられます。",
+        "take": "💭 AIバブルの「一強」構造が崩れつつあり、投資家は次の勝ち組を見極める段階に入っています。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EMkJpVXpvWEZjaTJqNlZfTUgtSWQtYk1SOFdMTVlFWENySVlSUjBTbjVWVzFNWUlGUng5YmFiaGNrSVRxZDVLb0FqbERXTVFOdEtnV2RFT25UdE9BUDZhUXpIRHdscmVwUXdJaHotdGxUS1lYVnVJ?oc=5"
       },
       {
         "rank": 13,
-        "title_ja": "{米|べい}ベイン、キオクシアHD{株|かぶ}を{全|すべ}て{売却|ばいきゃく}",
-        "summary": "{米|べい}{投資|とうし}{会社|がいしゃ}ベインキャピタルが、{保有|ほゆう}していたキオクシアホールディングス{株|かぶ}を{全て|すべて}{売却|ばいきゃく}したと報じられた。{記録的|きろくてき}な{投資|とうし}リターンを得たとされる。",
-        "take": "💭 {半導体|はんどうたい}メモリー市況の{回復|かいふく}を{見越|みこ}した{利益|りえき}{確定|かくてい}であり、AIブームが{齎|もたら}した{恩恵|おんけい}が{投資家|とうしか}の{出口戦略|でぐちせんりゃく}にも{反映|はんえい}されている。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUXRWYk5ZcnNWQ3V2YmluZzJFQnhwa1MzSUFUZjU1TDM3dkxiZjhjdng3UjFlUnNDd0pocnVpcmg3aVdMdW1yMTQ5cXhxeW84Ri1wdEw0ZExSRTJ0b3cyZER1NThTWHNxZ1E1NzdlQjZJak9CaWhIRWgwdnlHSnZ0TUxvUlBtei0xQlVWNg?oc=5"
+        "title_ja": "OpenAI、コーディング評価{基準|きじゅん}「SWE-Bench Pro」の問題点を指摘",
+        "summary": "OpenAIの新しい分析により、人気の高いコーディング評価{基準|きじゅん}「SWE-Bench Pro」に信頼性・正確性の問題があることが明らかになりました。AIモデル評価の在り方に一石を投じています。",
+        "take": "💭 AI性能競争が過熱する中、評価基準自体の信頼性が揺らげば業界全体の「誇大広告」問題が一層深刻化します。",
+        "category": "AI",
+        "source": "OpenAI",
+        "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
       },
       {
         "rank": 14,
-        "title_ja": "{日本|にほん}{格付|かくづ}け「{安定|あんてい}」{維持|いじ}、{高市|たかいち}{政策|せいさく}で市場動揺もムーディーズ{評価|ひょうか}",
-        "summary": "ムーディーズは{日本|にほん}の{国債|こくさい}{格付|かくづ}けを「{安定|あんてい}」で{維持|いじ}した。{高市|たかいち}{政権|せいけん}の{経済|けいざい}{政策|せいさく}をめぐり市場が動揺する場面もあったが、{評価|ひょうか}への{影響|えいきょう}は{限定|げんてい}的とされる。",
-        "take": "💭 {財政|ざいせい}{規律|きりつ}への{懸念|けねん}は{根強|ねづよ}く、{長期|ちょうき}{金利|きんり}上昇と{相|あい}まって{政権|せいけん}の{政策|せいさく}{余地|よち}を{狭|せば}める可能性がある。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Dd05UVU93U2QxTzV1Sm95cEhFVTAwd3FiNlVsSWNwZElhRWVfSnYzRDhGQ0QzUUdRelp4blBpNEV0YzhMcFVGQjgzRjU2Ny1KaDJTSXZZVGEtN3otMmdZNEZMdXBOc0NRTWR6S2xYSkhXNU4tVlhv?oc=5"
+        "title_ja": "OpenAI、より自然な会話向けの新音声モデルを発表",
+        "summary": "OpenAIは話すことと聞くことを同時に行える新しい音声{対応|たいおう}モードを公開しました。同時通訳など、リアルタイム会話の応用に重要な機能とされています。",
+        "take": "💭 音声AIの自然さが実用の分水嶺であり、これが実現すれば通訳・接客・{教育|きょういく}分野での置き換えが加速するでしょう。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
       },
       {
         "rank": 15,
-        "title_ja": "{長期|ちょうき}{金利|きんり}、30{年|ねん}ぶり高水準－{日銀|にちぎん}「{後手|ごて}」{論争|ろんそう}",
-        "summary": "{日本|にほん}の10{年|ねん}{国債|こくさい}{利回り|りまわり}が2.9％を{超|こ}え、{日銀|にちぎん}の{金融|きんゆう}{政策|せいさく}が市場に{後手|ごて}に回っているかが{議論|ぎろん}となっている。アナリストの見解は分かれている。",
-        "take": "💭 {住宅|じゅうたく}ローンや{企業|きぎょう}{借入|かりいれ}コストへの{影響|えいきょう}が{家計|かけい}・{企業|きぎょう}{双方|そうほう}に及び始めており、{日銀|にちぎん}の次の一手が{注目|ちゅうもく}される。",
+        "title_ja": "日本の長期金利、30年ぶりの高水準に",
+        "summary": "10年物国債利回りが2.9%を超え、日銀が市場に「後手」に回っているとの見方が議論されています。一部の{アナリスト}は日銀が市場に追い越されているわけではないと反論しています。",
+        "take": "💭 金利上昇局面での日銀の政策運営が試されており、住宅ローンや企業の資金調達コストへの影響が家計にも及び始めます。",
         "category": "日本",
         "source": "Japan Times",
         "link": "https://www.japantimes.co.jp/business/2026/07/09/markets/behind-the-curve/"
       },
       {
         "rank": 16,
-        "title_ja": "{豪印|ごういん}、ウラン{輸出|ゆしゅつ}で{合意|ごうい}－モディ{首相|しゅしょう}{訪問|ほうもん}で",
-        "summary": "オーストラリアとインドが、ウラン{輸出|ゆしゅつ}に{関|かん}する{協定|きょうてい}に{合意|ごうい}した。インドは2047{年|ねん}までに{原子力|げんしりょく}{発電|はつでん}{容量|ようりょう}100ギガワットを{目指|めざ}している。",
-        "take": "💭 インド太平洋における{資源|しげん}・{防衛|ぼうえい}{協力|きょうりょく}の{深化|しんか}は、{中国|ちゅうごく}{包囲|ほうい}{網|もう}{形成|けいせい}という{文脈|ぶんみゃく}でも読み解ける。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/9/australia-india-strike-deal-on-uranium-exports-during-pm-modis-visit?traffic_source=rss"
+        "title_ja": "ムーディーズ、日本の格付けを「安定的」で維持",
+        "summary": "ムーディーズは高市政権の政策運営を巡り市場が動揺する中でも、日本の国債格付けを「安定的」で据え置きました。財政規律への懸念は残るとみられています。",
+        "take": "💭 市場の動揺と裏腹に格付けが維持されたことは一定の安心材料ですが、財政悪化が続けば見直しの{余地|よち}は残ります。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Dd05UVU93U2QxTzV1Sm95cEhFVTAwd3FiNlVsSWNwZElhRWVfSnYzRDhGQ0QzUUdRelp4blBpNEV0YzhMcFVGQjgzRjU2Ny1KaDJTSXZZVGEtN3otMmdZNEZMdXBOc0NRTWR6S2xYSkhXNU4tVlhv?oc=5"
       },
       {
         "rank": 17,
-        "title_ja": "VW、{独|どく}国内で{大規模|だいきぼ}{雇用|こよう}{削減|さくげん}{計画|けいかく}に{抗議|こうぎ}デモ",
-        "summary": "フォルクスワーゲンが{最大|さいだい}10{万人|まんにん}の{雇用|こよう}{削減|さくげん}と{工場|こうじょう}{閉鎖|へいさ}を{提案|ていあん}したことを受け、{独|どく}国内18か{所|しょ}で{抗議|こうぎ}デモが{行|おこな}われた。{監査役会|かんさやくかい}に{正式|せいしき}{提案|ていあん}される。",
-        "take": "💭 {欧州|おうしゅう}{自動車|じどうしゃ}{産業|さんぎょう}の{構造|こうぞう}{転換|てんかん}が{雇用|こよう}に{直撃|ちょくげき}しており、EV{移行|いこう}の{痛|いた}みが{政治|せいじ}{問題|もんだい}化しつつある。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/business/2026/jul/09/vw-protests-germany-proposed-job-cuts-factory-closures"
+        "title_ja": "国旗{冒涜|ぼうとく}禁止法案に日本の学者150人近くが反対",
+        "summary": "国旗の{毀損|きそん}を禁じる法案に対し、日本の学者{約|やく}150人が反対を表明しました。表現の自由を{侵害|しんがい}する{恐|おそ}れがあるとして、野党からも強い反発が出ています。",
+        "take": "💭 表現の自由と国家象徴の保護のバランスを巡る議論は、日本の民主主義の成熟度を測る{試金石|しきんせき}になりそうです。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/09/japan/academics-oppose-flag-bill/"
       },
       {
         "rank": 18,
-        "title_ja": "{西|にし}{欧|おう}、{観測|かんそく}{史上|しじょう}{最|もっと}も{暑|あつ}い6{月|がつ}に",
-        "summary": "{西|にし}{欧|おう}は{今年|ことし}6{月|がつ}、{平年比|へいねんひ}3度高い{記録的|きろくてき}な{猛暑|もうしょ}に{見舞|みま}われた。フランス・スペイン・ベルギーなどで{熱波|ねっぱ}による{死者|ししゃ}が{相次|あいつ}いでいる。",
-        "take": "💭 {気候変動|きこうへんどう}による{異常|いじょう}{気象|きしょう}は{欧州|おうしゅう}の{インフラ|いんふら}・{医療|いりょう}{体制|たいせい}の{限界|げんかい}を{露呈|ろてい}させており、{適応|てきおう}{投資|とうし}の{遅|おく}れが{代償|だいしょう}を{増|ま}している。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify"
+        "title_ja": "ユニクロのファーストリテイリング、好決算でH&Mを{凌駕|りょうが}へ",
+        "summary": "ファーストリテイリングは第3四半期の好調な売上を受け、世界的なアパレル企業H&Mを追い越す見通しとなりました。海外事業の拡大が業績を{牽引|けんいん}しています。",
+        "take": "💭 日本発のグローバルブランドが欧州勢を上回る構図は象徴的であり、円安を追い風にした海外展開戦略の成功例です。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/retail/uniqlo-owner-fast-retailing-set-to-overtake-h-m-after-strong-q3-sales"
       },
       {
         "rank": 19,
-        "title_ja": "{世紀|せいき}を{超|こ}えた{装置|そうち}が{世界|せかい}のAI{拡大|かくだい}を{阻害|そがい}",
-        "summary": "データセンターの{電力|でんりょく}{需要|じゅよう}{急増|きゅうぞう}が、100{年|ねん}以上{前|まえ}から{使|つか}われる「トランス」{供給網|きょうきゅうもう}に{負荷|ふか}をかけている。AIブームの{裏|うら}で{電力|でんりょく}インフラの{脆弱|ぜいじゃく}性が{露呈|ろてい}している。",
-        "take": "💭 AIの{成長|せいちょう}{余地|よち}は{計算|けいさん}{能力|のうりょく}ではなく{電力|でんりょく}インフラという「アナログな{制約|せいやく}」で{頭打|あたまう}ちになる{恐|おそ}れがある。",
-        "category": "経済",
-        "source": "Financial Times",
-        "link": "https://ig.ft.com/transformers/"
+        "title_ja": "台湾の輸出、上半期に約50%増 頼総統「AI島」構想を推進",
+        "summary": "台湾の輸出は今年上半期に前年比{約|やく}50%増加しました。頼{清徳|チンドー}総統はAI関連産業への投資を強化し、台湾を「AI島」として位置づける戦略を進めています。",
+        "take": "💭 AI半導体需要が台湾経済を{牽引|けんいん}しており、地政学リスクを抱えつつも経済的存在感は一段と高まっています。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/economy/taiwan-s-exports-rise-nearly-50-in-first-half-as-lai-builds-ai-island"
       },
       {
         "rank": 20,
-        "title_ja": "OpenAI、より{自然|しぜん}な{会話|かいわ}が可能な{新|しん}音声モデルを{発表|はっぴょう}",
-        "summary": "OpenAIは{新|しん}しい音声モデルを{発表|はっぴょう}し、{話|はな}すと{聞|き}くを同時に行える{機能|きのう}を{実現|じつげん}した。ライブ{翻訳|ほんやく}など{実用|じつよう}{用途|ようと}での活用が{見込|みこ}まれる。",
-        "take": "💭 音声UIの{自然|しぜん}さが{向上|こうじょう}するほどAIアシスタントの{日常|にちじょう}{浸透|しんとう}が{加速|かそく}し、コールセンターなど{既存|きぞん}{産業|さんぎょう}への{代替|だいたい}{圧力|あつりょく}も強まる。",
-        "category": "AI",
-        "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/"
+        "title_ja": "ウクライナの無人機戦術がロシアを{疲弊|ひへい}させ、NATOの投資戦略を{一変|いっぺん}",
+        "summary": "ウクライナによるロシア国内の{製油所|せいゆじょ}への{長距離|ちょうきょり}無人機攻撃が戦況を変えており、NATOは400億ドル規模の対無人機対策計画へ舵を切りつつあります。",
+        "take": "💭 安価な無人機が高価な防空網を脅かす構図は、今後の軍事投資の優先順位を根本から変える可能性があります。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html"
       }
     ]
   },
