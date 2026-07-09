@@ -141,6 +141,10 @@ function renderHtml(history) {
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="ニュース">
+<script>
+  // 保存済みのふりがな設定を、描画前に反映（表示のちらつき防止）
+  try { if (localStorage.getItem("furigana") === "off") document.documentElement.setAttribute("data-furigana", "off"); } catch (e) {}
+</script>
 <style>
   :root { --bg:${THEME}; --accent:${ACCENT}; --card:#151b31; --text:#e8ecf6; --muted:#9aa4bf; }
   * { box-sizing: border-box; }
@@ -163,10 +167,25 @@ function renderHtml(history) {
     background: var(--card); border:1px solid #232c49; border-radius: 14px;
     padding: 16px 16px 14px; margin: 0 0 14px;
   }
-  .story h3 { margin: 0 0 6px; font-size: 1.08rem; line-height: 1.9; }
+  .story h3 { margin: 0 0 6px; font-size: 1.08rem; }
   /* ふりがな（ルビ）: 読みは小さめ・控えめの色に */
   ruby rt { font-size: 0.58em; color: var(--muted); font-weight: 400; user-select: none; }
-  .summary, .take, .overview, .story h3 { line-height: 2.0; }
+  .summary, .take, .overview, .story h3, .peek { line-height: 2.0; }
+  /* ふりがなOFF時: 読みを隠して行間を詰める */
+  :root[data-furigana="off"] rt { display: none; }
+  :root[data-furigana="off"] .summary,
+  :root[data-furigana="off"] .take,
+  :root[data-furigana="off"] .overview,
+  :root[data-furigana="off"] .story h3,
+  :root[data-furigana="off"] .peek { line-height: 1.7; }
+  /* ふりがな切り替えボタン */
+  header.site .toprow { display:flex; align-items:center; justify-content:space-between; gap:10px; }
+  .furigana-toggle {
+    -webkit-appearance:none; appearance:none; cursor:pointer; white-space:nowrap;
+    background:#222c4a; color:#cdd6f0; border:1px solid #2c3960;
+    border-radius:999px; padding:7px 14px; font-size:.82rem; font-weight:700;
+  }
+  .furigana-toggle:active { transform: scale(0.97); }
   .badge {
     display:inline-block; font-size:.72rem; color:#cdd6f0; background:#222c4a;
     border-radius:999px; padding:2px 9px; margin-right:8px; vertical-align: middle; font-weight:600;
@@ -187,7 +206,10 @@ function renderHtml(history) {
 <body>
   <div class="wrap">
     <header class="site">
-      <h1>🗞 ${esc(SITE_TITLE)}</h1>
+      <div class="toprow">
+        <h1>🗞 ${esc(SITE_TITLE)}</h1>
+        <button class="furigana-toggle" id="furigana-toggle" type="button" aria-label="ふりがなの表示を切り替え"></button>
+      </div>
       <div class="updated">最終更新: ${updated}</div>
     </header>
     <main>
@@ -197,6 +219,25 @@ function renderHtml(history) {
     <footer>Claudeが毎朝キュレーション</footer>
   </div>
   <script>
+    // ふりがなON/OFFボタン（設定はlocalStorageに記憶）
+    (function () {
+      var root = document.documentElement;
+      var btn = document.getElementById("furigana-toggle");
+      if (!btn) return;
+      function refresh() {
+        var off = root.getAttribute("data-furigana") === "off";
+        btn.textContent = off ? "ふりがな OFF" : "ふりがな ON";
+      }
+      refresh();
+      btn.addEventListener("click", function () {
+        var off = root.getAttribute("data-furigana") === "off";
+        if (off) { root.removeAttribute("data-furigana"); }
+        else { root.setAttribute("data-furigana", "off"); }
+        try { localStorage.setItem("furigana", off ? "on" : "off"); } catch (e) {}
+        refresh();
+      });
+    })();
+
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () =>
         navigator.serviceWorker.register("./sw.js").catch(() => {})
