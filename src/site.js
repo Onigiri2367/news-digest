@@ -47,6 +47,11 @@ function fmt(s = "") {
   return ruby(esc(s));
 }
 
+// ふりがな記法を取り除いて素の文字列にする（共有テキスト用）。{漢字|かんじ}→漢字
+function plain(s = "") {
+  return String(s).replace(/\{([^{}|]+)\|[^{}|]+\}/g, "$1");
+}
+
 // JSTでの日付関連の文字列を作る
 function jstDateParts(now = new Date()) {
   const key = now.toLocaleDateString("en-CA", { timeZone: "Asia/Tokyo" }); // YYYY-MM-DD
@@ -77,13 +82,16 @@ function renderStories(stories) {
       const link = s.link
         ? `<a class="src" href="${esc(s.link)}" target="_blank" rel="noopener">▶ ${esc(s.source)}で読む</a>`
         : "";
+      const share = s.link
+        ? `<button class="share" type="button" data-title="${esc(plain(s.title_ja))}" data-url="${esc(s.link)}" aria-label="このニュースを共有">🔗 共有</button>`
+        : "";
       const take = s.take ? `<p class="take">${fmt(s.take)}</p>` : "";
       return `
       <article class="story">
         <h3><span class="badge">${emoji} ${esc(s.category || "")}</span>${i + 1}. ${fmt(s.title_ja)}</h3>
         <p class="summary">${fmt(s.summary)}</p>
         ${take}
-        ${link}
+        <div class="story-foot">${link}${share}</div>
       </article>`;
     })
     .join("\n");
@@ -142,11 +150,24 @@ function renderHtml(history) {
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="ニュース">
 <script>
-  // 保存済みのふりがな設定を、描画前に反映（表示のちらつき防止）
-  try { if (localStorage.getItem("furigana") === "off") document.documentElement.setAttribute("data-furigana", "off"); } catch (e) {}
+  // 保存済みの設定（ふりがな・配色）を描画前に反映（表示のちらつき防止）
+  try {
+    if (localStorage.getItem("furigana") === "off") document.documentElement.setAttribute("data-furigana", "off");
+    var t = localStorage.getItem("theme");
+    if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
 </script>
 <style>
-  :root { --bg:${THEME}; --accent:${ACCENT}; --card:#151b31; --text:#e8ecf6; --muted:#9aa4bf; }
+  :root {
+    --bg:${THEME}; --accent:${ACCENT}; --card:#151b31; --text:#e8ecf6; --muted:#9aa4bf;
+    --border:#232c49; --chip:#222c4a; --chip-border:#2c3960; --take:#c7d2f0;
+    --overview-bg:#161d38; --details-bg:#111731;
+  }
+  :root[data-theme="light"] {
+    --bg:#f4f7fc; --accent:#2563c9; --card:#ffffff; --text:#1b2333; --muted:#5b647a;
+    --border:#e3e8f1; --chip:#eef2fb; --chip-border:#d6deee; --take:#33405c;
+    --overview-bg:#eef2fb; --details-bg:#f2f5fb;
+  }
   * { box-sizing: border-box; }
   body {
     margin: 0; background: var(--bg); color: var(--text);
@@ -160,11 +181,11 @@ function renderHtml(history) {
   header.site .updated { color: var(--muted); font-size: .85rem; margin-top: 2px; }
   .entry-date { color: var(--accent); font-weight: 700; font-size: .95rem; }
   .overview {
-    background: linear-gradient(180deg,#1a2340,#141b31); border:1px solid #26304f;
-    border-radius: 14px; padding: 14px 16px; font-style: italic; color:#cdd6f0; margin: 10px 0 22px;
+    background: var(--overview-bg); border:1px solid var(--border);
+    border-radius: 14px; padding: 14px 16px; font-style: italic; color: var(--text); margin: 10px 0 22px;
   }
   .story {
-    background: var(--card); border:1px solid #232c49; border-radius: 14px;
+    background: var(--card); border:1px solid var(--border); border-radius: 14px;
     padding: 16px 16px 14px; margin: 0 0 14px;
   }
   .story h3 { margin: 0 0 6px; font-size: 1.08rem; }
@@ -178,28 +199,36 @@ function renderHtml(history) {
   :root[data-furigana="off"] .overview,
   :root[data-furigana="off"] .story h3,
   :root[data-furigana="off"] .peek { line-height: 1.7; }
-  /* ふりがな切り替えボタン */
+  /* ヘッダーの操作ボタン（ふりがな・テーマ） */
   header.site .toprow { display:flex; align-items:center; justify-content:space-between; gap:10px; }
-  .furigana-toggle {
+  header.site .controls { display:flex; gap:8px; flex-shrink:0; }
+  .pill {
     -webkit-appearance:none; appearance:none; cursor:pointer; white-space:nowrap;
-    background:#222c4a; color:#cdd6f0; border:1px solid #2c3960;
-    border-radius:999px; padding:7px 14px; font-size:.82rem; font-weight:700;
+    background:var(--chip); color:var(--text); border:1px solid var(--chip-border);
+    border-radius:999px; padding:7px 12px; font-size:.8rem; font-weight:700;
   }
-  .furigana-toggle:active { transform: scale(0.97); }
+  .pill:active { transform: scale(0.97); }
   .badge {
-    display:inline-block; font-size:.72rem; color:#cdd6f0; background:#222c4a;
+    display:inline-block; font-size:.72rem; color:var(--text); background:var(--chip);
     border-radius:999px; padding:2px 9px; margin-right:8px; vertical-align: middle; font-weight:600;
   }
   .summary { margin: 6px 0; color: var(--text); }
-  .take { margin: 8px 0 6px; color:#c7d2f0; border-left:3px solid var(--accent); padding-left:10px; }
+  .take { margin: 8px 0 6px; color:var(--take); border-left:3px solid var(--accent); padding-left:10px; }
+  .story-foot { display:flex; align-items:center; gap:14px; margin-top:10px; flex-wrap:wrap; }
   a.src { color: var(--accent); text-decoration: none; font-size:.9rem; }
   a.src:hover { text-decoration: underline; }
-  .past-h { margin: 34px 0 12px; font-size: 1rem; color: var(--muted); font-weight:600; border-top:1px solid #232c49; padding-top:22px; }
-  details.entry { background:#111731; border:1px solid #232c49; border-radius:12px; margin:0 0 10px; padding: 4px 14px; }
+  .share {
+    -webkit-appearance:none; appearance:none; cursor:pointer;
+    background:transparent; color:var(--accent); border:1px solid var(--chip-border);
+    border-radius:999px; padding:4px 12px; font-size:.82rem; font-weight:600;
+  }
+  .share:active { transform: scale(0.97); }
+  .past-h { margin: 34px 0 12px; font-size: 1rem; color: var(--muted); font-weight:600; border-top:1px solid var(--border); padding-top:22px; }
+  details.entry { background:var(--details-bg); border:1px solid var(--border); border-radius:12px; margin:0 0 10px; padding: 4px 14px; }
   details.entry summary { cursor:pointer; list-style:none; padding:10px 0; display:flex; flex-direction:column; gap:2px; }
   details.entry summary::-webkit-details-marker { display:none; }
   details.entry .peek { color: var(--muted); font-size:.85rem; }
-  details.entry[open] summary { border-bottom:1px solid #232c49; margin-bottom:8px; }
+  details.entry[open] summary { border-bottom:1px solid var(--border); margin-bottom:8px; }
   footer { color: var(--muted); font-size:.78rem; text-align:center; margin-top: 40px; }
 </style>
 </head>
@@ -208,7 +237,10 @@ function renderHtml(history) {
     <header class="site">
       <div class="toprow">
         <h1>🗞 ${esc(SITE_TITLE)}</h1>
-        <button class="furigana-toggle" id="furigana-toggle" type="button" aria-label="ふりがなの表示を切り替え"></button>
+        <div class="controls">
+          <button class="pill" id="theme-toggle" type="button" aria-label="配色（ライト/ダーク）を切り替え"></button>
+          <button class="pill" id="furigana-toggle" type="button" aria-label="ふりがなの表示を切り替え"></button>
+        </div>
       </div>
       <div class="updated">最終更新: ${updated}</div>
     </header>
@@ -219,9 +251,10 @@ function renderHtml(history) {
     <footer>Claudeが毎朝キュレーション</footer>
   </div>
   <script>
+    var root = document.documentElement;
+
     // ふりがなON/OFFボタン（設定はlocalStorageに記憶）
     (function () {
-      var root = document.documentElement;
       var btn = document.getElementById("furigana-toggle");
       if (!btn) return;
       function refresh() {
@@ -237,6 +270,39 @@ function renderHtml(history) {
         refresh();
       });
     })();
+
+    // ライト/ダーク切り替えボタン（設定はlocalStorageに記憶）。既定はダーク。
+    (function () {
+      var btn = document.getElementById("theme-toggle");
+      if (!btn) return;
+      function cur() { return root.getAttribute("data-theme") === "light" ? "light" : "dark"; }
+      function refresh() { btn.textContent = cur() === "light" ? "☀️ 明るい" : "🌙 暗い"; }
+      refresh();
+      btn.addEventListener("click", function () {
+        var next = cur() === "light" ? "dark" : "light";
+        root.setAttribute("data-theme", next);
+        try { localStorage.setItem("theme", next); } catch (e) {}
+        refresh();
+      });
+    })();
+
+    // 共有ボタン（スマホは共有シートでLINE等に送れる。非対応時はリンクをコピー）
+    document.addEventListener("click", function (e) {
+      var b = e.target.closest ? e.target.closest(".share") : null;
+      if (!b) return;
+      var title = b.getAttribute("data-title") || "ニュース";
+      var url = b.getAttribute("data-url");
+      if (navigator.share) {
+        navigator.share({ title: title, text: title, url: url }).catch(function () {});
+      } else if (navigator.clipboard) {
+        navigator.clipboard.writeText(url).then(function () {
+          var t = b.textContent; b.textContent = "✓ コピーしました";
+          setTimeout(function () { b.textContent = t; }, 1500);
+        }).catch(function () { window.open(url, "_blank"); });
+      } else {
+        window.open(url, "_blank");
+      }
+    });
 
     if ("serviceWorker" in navigator) {
       window.addEventListener("load", () =>
