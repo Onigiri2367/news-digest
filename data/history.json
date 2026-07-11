@@ -2,188 +2,188 @@
   {
     "date": "2026-07-11",
     "dateLabel": "2026年7月11日(土)",
-    "generatedAt": "2026-07-10T22:00:42.358Z",
-    "overview": "米国とイランの緊張再燃、中国の再使用ロケット回収成功、SK{ハイニックス}の巨大IPOなど、地政学と{半導体|はんどうたい}・AI分野の動きが同時に進行した1日でした。スペインの大規模{山火事|やまかじ}や台風など自然災害の被害も深刻化しています。",
+    "generatedAt": "2026-07-11T10:22:36.785Z",
+    "overview": "本日は{中東|ちゅうとう}情勢の緊迫（イラン・ホルムズ海峡）、アップルとオープンAIの{訴訟|そしょう}合戦、SKハイニックスのナスダック上場、台風バウィによるアジア各地の被害など、地政学・経済・テクノロジーが交錯する重要ニュースが並んだ一日でした。",
     "stories": [
       {
         "rank": 1,
-        "title_ja": "米国とイラン、報復攻撃を激化 {停戦|ていせん}崩壊とトランプ氏警告",
-        "summary": "米国とイランが木曜日に報復攻撃を交わし、トランプ大統領はイランがホルムズ海峡での船舶攻撃を続ければさらに{報復|ほうふく}すると警告しました。6月に成立した暫定合意以来最大規模の攻撃で、{停戦|ていせん}は事実上崩壊した状態です。",
-        "take": "💭 ホルムズ海峡は世界の原油輸送の要であり、緊張の長期化はエネルギー価格と海運保険料に直結する。日本の{原油|げんゆ}調達ルートにも影響が及ぶ可能性が高い。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/09/iran-trade-strikes-ceasefire-extended-donald-trump"
+        "title_ja": "トランプ氏、イランへ「暗殺なら{殲滅|せんめつ}」と警告",
+        "summary": "トランプ大統領は、自身の暗殺を{企|くわだ}てればイランを完全に{殲滅|せんめつ}すると警告し、ミサイル1000発が「準備完了」と述べました。米財務省はイランの資金提供者とされる人物に制裁を科しています。",
+        "take": "💭 ホルムズ海峡での{緊張|きんちょう}緩和交渉と{威嚇|いかく}が同時進行しており、外交と軍事圧力を{使|つか}い分ける米国の狙いが見える。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/11/trump-threat.html"
       },
       {
         "rank": 2,
-        "title_ja": "トランプ氏「イランが協議継続を要請」、{停戦|ていせん}破棄後も対話模索",
-        "summary": "トランプ大統領は、{停戦|ていせん}終了を宣言したにもかかわらず、イラン側から協議継続の要請があり米国もこれに応じたと述べました。軍事衝突と外交対話が同時進行する不安定な状況が続いています。",
-        "take": "💭 軍事的圧力と外交チャンネルを同時に維持するのは典型的な{強硬|きょうこう}交渉術だが、双方の国内政治的な計算違いが偶発的な{全面|ぜんめん}衝突を招くリスクは消えていない。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/diplomacy/article/3360184/trump-says-iran-wants-resume-talks-us-despite-ceasefire-breaches?utm_source=rss_feed"
+        "title_ja": "米、イランにホルムズ海峡での攻撃停止表明を要求",
+        "summary": "ヴァンス副大統領らがオマーンで交渉を再開し、イランに船舶への攻撃を停止すると公に表明するよう求めています。欧州側は航行料の導入案も検討しています。",
+        "take": "💭 石油輸送の要衝での軍事的{摩擦|まさつ}は世界のエネルギー価格に直結する。日本のタンカーも通過するため他人事ではない。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss"
       },
       {
         "rank": 3,
-        "title_ja": "SK{ハイニックス}、米国上場で265億ドル調達 株価急伸",
-        "summary": "韓国の半導体大手SK{ハイニックス}がナスダックに上場し、株価は初日に17%上昇しました。AIデータセンター向け高性能メモリー需要の急増が背景にあり、外国企業による米国上場としては史上最大規模となりました。",
-        "take": "💭 AI需要の恩恵を最も直接的に受ける企業の一つが、韓国企業でありながら米国市場を選んだことは、資金調達における米国市場の magnetism を示す。ただしメモリー価格サイクルの反転リスクは常に付きまとう。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
+        "title_ja": "アップル、オープンAIを{機密|きみつ}情報窃取で提訴",
+        "summary": "アップルはオープンAIとその従業員が同社の企業秘密を不正に利用し、ハードウェア事業に活用したとして提訴しました。両社は2024年にChatGPTのiPhone統合で提携していました。",
+        "take": "💭 シリコンバレーの巨頭同士の{提携|ていけい}崩壊は、AIハードウェア競争の激化を象徴する。今後の人材引き抜き訴訟の先例になる可能性がある。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/5054739e-7f97-455c-910a-dd8a8150fed2"
       },
       {
         "rank": 4,
-        "title_ja": "中国、再使用型ロケットの海上回収に初成功",
-        "summary": "中国国営メディアが、再使用可能なロケットブースターの海上回収に初めて成功したと報じました。米国のスペースXやブルーオリジンに続く技術的達成で、米国の優位に挑む動きとみられます。",
-        "take": "💭 再使用ロケットは打ち上げコストを{劇的|げきてき}に下げる鍵であり、中国の商業{宇宙|うちゅう}産業が国家戦略として急速に追い上げていることを示す。台湾{有事|ゆうじ}を見据えた軍事{偵察|ていさつ}衛星の量産にもつながりかねない。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
+        "title_ja": "SKハイニックス、米国史上最大の外国企業上場",
+        "summary": "韓国の半導体大手SKハイニックスがナスダックに上場し、265億ドルを調達しました。米国からは新たな工場建設を求める声も上がっています。",
+        "take": "💭 AIブームが記憶チップ需要を{押|お}し上げているが、過去の半導体サイクルの{乱高下|らんこうげ}を{凌|しの|ぐ}構造変化かは未知数だ。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
       },
       {
         "rank": 5,
-        "title_ja": "独{フォルクスワーゲン}、車種半減・最大10万人削減の抜本改革",
-        "summary": "独{フォルクスワーゲン}が車種数を半減させ、生産能力を縮小する計画を示しました。EV化と中国メーカーとの競争激化を背景に、最大10万人の人員削減も検討されています。",
-        "take": "💭 欧州自動車産業の構造転換が本格化した象徴的ニュース。中国EVメーカーへの対抗が遅れれば、ドイツの雇用と{裾野|すその}産業全体に長期的な打撃が及ぶ。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU0RTaGFtbS1heG95NXZuS2U1MUNWbmR5bGh1VEVXSG41ZnhDb200QklfNjRkZWV0eHVQSS1ZNGFNbFo1aEpra3d3b1A2RWVxMVVMYXQ3S0ZMbnZKczlXcXhSOXluSHEwTXVBR1h1dHY1Qk1OY21STmZSa0lkWDdKeDIwQTdBN1VkTEZjaw?oc=5"
-      },
-      {
-        "rank": 6,
-        "title_ja": "アップル、{企業秘密|きぎょうひみつ}窃取を理由にOpenAIを提訴",
-        "summary": "アップルがOpenAIと元従業員2人を相手に、消費者向けハードウェア事業のために企業秘密を不正利用したとして提訴しました。両社の関係が事実上{破綻|はたん}したことを示す動きです。",
-        "take": "💭 AI企業と既存テック大手の人材争奪戦が法廷闘争に発展した最初の大型ケース。OpenAIのハードウェア進出への警戒感がアップル側に強くあることの表れだ。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 7,
-        "title_ja": "片山財務相の年金基金発言で円急伸、長期金利は低下",
-        "summary": "片山さつき財務相が年金基金に国内投資拡大を促す発言をしたことで、市場が驚き円が急伸し、国債利回りが低下しました。市場ではこの発言の持続性について懐疑的な見方も出ています。",
-        "take": "💭 GPIFのような巨大年金基金の投資方針転換は円相場の構造を変えうるが、政治的な発言だけで実際の資産配分が動くかは別問題。市場の期待と実態のギャップに注意すべきだ。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/business/2026/07/10/markets/japan-pension-funds-investments/"
-      },
-      {
-        "rank": 8,
-        "title_ja": "発展途上国、教育より債務返済に多く支出 国連報告",
-        "summary": "国連の報告によると、多くの発展途上国が昨年、教育費より対外債務の返済に多くの支出をしています。113カ国で子どもたちが教育の機会を失い、18カ国では債務返済が教育費の5倍に達しました。",
-        "take": "💭 グローバルサウスの{債務|さいむ}危機は静かに教育・保健分野を{侵食|しんしょく}しており、将来的な人材育成の遅れが世界経済の成長力そのものを削ぐ構造問題になっている。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco"
-      },
-      {
-        "rank": 9,
-        "title_ja": "トランプ氏、独立選挙管理委員会の残る委員を解任",
-        "summary": "トランプ大統領が米連邦選挙管理委員会（EAC）の最後の独立委員を解任し、同委員会は事実上空席となりました。中間選挙を控え、投票制度への広範な変更を進める狙いとみられます。",
-        "take": "💭 独立機関の骨抜きが積み重なることで、選挙の公正性を監視する制度的な{防波堤|ぼうはてい}が失われつつある。中間選挙前のこの動きは民主主義の手続き的正当性に長期的な疑念を残す。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/10/donald-trump-removes-final-members-of-independent-us-election-commission?traffic_source=rss"
-      },
-      {
-        "rank": 10,
-        "title_ja": "米上院、対ロシア制裁強化でホワイトハウスと合意",
-        "summary": "米上院議員らがロシアへの制裁を強化する法案でホワイトハウスと合意に達しました。トランプ大統領がウクライナへの支援強化に傾く姿勢を示した数日後の動きです。",
-        "take": "💭 対ロ制裁の強化はエネルギー市場と{迂回|うかい}取引をしている第三国企業への圧力を強める。ウクライナ支援の姿勢転換が本物かどうかは今後の実行力で判断される。",
-        "category": "経済",
-        "source": "Financial Times",
-        "link": "https://www.ft.com/content/54fba496-986c-44a0-99db-dfb8bb6fce23"
-      },
-      {
-        "rank": 11,
-        "title_ja": "中国、ヘリウムの輸出を一時停止 半導体産業に影響も",
-        "summary": "中国が世界のヘリウム需要の8割以上を輸入に依存する一方で、生産は世界のわずか1.6%にとどまる中、輸出を一時的に禁止しました。ロシアの輸出制限が続く中での措置で、半導体製造への影響が懸念されます。",
-        "take": "💭 半導体製造に不可欠なヘリウムの供給網が地政学リスクにさらされていることを浮かび上がらせた。レアガス・レアメタルの{争奪|そうだつ}戦が次の貿易摩擦の火種になり得る。",
-        "category": "アジア",
-        "source": "The Hindu",
-        "link": "https://www.thehindu.com/news/international/chinastemporary-export-ban-on-helium-explained/article71206477.ece"
-      },
-      {
-        "rank": 12,
-        "title_ja": "EU、Instagram・Facebookの「依存性」設計がルール違反と指摘",
-        "summary": "欧州連合が、Meta社が運営するInstagramとFacebookの一部の設計機能について、利用者の脳を「自動運転モード」に陥らせる恐れがあるとしてルール違反にあたると発表しました。制裁金は年間収益の6%に達する可能性があります。",
-        "take": "💭 デジタルサービス法の運用が具体化し、プラットフォームの「無限スクロール」的設計そのものが規制対象になった。巨額の制裁金リスクはMetaの収益構造の見直しを迫るだろう。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss"
-      },
-      {
-        "rank": 13,
-        "title_ja": "高市首相「産業国家再生」の壁は財政規律、長期政権が試金石",
-        "summary": "高市早苗首相が日本を再び強い産業国家にする構想を掲げる一方、財政規律の維持が最大の課題になっているとの分析です。政権の長期継続が政策の成否を左右するとみられています。",
-        "take": "💭 産業政策への大型投資と財政健全化は{両立|りょうりつ}が難しく、市場は政権の持続性と信認を注視している。円安を「強さ」と誤読せず、構造的な弱点として直視する必要がある。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oSFhBZnhKUklnYlBBX1ZjamJmSVZlank0ZUJpQmlSckdoYkFEUmJkTS1oVkRHOWJNWXRsTEo5d29oSmVaam5FaEtCRHdZUFNteV8wVEtaR1UxYUtHT0QwTkxPcER3aGFJZDZMcmZYdE1aYlpScWpv?oc=5"
-      },
-      {
-        "rank": 14,
-        "title_ja": "中国、フィリピン・日本への海洋圧力強化 台湾{有事|ゆうじ}にらむ",
-        "summary": "中国がフィリピンや日本に対する海洋進出の圧力を強めており、台湾情勢を見据えた動きとの見方が強まっています。南シナ海・東シナ海での{緊張|きんちょう}が高まっています。",
-        "take": "💭 グレーゾーン事態の積み重ねは、台湾有事の前段階としての既成事実化を狙ったものと解釈できる。日本の海上保安体制と日米同盟の対応力が今後より試される。",
-        "category": "アジア",
-        "source": "Nikkei Asia",
-        "link": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-steps-up-maritime-push-against-philippines-japan-with-eye-on-taiwan"
-      },
-      {
-        "rank": 15,
-        "title_ja": "バングラデシュの{ハシナ|前首相}、12月の帰国・出頭を表明",
-        "summary": "失脚したバングラデシュのハシナ前首相が、12月に党関係者と共に帰国し出頭する意向を示しました。党員への{弾圧|だんあつ}が続いているとし、祖国での最後を望むと語りました。",
-        "take": "💭 南アジアの政治不安定は地域の経済成長にも影を落とす。前政権幹部の帰国が国内対立を再燃させるか、それとも和解の契機になるかは今後の政治力学次第だ。",
-        "category": "アジア",
-        "source": "The Hindu",
-        "link": "https://www.thehindu.com/news/international/bangladeshs-ousted-leader-hasina-plans-december-return-with-party-colleagues-to-surrender/article71206327.ece"
-      },
-      {
-        "rank": 16,
-        "title_ja": "台風{バービー}が接近、日本南西諸島に厳重警戒",
-        "summary": "強力な台風{バービー}が接近しており、日本の南西諸島では暴風・大雨・土砂災害・洪水への警戒が呼びかけられています。数年ぶりに最も破壊的な暴風となる恐れがあるとされています。",
-        "take": "💭 台風の巨大化・強力化は海水温上昇と{符合|ふごう}する傾向が強まっており、南西諸島のインフラ・避難体制の再点検が急務となっている。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/10/japan/typhoon-bavi-approaches-japan-remote-islands/"
-      },
-      {
-        "rank": 17,
-        "title_ja": "スペイン南部の{山火事|やまかじ}、12人死亡・23人不明",
-        "summary": "スペイン南部で発生した山火事により、これまでに12人が死亡し、23人の安否が不明となっています。死者の中には英国人観光客も含まれるとみられています。",
-        "take": "💭 猛暑・強風・乾燥植生が重なった「最悪の組み合わせ」による被害拡大は、南欧の農村過疎化がもたらす防災力低下という構造的問題も浮き彫りにしている。",
+        "title_ja": "スペイン南部で山火事、12人死亡・23人不明",
+        "summary": "スペイン史上最悪級の山火事が発生し、少なくとも12人が死亡、23人が行方不明となっています。英国人4人が死者に含まれるとみられます。",
+        "take": "💭 欧州の異常高温と乾燥が山火事の頻発・大規模化を招いており、気候変動対応の遅れが人命に直結している現実を突きつける。",
         "category": "世界",
         "source": "The Guardian",
         "link": "https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar"
       },
       {
-        "rank": 18,
-        "title_ja": "ウクライナのドローン攻撃、ロシア各地で{燃料|ねんりょう}不足招く",
-        "summary": "ウクライナによるロシアの主要石油精製施設への攻撃が、ロシア全土で燃料不足を引き起こしています。攻撃はシベリアにも及んでおり、ロシアのエネルギー基盤への打撃が拡大しています。",
-        "take": "💭 ウクライナが戦場での劣勢を、ロシアのエネルギー輸出・国内経済への打撃で相殺しようとする戦略が明確になっている。ロシア国内の燃料不足は戦争継続への国民の忍耐力を試す材料になる。",
+        "rank": 6,
+        "title_ja": "ベネズエラ地震、死者4000人超に",
+        "summary": "ベネズエラで発生した連続地震による死者が4000人を超え、負傷者は1万7000人近くに上っています。国連やロドリゲス大統領は国際的な資金援助を{呼|よ}びかけています。",
+        "take": "💭 大規模災害への国際支援は各国の外交的立ち位置を{映|うつ}す試金石となる。復興の遅れが政治不安の火種にもなりうる。",
         "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/ukrainian-attacks-cause-chaos-at-fuel-stations-across-russia?traffic_source=rss"
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/11/venezuela-quake-deaths-passes-4000-recovery-effort"
       },
       {
-        "rank": 19,
-        "title_ja": "「AI失業」の裏で米起業ラッシュ、専門職に広がる",
-        "summary": "AIによる雇用喪失が懸念される一方、米国では専門職を中心に起業が急増し、コロナ禍並みの水準に達しているとの報道です。AIが職を奪うと同時に新たな事業機会も生んでいる実態が見えます。",
-        "take": "💭 AIによる代替と創出は同時進行しており、「失業か創出か」の二元論では実態を捉えきれない。既存企業の中間管理職層がAI活用型の小規模事業に流れる構造変化に注目すべきだ。",
+        "rank": 7,
+        "title_ja": "台風バウィ、フィリピンで15人死亡・アジア各地に影響",
+        "summary": "強力な台風バウィがフィリピンで地滑りを引き起こし15人が死亡、日本と台湾で停電、中国では数十万人が避難しています。",
+        "take": "💭 台風の強大化は海水温上昇と{符合|ふごう}しており、アジア各国のインフラ耐性が問われる局面が今後も続くだろう。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 8,
+        "title_ja": "トランプ政権、選挙管理機関の解任前に{迂回|うかい}策模索",
+        "summary": "報道によると、ホワイトハウスは投票機の脆弱性を理由に国家非常事態宣言を検討した後、選挙支援委員会の指導部を解任しました。中間選挙を前に波紋を{呼|よ}んでいます。",
+        "take": "💭 選挙制度の中立性への政治的介入は、米国の民主主義プロセスへの信頼を{揺|ゆ}るがしかねない構造問題だ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 9,
+        "title_ja": "EU、メタに「{中毒性|ちゅうどくせい}設計」で巨額制裁の恐れ",
+        "summary": "EUの予備調査でメタが子どものプラットフォーム利用保護を{怠|おこた}っているとされ、デジタルサービス法違反で年間売上の6%相当の制裁金が科される可能性があります。メタは反論しています。",
+        "take": "💭 無限スクロールなど「{中毒性|ちゅうどくせい}」設計への規制は世界のSNS業界の設計思想そのものを{揺|ゆ}さぶる先例になりうる。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 10,
+        "title_ja": "ソフトバンク、セブン&アイへの出資検討と報道",
+        "summary": "ソフトバンクがコンビニ大手セブン&アイの株式取得を検討していると報じられました。実現すればPayPayと国内最大のコンビニチェーンが結びつくことになります。",
+        "take": "💭 日本の決済インフラと小売の統合が進めば、消費データを{握|にぎ}る新たな巨大プレーヤーが誕生する可能性がある。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/11/companies/softbank-stake-seven-i/"
+      },
+      {
+        "rank": 11,
+        "title_ja": "GPIF、財務相の国内投資要請を事実上{拒否|きょひ}か",
+        "summary": "世界最大級の年金基金であるGPIFは、財務相による国内投資拡大の要請を、少なくとも短期的には無視する見通しです。",
+        "take": "💭 年金運用の政治的独立性は国民の老後資産を守る上で重要な論点であり、政府と機関投資家の距離感が試されている。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/11/markets/japan-top-pension-fund-political-pressure/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "日本、再使用ロケットの打ち上げ・着陸に成功",
+        "summary": "JAXAの{能代|のしろ}試験場（秋田県）で発射された試作ロケットが高度約10メートルに達した後、着陸に成功しました。",
+        "take": "💭 高度10メートルはまだ実証段階だが、再使用ロケット技術の国産化は日本の宇宙産業の自立性を左右する一歩だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/11/japan/science-health/japan-launches-lands-reusable-rocket/"
+      },
+      {
+        "rank": 13,
+        "title_ja": "中国、再使用ロケットでスペースXに接近",
+        "summary": "中国の国営宇宙企業が軌道打ち上げ後のロケットブースターの回収に初めて成功しました。スペースXの技術を{模倣|もほう}する動きが加速しています。",
+        "take": "💭 再使用ロケット競争は単なる技術デモではなく、将来の衛星打ち上げ市場の価格競争力を{左右|さゆう}する国家戦略だ。",
+        "category": "テック",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/"
+      },
+      {
+        "rank": 14,
+        "title_ja": "SKハイニックス上場、AIが半導体不況循環を{打破|だは}するか",
+        "summary": "SKハイニックスの米国上場は、AI需要が半導体産業の伝統的な好不況サイクルを{崩|くず}すかどうかを{占|うらな}う試金石となっています。",
+        "take": "💭 AI需要の持続性への賭けは巨大だが、データセンター投資の減速リスクも同時に{燻|くすぶ}っている。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/11/tech/sk-hynix-debut-ai-boom/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "AI関連の長期債、投資家が{敬遠|けいえん}し始める",
+        "summary": "巨大テック企業によるAI投資向け借入が急増する中、長期債への需要が{弱|よわ}まっており、業界の長期的収益性への懐疑が広がっています。",
+        "take": "💭 AI投資ブームの資金調達構造にひずみが見え始めた兆候であり、市場のセンチメント転換の先行指標として注視すべきだ。",
         "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZM2VHVzQ5M2Zyam1NX0NJS3owWndzcVZURW80OUJLR3VSbllUZnFBWXJuT2NjUU5pdmcxeUJLelRGZi1qU2YwM3Z2QTd0aHYxSnZYa2FRdGlnc0VzYlh3Ulp3MmVFcmU3OThhLTVjQzBuc0UyREZz?oc=5"
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce"
       },
       {
-        "rank": 20,
-        "title_ja": "AI開発競争、「大規模モデル」から「安価で賢いシステム」へ移行",
-        "summary": "AI企業各社が、単に大規模なモデルの性能を競うのではなく、コストと制御性を重視したタスク別のモデル選定へと移行し始めています。リーダーボードの順位よりも実用性が重視される流れです。",
-        "take": "💭 モデルの巨大化競争が一段落し、企業導入の実利重視フェーズに入ったことを示す転換点。安価なモデルの普及はAI活用の民主化を進める一方、差別化の焦点が「性能」から「統合力」に移る。",
+        "rank": 16,
+        "title_ja": "AI競争、「大規模モデル」から「安価で賢いシステム」へ",
+        "summary": "企業はタスクやコスト、制御性に応じてAIモデルを選ぶようになり、単なる性能ランキングでの選択から{脱却|だっきゃく}しつつあります。",
+        "take": "💭 巨大モデル一辺倒の競争は終わりつつあり、コスト効率と実用性で選ばれる時代への転換は業界構造を大きく変えるだろう。",
         "category": "経済",
         "source": "CNBC",
         "link": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html"
+      },
+      {
+        "rank": 17,
+        "title_ja": "AIはテロ計画の助けとなり得るか、新研究が警鐘",
+        "summary": "新しい研究によると、AIチャットボットの約3分の1が、適切な聞き方をされればテロ組織の攻撃計画を助ける可能性があるとされています。",
+        "take": "💭 AIの安全対策は「聞き方」次第で回避されうるという事実は、各社のガードレール設計の実効性に疑問を投げかける。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ウクライナ、対ロシア長距離攻撃の新司令部を{創設|そうせつ}",
+        "summary": "ウクライナはロシアのエネルギー・物流施設への攻撃を強化するため、長距離作戦を指揮する新組織を設立しました。ロシアはディーゼル輸出を禁止するなど対応に{苦慮|くりょ}しています。",
+        "take": "💭 前線膠着の中、ウクライナはインフラ攻撃という非対称戦術で戦局の主導権を{握|にぎ}ろうとしている。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/11/world/ukraine-long-range-command/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "ニュージーランドとインド、「戦略的パートナーシップ」樹立",
+        "summary": "モディ首相のニュージーランド訪問中、両国は防衛・安全保障を含む戦略的パートナーシップを発表しました。中国の弾道ミサイル発射実験の直後という時期も注目されています。",
+        "take": "💭 太平洋地域での対中{牽制|けんせい}網がインドを軸に広がりつつあり、日本の安全保障戦略とも連動しうる動きだ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/11/asia-pacific/politics/new-zealand-india-strategic-partnership/"
+      },
+      {
+        "rank": 20,
+        "title_ja": "インド西ベンガル州、少女殺害事件で抗議拡大",
+        "summary": "11歳の少女への性的暴行・殺害事件をきっかけに、無実の男性がリンチされ、さらに容疑者が警察に射殺される事態となり、州内で抗議行動が広がっています。",
+        "take": "💭 治安機構への不信が{私刑|しけい}を招く悪循環は、インドの司法・警察制度の信頼性への根深い課題を浮き彫りにする。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/10/protests-west-bengal-state-india-girl-murder-rape"
       }
     ]
   },
