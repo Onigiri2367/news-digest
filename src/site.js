@@ -97,12 +97,36 @@ function renderStories(stories) {
     .join("\n");
 }
 
+function renderDeepdive(d) {
+  if (!d || !d.body) return "";
+  const emoji = CATEGORY_EMOJI[d.category] || "🔎";
+  const cat = d.category ? `<span class="badge">${emoji} ${esc(d.category)}</span>` : "";
+  const title = d.title ? `<h3 class="dd-title">${fmt(d.title)}</h3>` : "";
+  const paras = String(d.body)
+    .split(/\n+/)
+    .map((p) => p.trim())
+    .filter(Boolean)
+    .map((p) => `<p>${fmt(p)}</p>`)
+    .join("\n");
+  const link = d.link
+    ? `<a class="src" href="${esc(d.link)}" target="_blank" rel="noopener">▶ ${esc(d.source)}で読む</a>`
+    : "";
+  return `
+    <section class="deepdive">
+      <div class="dd-head">🔎 今日の深掘り ${cat}</div>
+      ${title}
+      <div class="dd-body">${paras}</div>
+      ${link}
+    </section>`;
+}
+
 function renderEntry(entry, { open }) {
   const overview = entry.overview
     ? `<p class="overview">${fmt(entry.overview)}</p>`
     : "";
   const body = `
     ${overview}
+    ${renderDeepdive(entry.deepdive)}
     ${renderStories(entry.stories || [])}
   `;
   // 最新はそのまま、過去分は<details>で折りたたむ
@@ -184,6 +208,15 @@ function renderHtml(history) {
     background: var(--overview-bg); border:1px solid var(--border);
     border-radius: 14px; padding: 14px 16px; font-style: italic; color: var(--text); margin: 10px 0 22px;
   }
+  /* 今日の深掘り */
+  .deepdive {
+    background: var(--card); border:1px solid var(--accent);
+    border-radius: 16px; padding: 18px 18px 16px; margin: 0 0 22px;
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 12%, transparent);
+  }
+  .deepdive .dd-head { color: var(--accent); font-weight: 800; font-size: .95rem; letter-spacing:.02em; }
+  .deepdive .dd-title { margin: 8px 0 6px; font-size: 1.2rem; line-height: 1.5; }
+  .deepdive .dd-body p { margin: 0 0 10px; }
   .story {
     background: var(--card); border:1px solid var(--border); border-radius: 14px;
     padding: 16px 16px 14px; margin: 0 0 14px;
@@ -191,14 +224,17 @@ function renderHtml(history) {
   .story h3 { margin: 0 0 6px; font-size: 1.08rem; }
   /* ふりがな（ルビ）: 読みは小さめ・控えめの色に */
   ruby rt { font-size: 0.58em; color: var(--muted); font-weight: 400; user-select: none; }
-  .summary, .take, .overview, .story h3, .peek { line-height: 2.0; }
+  .summary, .take, .overview, .story h3, .peek,
+  .deepdive .dd-body p, .deepdive .dd-title { line-height: 2.0; }
   /* ふりがなOFF時: 読みを隠して行間を詰める */
   :root[data-furigana="off"] rt { display: none; }
   :root[data-furigana="off"] .summary,
   :root[data-furigana="off"] .take,
   :root[data-furigana="off"] .overview,
   :root[data-furigana="off"] .story h3,
-  :root[data-furigana="off"] .peek { line-height: 1.7; }
+  :root[data-furigana="off"] .peek,
+  :root[data-furigana="off"] .deepdive .dd-body p,
+  :root[data-furigana="off"] .deepdive .dd-title { line-height: 1.7; }
   /* ヘッダーの操作ボタン（ふりがな・テーマ） */
   header.site .toprow { display:flex; align-items:center; justify-content:space-between; gap:10px; }
   header.site .controls { display:flex; gap:8px; flex-shrink:0; }
@@ -377,6 +413,7 @@ export function buildSite(curated, { persist = true } = {}) {
     dateLabel: label,
     generatedAt: new Date().toISOString(),
     overview: curated.overview || "",
+    deepdive: curated.deepdive || null,
     stories: curated.stories || [],
   };
 
