@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-13",
+    "dateLabel": "2026年7月13日(月)",
+    "generatedAt": "2026-07-12T21:47:09.308Z",
+    "overview": "米イラン{停戦|ていせん}崩壊とホルムズ海峡をめぐる緊迫、{泰国|タイ}・{曼谷|バンコク}の大規模火災、ウクライナ首相{更迭|こうてつ}、そしてグラム米上院議員の急死など、地政学リスクが同時多発した一日です。",
+    "deepdive": {
+      "title": "米イラン{停戦|ていせん}が崩壊、ホルムズ海峡めぐり{応酬|おうしゅう}激化",
+      "body": "米国とイランが再び軍事的な攻撃の応酬に入りました。イランは重要な原油輸送路であるホルムズ海峡の「封鎖」を発表し、米国側は「海峡は開いている」と主張して対立しています。米中央軍は艦船の航行が続いていると強調していますが、イラン国営メディアはガルフ諸国の複数拠点や船舶への攻撃を報じており、事実関係は錯綜しています。\nこの事態の発端は、米国による対イラン核関連施設への空爆をきっかけとした一時的な{停戦|ていせん}が、双方の不信感から早々に崩壊したことにあります。専門家は「米国とイランはお互いを信頼できる交渉相手とみなしていない」と指摘しており、{停戦|ていせん}自体が脆弱な基盤の上に成り立っていたことが浮き彫りになりました。トランプ大統領は暗殺の脅威があれば「1000発のミサイルで報復する」と{恫喝|どうかつ}するなど、緊張は言葉の上でもエスカレートしています。\nホルムズ海峡は世界の原油輸送の約2割が通過するとされる、エネルギー安全保障上の要衝です。ここが本当に封鎖されれば、原油価格の急騰、世界的なインフレ再燃、そして日本を含むアジアのエネルギー調達コストの上昇に直結します。日本は原油の多くを中東に依存しており、この地域の緊張は電気代・ガソリン価格を通じて家計に跳ね返る可能性があります。\n今後の焦点は、実際に海峡の航行がどこまで阻害されるか、米国がイランへの追加空爆に踏み切るか、そして周辺のガルフ諸国（サウジアラビア、UAEなど）がどちらの側につくか、あるいは中立を保とうとするかです。原油市場のボラティリティ、米国内の世論、そしてイラン国内体制の安定性も併せて注視する必要があります。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米イラン、ホルムズ海峡めぐり攻撃の応酬続く",
+        "summary": "イラン軍がホルムズ海峡の封鎖を発表し、周辺の米同盟国や基地への攻撃を実行したと主張。米国側は海峡が依然開いていると反論し、緊張が続いています。",
+        "take": "💭 世界の原油輸送の要衝が舞台になっており、実際の航行阻害の有無が原油価格急騰の{分水嶺|ぶんすいれい}になる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "米イラン{停戦|ていせん}、なぜ崩壊したのか",
+        "summary": "専門家は米国とイランが互いを「信頼できる交渉相手」とみなしていないことが、{停戦|ていせん}再崩壊と戦闘再開の背景にあると分析しています。",
+        "take": "💭 {停戦|ていせん}が構造的に脆弱だった点を見抜くと、今後も同様の一時休戦→再燃のサイクルが続く可能性が高い。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "{曼谷|バンコク}のパブで火災、27人死亡・63人負傷",
+        "summary": "タイの{曼谷|バンコク}にある人気パブで大規模火災が発生し、少なくとも27人が死亡、63人が負傷しました。出火原因は現在調査中です。",
+        "take": "💭 観光地での防火体制の甘さが露呈しており、東南アジア各国の建築規制・避難経路の再点検を促す契機になる。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "ゼレンスキー大統領、ウクライナ首相を{更迭|こうてつ}",
+        "summary": "ウクライナのゼレンスキー大統領は政府の大幅な改造を発表し、就任1年のスビリデンコ首相が退任することになりました。",
+        "take": "💭 戦時下での政権基盤強化の狙いとみられ、西側支援国との関係調整や汚職対策の姿勢を示す狙いもありそうだ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 5,
+        "title_ja": "グラム米上院議員が急死、71歳",
+        "summary": "トランプ大統領の盟友として知られる共和党の重鎮リンゼー・グラム上院議員が、急な病により71歳で死去しました。直前までウクライナを訪問していました。",
+        "take": "💭 対外強硬派の急死により、中間選挙前のサウスカロライナ州上院議席争いと共和党の外交路線に波紋が広がる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 6,
+        "title_ja": "ウクライナのドローン攻撃、ロシアがアゾフ海の海運停止",
+        "summary": "ウクライナ軍のドローン攻撃により、1週間足らずで90隻の船舶が標的となり、ロシアはアゾフ海での海運を停止せざるを得なくなりました。",
+        "take": "💭 ロシアの「影の船団」による石油輸出網に打撃が及んでおり、経済制裁の抜け穴封じにもつながる展開だ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov"
+      },
+      {
+        "rank": 7,
+        "title_ja": "カタール前首長、ハマド・ビン・ハリファ・アール・サーニー氏死去",
+        "summary": "1996年に無血クーデターで権力を握り、カタールを天然ガス富裕国へと変貌させた前首長が74歳で死去しました。",
+        "take": "💭 中東外交の調停役としてカタールの存在感を築いた立役者の死は、同国の今後の外交スタンスにも影響しうる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 8,
+        "title_ja": "イスラエル総選挙、10月27日実施へ",
+        "summary": "イスラエル議会は10月27日に総選挙を行うと決定しました。ガザ戦争開始以降のネタニヤフ首相への信任を問う選挙とみられています。",
+        "take": "💭 選挙結果次第でガザ情勢や対イラン政策の継続性が大きく変わりうるため、中東全体の不確実性が高まる。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3360296/israel-hold-parliamentary-elections-october-27-netanyahu-seeks-another-term?utm_source=rss_feed"
+      },
+      {
+        "rank": 9,
+        "title_ja": "シリア新議会、アサド政権崩壊後初の会期開始",
+        "summary": "シリアの暫定議会が初会期を開き、新憲法の起草と民主化への道筋作りに着手しました。長年の独裁体制からの転換点となります。",
+        "take": "💭 中東の権威主義体制崩壊後の民主化プロセスとして、周辺国や国際社会の関与の在り方が試される局面だ。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3360289/first-session-syrias-parliament-convenes-after-assads-ousting?utm_source=rss_feed"
+      },
+      {
+        "rank": 10,
+        "title_ja": "モディ首相、インド太平洋外交を加速",
+        "summary": "インドのモディ首相は米中がインド太平洋地域の秩序を再編する中、域内諸国との関係強化に向け一連の協定に署名しています。",
+        "take": "💭 日本にとってはインドとの連携深化が対中バランスの要になり、経済・安全保障両面での協力拡大が見込まれる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/12/asia-pacific/politics/modi-indo-pacific-partners-china-us/"
+      },
+      {
+        "rank": 11,
+        "title_ja": "中国のブラマプトラ川{巨大|きょだい}ダム、地質学者が安全性に疑問",
+        "summary": "チベットで建設中の1678億ドル規模のダムについて、中国の地質学者らが活断層上に位置することへの安全性懸念を示しています。",
+        "take": "💭 下流のインド・バングラデシュへの地政学的影響も大きく、水資源をめぐる新たな摩擦の火種になりかねない。",
+        "category": "アジア",
+        "source": "The Hindu",
+        "link": "https://www.thehindu.com/news/international/chinese-geologists-question-safety-of-brahmaputra-mega-dam-in-tibet-being-built-over-active-seismic-fault-line/article71214792.ece"
+      },
+      {
+        "rank": 12,
+        "title_ja": "中国生命保険、半導体ファンド設立",
+        "summary": "中国生命保険をはじめとする国有系企業が、半導体産業向けの新たな投資ファンドを相次いで設立し、「忍耐強い資本」の投入を進めています。",
+        "take": "💭 米国の対中半導体規制に対抗する長期国産化戦略の一環であり、日米の半導体企業にも競争環境の変化が及ぶ。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/article/3360269/chinese-state-owned-firms-set-semiconductor-funds-amid-calls-patient-capital?utm_source=rss_feed"
+      },
+      {
+        "rank": 13,
+        "title_ja": "中国、社債の最高格付けを{厳格|げんかく}化",
+        "summary": "中国当局は格付け機関に対し、高利回りの借り手へのトリプルA格付け付与を制限するよう圧力をかけています。",
+        "take": "💭 過剰債務問題を{是正|ぜせい}する動きだが、地方政府や不動産関連の資金調達コスト上昇という副作用も懸念される。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/750c90d4-6c6f-464a-85c2-5ae86b085da8"
+      },
+      {
+        "rank": 14,
+        "title_ja": "米国の金融覇権に暗雲、決済企業が最初の{犠牲|ぎせい}に",
+        "summary": "米国の金融面での優位性に陰りが見え始めており、特に決済関連企業が最初に影響を受ける可能性があると分析されています。",
+        "take": "💭 ドル基軸体制の揺らぎは為替・国際送金網の再編を促し、日本企業の外国為替リスク管理にも波及しうる。",
+        "category": "経済",
+        "source": "The Economist",
+        "link": "https://www.economist.com/finance-and-economics/2026/07/12/storm-clouds-gather-over-americas-financial-supremacy"
+      },
+      {
+        "rank": 15,
+        "title_ja": "アンソロピックとOpenAI、中国勢の攻勢に直面",
+        "summary": "AI競争の焦点が「性能」から「普及」へと移る中、アンソロピックやOpenAIは中国発のAIモデルの台頭に直面しています。",
+        "take": "💭 性能差が縮まる局面ではコストと導入のしやすさが勝敗を分け、オープンソース系中国モデルの存在感が増す。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rWjhsY0U1R09sbS1ybDlyZmJYUWpWOGtSekRzU2pLTjZlR2U3V1prUEtNd29zN0xCemJoQS04bC15WVh3a0FOcWxNaW5zUjE5QUhGVXVOTUdMNWpsM2dER3hSX00wNGRPdlNmbTdUNzZYUi1pUnpF?oc=5"
+      },
+      {
+        "rank": 16,
+        "title_ja": "マスク氏とアルトマン氏、アップルのOpenAI提訴で応酬",
+        "summary": "アップルがOpenAIを提訴したことを受け、イーロン・マスク氏とサム・アルトマン氏がX上で舌戦を繰り広げました。",
+        "take": "💭 AI業界の主導権争いは技術だけでなく法廷闘争にも及んでおり、プラットフォーム間の対立が先鋭化している。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html"
+      },
+      {
+        "rank": 17,
+        "title_ja": "米労働者の多数、AI富裕基金の設立を支持",
+        "summary": "テック業界のレイオフが増える中、米国の労働者の多くがAI企業への課税で財源を作る「AI主権ファンド」構想を支持しているとの調査結果が出ました。",
+        "take": "💭 AIによる雇用代替への社会不安が政策論争に発展しつつあり、企業側の説明責任と再分配のあり方が問われる。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/12/majority-of-us-workers-support-ai-fund-amid-tech-layoffs-survey.html"
+      },
+      {
+        "rank": 18,
+        "title_ja": "AIデータセンターへの反対運動、各地で拡大",
+        "summary": "米国各地でAIデータセンター建設への地域住民の反対運動が広がっており、電力・水資源への影響が主な争点となっています。",
+        "take": "💭 AI投資ブームの裏側で電力網や地域環境との摩擦が表面化しており、インフラ制約が成長の速度を左右しかねない。",
+        "category": "テック",
+        "source": "The Verge",
+        "link": "https://www.theverge.com/column/963346/ai-data-centers-fight"
+      },
+      {
+        "rank": 19,
+        "title_ja": "ホンダなど日本企業、AI活用推進へ社員に報奨金",
+        "summary": "ホンダをはじめとする日本企業が、社員によるAI活用を促進するため報奨金制度を導入し、現場主導のAI導入を後押ししています。",
+        "take": "💭 トップダウンでなく現場発の普及策は定着率が高まりやすく、日本企業のAI活用の遅れを{挽回|ばんかい}する一手になりうる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/honda-other-japan-companies-pay-workers-to-spearhead-ai-use"
+      },
+      {
+        "rank": 20,
+        "title_ja": "日本の中小企業、経済・政治リスクで中国から撤退",
+        "summary": "日本の中小企業が中国事業からの撤退を進めており、経済の減速や地政学的リスクの高まりが背景にあるとみられます。",
+        "take": "💭 サプライチェーンの「脱中国」が中小企業にも広がっており、東南アジアやインドへの再配置が今後の焦点となる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/business-trends/japan-s-smaller-businesses-exit-china-on-economic-political-risks"
+      }
+    ]
+  },
+  {
     "date": "2026-07-12",
     "dateLabel": "2026年7月12日(日)",
     "generatedAt": "2026-07-11T21:46:54.584Z",
