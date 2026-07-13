@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-14",
+    "dateLabel": "2026年7月14日(火)",
+    "generatedAt": "2026-07-13T21:55:28.224Z",
+    "overview": "米国とイランの{緊張|きんちょう}が{核心|かくしん}的な世界ニュースとなり、ホルムズ{海峡|かいきょう}を巡る軍事{衝突|しょうとつ}と経済への{波及|はきゅう}が同時進行しています。加えて、AI企業間の法廷{闘争|とうそう}、日本の年金・株式市場の変化、欧州の異常気象と災害など、多様な重要ニュースが並びました。",
+    "deepdive": {
+      "title": "米国、ホルムズ海峡{封鎖|ふうさ}を巡りイランへ追加攻撃－中東{危機|きき}が深刻化",
+      "body": "トランプ米大統領は、イランの{核|かく}開発を巡る{緊張|きんちょう}の中で、ホルムズ海峡を通過する貨物船に対して20%の通行料を課すとともに、イラン向け船舶への海上封鎖を再開すると表明しました。これを受けて米中央軍（CENTCOM）はイラン国内の軍事施設や船舶に対して新たな攻撃を実施し、無人{水上|すいじょう}艇（ドローンボート）による攻撃も初めて行われました。\n\n背景には、米国とイランの間で続く{核|かく}開発疑惑と{報復|ほうふく}の応酬があります。和平協議は{行|おこ}き詰まり、イラン側も米軍基地への攻撃を強めるなど、双方が引くに引けない状況に陥っています。ホルムズ海峡は世界の海上原油輸送の約2割が通過する{要衝|ようしょう}であり、ここでの軍事衝突は単なる地域紛争を超えた世界的な経済{リスク|りすく}となります。\n\nこの事態が重要なのは、原油価格の急騰と物価上昇（インフレ）を通じて世界経済全体に影響が及ぶためです。実際、原油価格は1か月ぶりの高値をつけ、米連邦準備制度理事会（FRB）内部でも利上げの可能性が{議論|ぎろん}され始めています。日本を含むエネルギー輸入国にとっては、燃料費上昇や物価高という形で家計に直接跳ね返るリスクがあります。\n\n今後の焦点は、ホルムズ海峡が実際に封鎖されるか、米国が主張する「支配」が現実的に可能かという点です。専門家は、海峡を完全に管理するには{膨大|ぼうだい}な軍事力が必要で、米国単独では困難だと指摘しています。またドバイが海峡{迂回|うかい}のための新港湾建設を計画するなど、周辺国はすでにリスク分散を始めています。今後数週間の軍事的{駆|か}け引きと、原油・株式市場の反応が世界経済の行方を左右する重要な{分水嶺|ぶんすいれい}となりそうです。",
+      "category": "世界",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米国、ホルムズ海峡封鎖を巡りイランへ追加攻撃",
+        "summary": "トランプ大統領がイラン向け船舶の海上封鎖再開と、海峡通過貨物への20%課税を表明。米中央軍はイラン国内施設への攻撃を実施し、無人艇による攻撃も初めて行われました。",
+        "take": "💭 ホルムズ海峡の緊張は世界の原油供給網の急所を突く問題で、日本のエネルギー安全保障にも直結する。米国の「支配」宣言が実効性を持つかは軍事的にも疑問視されている。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/live/2026/jul/13/us-iran-strikes-middle-east-strait-of-hormuz-military-latest-news-updates"
+      },
+      {
+        "rank": 2,
+        "title_ja": "米イラン緊張で株・債券が下落、投資家はリスク回避へ",
+        "summary": "米国とイランの軍事的対立激化を受け、世界の株式・債券市場が下落しました。原油価格は上昇し、投資家心理は「リスクオフ」に転じています。",
+        "take": "💭 地政学リスクが実際の資産価格に波及する典型例。インフレ再燃と利上げ観測が重なれば、株式市場の調整は長引く可能性がある。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/54be872f-c0a2-46dd-9337-5cad9124e734"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ウクライナと欧州、対ロシア弾道ミサイル防衛の「有志連合」結成",
+        "summary": "ウクライナと英独仏を含む欧州10カ国が、ロシアの弾道ミサイルに対抗する共同防衛計画で合意しました。ウクライナの実戦経験を活用する枠組みです。",
+        "take": "💭 米国の関与が不透明化する中、欧州が自前の防衛体制構築へ舵を切った象徴的な動き。NATOの枠組みを補完する新たな安全保障アーキテクチャの萌芽とも言える。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme"
+      },
+      {
+        "rank": 4,
+        "title_ja": "円安が加速、日銀の利上げ判断に影響か",
+        "summary": "円が対ドルで40年ぶりの安値水準まで下落し、日本銀行の追加利上げ観測が強まっています。円安是正には金利引き上げが有効とされています。",
+        "take": "💭 輸入物価上昇による家計負担増と、円安による企業収益押し上げの綱引きが続く。日銀の判断は今後の物価と賃金動向次第で揺れ動きそうだ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/commentary/2026/07/13/world/should-boj-raise-rates/"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ＧＰＩＦ国内投資強化、資産構成の変更は想定せず",
+        "summary": "日本政府は公的年金積立金管理運用独立行政法人（ＧＰＩＦ）の国内投資拡大方針について、基本の資産構成割合自体は変更しない考えであることが関係者の話で分かりました。",
+        "take": "💭 海外投資家にとっては日本国債・株式への資金シフトの規模感が焦点。円高要因としても市場が注視している。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/13/pension-shift-foreign-money-managers/"
+      },
+      {
+        "rank": 6,
+        "title_ja": "三菱ＵＦＪ、時価総額で日本首位に",
+        "summary": "三菱ＵＦＪフィナンシャル・グループが、日本銀行の利上げによる収益環境改善を背景に、初めて日本企業の時価総額トップに立ちました。",
+        "take": "💭 金利上昇局面でメガバンクの収益力が再評価された形。日本株市場の主役交代は投資家のポートフォリオ戦略にも影響する。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/13/companies/mfug-most-valuable-firm-japan/"
+      },
+      {
+        "rank": 7,
+        "title_ja": "韓国株急落、ＡＩ懸念でＳＫハイニックスなど半導体売り",
+        "summary": "ＡＩ関連需要への懸念からＳＫハイニックスなど半導体株が急落し、韓国株式市場全体が5%超下落しました。米上場後の本国での初取引でも売り圧力が強まっています。",
+        "take": "💭 AIブームへの過熱警戒が半導体セクターの調整を招いた形。需給の一時的な乱れか、それとも成長期待の見直しの始まりか見極めが必要だ。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1saThtN1dGUng0Z3MtNzNqNlI3WXNKSG85Ri0tNWFVaVVzWVJVUUlzYTFOUHpEbkFDdmg0Q3pESDNPdmI1dWExMi1wdS1KRXIwWWJ0cG1yTDQ2LUNlU0FNVDFZQ2tFVnpsTExJWkltRmJlSGJWcF9heA?oc=5"
+      },
+      {
+        "rank": 8,
+        "title_ja": "ＴＳＭＣ、4-6月期は36%増収－ＡＩ向け需要堅調",
+        "summary": "台湾積体電路製造（ＴＳＭＣ）は4〜6月期の売上高が前年比36%増となり、ＡＩ向けハードウエア需要の強さを示しました。",
+        "take": "💭 半導体不安が広がる中でもＴＳＭＣの実需は堅調。AIインフラ投資の本質的な牽引役はやはり最先端半導体製造にあることを裏付ける。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNZ3N2U1BhaG83OXdDclZCRVBZSnJES2lleWhCWnhGdU9lUTBhREF1OWtNbS1RNzZpcTlROEtjdGxWOTdjb2dHTlZydVRlaUdUOXgwOHBQa29oYWxHZHR3UjJIZGJsS0dlbnhXcXVGMkRXZFRVX2dB?oc=5"
+      },
+      {
+        "rank": 9,
+        "title_ja": "日本ペイント、アクゾの塗料事業買収提案を再度拒否される",
+        "summary": "日本ペイントホールディングスが約1.4兆円でオランダのアクゾノーベルの塗料事業買収を再提案しましたが、アクゾ側は既存のアクサルタとの統合合意の方が優れているとして拒否しました。",
+        "take": "💭 日本企業による海外大型買収の難しさを象徴する事例。国内市場の成熟を背景に海外M&Aは今後も増えるが、交渉力強化が課題だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/13/companies/nippon-paint-offer-akzo-nobel/"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米12州、パラマウントとワーナー・ブラザースの合併阻止を提訴",
+        "summary": "米国の12の州が、1100億ドル規模のパラマウントとワーナー・ブラザース・ディスカバリーの合併計画を巡り、競争制限を理由に差し止めを求める訴訟を起こしました。",
+        "take": "💭 メディア業界の寡占化への警戒が強まっている。合併が成立すれば映画館やケーブルテレビ業界への影響は大きく、消費者価格にも跳ね返る可能性がある。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/7/13/twelve-us-states-sue-paramount-to-block-warner-bros-merger?traffic_source=rss"
+      },
+      {
+        "rank": 11,
+        "title_ja": "アンディ・バーナム氏、英労働党内の支持固め首相就任へ前進",
+        "summary": "アンディ・バーナム氏が労働党議員のほぼ全会派の支持を獲得し、英国次期首相となる見通しが強まっています。",
+        "take": "💭 英国政治の指導部交代は対欧州・対米外交路線にも影響し得る。スターマー政権の後継体制がどこまで政策を継続するかが焦点だ。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/13/andy-burnham-in-line-to-become-british-pm-after-securing-party-support?traffic_source=rss"
+      },
+      {
+        "rank": 12,
+        "title_ja": "ハンガリー議会、大統領罷免を可決",
+        "summary": "ハンガリー議会は、{前|ぜん}首相ビクトル・オルバン氏の{忠実|ちゅうじつ}な支持者とされたシュヨク大統領の罷免を可決しました。オルバン氏は4月に16年ぶりに政権を失っています。",
+        "take": "💭 オルバン時代の遺産を一掃しようとする新政権の動きが加速。ハンガリーのEU内での立ち位置が今後どう変化するか注視すべきだ。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 13,
+        "title_ja": "スーダン準軍事組織ＲＳＦ司令官に死刑判決",
+        "summary": "スーダンの準軍事組織「即応支援部隊」（ＲＳＦ）司令官モハメド・ハムダン・ダガロ氏が、戦争犯罪により{欠席|けっせき}裁判で死刑判決を受けました。他15人の司令官・関係者も有罪となりました。",
+        "take": "💭 内戦下の司法判断がどこまで実効性を持つかは不透明。国際社会がスーダン危機への関与を強めるきっかけになるか注目される。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 14,
+        "title_ja": "イスラエル、10月27日に総選挙",
+        "summary": "イスラエルは10月27日に総選挙を実施すると発表しました。ハマスによる奇襲攻撃以降、初めての総選挙となります。",
+        "take": "💭 ガザ情勢と和平交渉の行方が選挙結果を大きく左右しそうだ。ネタニヤフ政権の継続可否は中東全体の安定にも影響する。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GTFdxakwtT3Z1N0I4RmNWRDlpcGkxQlJ6VkRqQVJmVW8tZVJOekRjRWtLdjBhTDVjNjBzRFJjdzRMeDJFNVB1aHRMdmtxdUdDREtqVzA3RThSOUpOT2FaMXBVdVlOMVMzTVBOekd6SWJtcFR3YzVaMg?oc=5"
+      },
+      {
+        "rank": 15,
+        "title_ja": "米国、国際刑事裁判所（ＩＣＣ）廃止へ向けた対抗運動を表明",
+        "summary": "米国はハーグの国際刑事裁判所を「米国の主権への{許容|きょよう}できない脅威」と非難し、制裁も辞さない姿勢で対抗運動を展開すると発表しました。",
+        "take": "💭 国際法秩序への米国の不信任表明とも言える動き。同盟国との足並みの乱れが国際司法の実効性をさらに弱める懸念がある。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3360427/us-vows-campaign-end-icc-intolerable-threat-american-sovereignty?utm_source=rss_feed"
+      },
+      {
+        "rank": 16,
+        "title_ja": "日本、選挙でのＡＩコンテンツ表示を義務化する法律を制定",
+        "summary": "日本は選挙関連のＡＩ生成コンテンツにフラグ付けを義務付ける社会メディア法を制定しました。誤情報や名誉毀損の拡散防止を目指しています。",
+        "take": "💭 AI生成情報が選挙の公正性を脅かすリスクへの先手対応。実効性の担保には海外プラットフォームとの協力が不可欠だ。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/politics/japan-enacts-social-media-law-requiring-flagging-of-ai-content-in-elections"
+      },
+      {
+        "rank": 17,
+        "title_ja": "アップル、元社員がバグ悪用しＯｐｅｎＡＩへ機密ファイル持ち出しと主張",
+        "summary": "アップルは、退職した元社員が「まれ」なバグを悪用し、ＯｐｅｎＡＩへ転職後も社内システムから機密ファイルをダウンロードしていたと主張する訴訟を起こしました。",
+        "take": "💭 AI人材争奪戦の裏で企業秘密保護の脆弱性が露呈した形。大手テック間の人材流動が法廷闘争にまで発展する時代の到来を示す。",
+        "category": "テック",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ナデラ氏、ＡＩ利用企業に警鐘－「トロイの木馬」懸念",
+        "summary": "マイクロソフトのサティア・ナデラＣＥＯが、独自モデルを提供する大手ＡＩ研究所が企業にとって「トロイの木馬」のように機能するリスクについて警告しました。",
+        "take": "💭 プラットフォーム依存のリスクを大手自らが指摘する異例の発言。企業のAI導入戦略は、ベンダーロックインの回避がより重要な論点になりそうだ。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "パリ近郊で「前例のない規模」の森林火災、900戸避難",
+        "summary": "パリ南東部のフォンテーヌブローの森で大規模な森林火災が発生し、900戸が避難、道路・鉄道にも影響が出ています。内相は放火の可能性を指摘しています。",
+        "take": "💭 欧州各地で熱波と乾燥が重なり火災リスクが常態化しつつある。気候変動対応とインフラ防災投資の両立が急務だ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris"
+      },
+      {
+        "rank": 20,
+        "title_ja": "バングラデシュで豪雨・洪水、51人死亡",
+        "summary": "バングラデシュで豪雨による鉄砲水と地滑りが発生し、少なくとも51人が死亡、多数の住民が家を失いました。",
+        "take": "💭 南アジアの{脆弱|ぜいじゃく}な治水インフラが気候変動下でますます試されている。国際的な防災支援と早期警戒システムの強化が求められる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
     "date": "2026-07-13",
     "dateLabel": "2026年7月13日(月)",
     "generatedAt": "2026-07-12T21:47:09.308Z",
