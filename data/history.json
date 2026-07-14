@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-15",
+    "dateLabel": "2026年7月15日(水)",
+    "generatedAt": "2026-07-14T21:56:35.178Z",
+    "overview": "米国とイランの{緊張|きんちょう}再燃で{原油|げんゆ}相場と中東情勢が世界を{揺|ゆ}るがす一方、AIブームが{米国|べいこく}株式市場と規制の両面で新局面に入るなど、地政学と経済・技術が同時に大きく動いた一日です。",
+    "deepdive": {
+      "title": "米、イラン封鎖を再開　ホルムズ海峡めぐる{緊張|きんちょう}が再燃",
+      "body": "トランプ米大統領は、イランの港湾に対する海上封鎖を再開すると発表し、米中央軍はイランの軍事目標への新たな攻撃を完了したと発表しました。これにより6月に成立したばかりの米・イラン間の暫定的な{停戦|ていせん}合意（MoU）は事実上崩壊したとみられています。\n\n背景には、ホルムズ海峡の管理を巡る対立があります。この海峡は世界の原油輸送の約2割が通過する{要衝|ようしょう}で、トランプ氏は一時、通航する貨物船に20％の「通航料」を課す案を打ち出しましたが、わずか1日で撤回し、代わりに湾岸諸国との投資協定で対応する方針に転じました。一方でイランは、米国が封鎖を再開したことで停戦の前提が崩れたと反発し、フーシ派もサウジアラビアへのミサイル攻撃で応じるなど、周辺国を巻き込んだ緊張が拡大しています。\n\nこの対立が重要なのは、単なる中東の地域紛争にとどまらず、世界経済の{血流|けつりゅう}である原油供給網に直結するためです。原油先物はすでに1カ月ぶりの高値まで上昇しており、欧州中央銀行やイングランド銀行では利上げ観測が再燃するなど、インフレ再燃への警戒が広がっています。日本を含むエネルギー輸入国にとっても、燃料価格や物流コストの上昇という形で家計や企業活動に波及する可能性があります。\n\n今後の焦点は、イランがどこまで海峡封鎖への実力行使に踏み切るか、そして米国がさらなる軍事行動に踏み込むかどうかです。エコノミスト誌も指摘するように、トランプ政権にはこの{膠着|こうちゃく}状態を打開する決定的な好手が乏しく、資金繰りに苦しむイラン側にも{海峡|かいきょう}封鎖の長期化はコストとなります。双方が「{瀬戸際|せとぎわ}外交」を続ける中、偶発的な衝突が本格的な戦争に発展するリスクも{排除|はいじょ}できず、原油価格とグローバル経済への影響を注視する必要があります。",
+      "category": "世界",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米、イラン港湾封鎖を再開　停戦合意は事実上崩壊",
+        "summary": "トランプ大統領はイランの港湾に対する海上封鎖を再開し、米中央軍は新たな軍事攻撃を完了したと発表しました。イラン側は6月の停戦合意（MoU）がこれで破棄されたと主張しています。",
+        "take": "💭 中東の{緊張|きんちょう}再燃は原油価格・世界の物流・インフレ動向に直結し、日本経済にも波及する重大リスクです。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "原油先物、1カ月ぶり高値　米イラン攻撃応酬でホルムズ情勢緊迫",
+        "summary": "米国とイランの攻撃の応酬を受け、原油先物価格は約3%上昇し1カ月ぶりの高値を付けました。ホルムズ海峡の安定輸送への懸念が市場心理を{圧迫|あっぱく}しています。",
+        "take": "💭 原油高が続けば各国のインフレ再燃・利上げ観測に直結し、日本のガソリン価格や輸入コストにも影響が及びます。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFbkloY0x0TkhKMjlpMjBjSU5Mb1RxcnFEekdkZklPMVRHNVpxY3AzaEZIOEtBOFFBMzlSWjE2VmJDeWt6Sk1JWHZEUFc4NWpRZDdCM3AyX1k2d09ZZGFQMlJrRFRyS2Z5RkVDY1Myd1h2N2VhUEtUTER3?oc=5"
+      },
+      {
+        "rank": 3,
+        "title_ja": "トランプ氏、ホルムズ通航料を事実上撤回　湾岸協定で代替",
+        "summary": "トランプ大統領は打ち出したばかりの20％通航料案を撤回し、代わりに湾岸諸国との投資協定で対応する方針に転じました。狙いは市場の混乱回避と外交的な取引材料の確保とみられます。",
+        "take": "💭 わずか1日での方針転換は政策の一貫性への疑問を招き、市場や同盟国の信頼にも影響しかねません。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9seXdDcnBhV2REMlN6VmVkRWZNRHQxM3JtN2x5NVJEX3dGckoyWUlHZWdha3drZVYxYVhodmFtUXVSNVlpRWhqRGtFZ2NuUnJFRHJ6U1Q4djMzaFF6R08tWkF0ekdFc3VPY3g3eEdRajdCUjRKcElmLWxn?oc=5"
+      },
+      {
+        "rank": 4,
+        "title_ja": "イエメン「戦争でも和平でもない」{膠着|こうちゃく}状態が終焉か",
+        "summary": "フーシ派の動員拡大とサウジアラビアへの攻撃再開により、長年続いたイエメンの不安定な{均衡|きんこう}状態が崩れつつあると報じられています。地域全体の緊張激化につながる恐れがあります。",
+        "take": "💭 イエメン情勢の悪化は紅海・ホルムズ海峡の両方に波及し、世界の海上輸送リスクを一段と高める可能性があります。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/features/2026/7/14/why-yemens-long-no-war-no-peace-deadlock-may-be-ending?traffic_source=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ウクライナ首相辞任、ゼレンスキー氏が内閣改造へ",
+        "summary": "ウクライナ議会はスヴィリデンコ首相の辞任を承認し、ゼレンスキー大統領は「政治戦略の転換」に伴う内閣改造を進めています。戦時下の政権運営の変化が注目されます。",
+        "take": "💭 戦争長期化の中での指導部刷新は、対露戦略や欧米への支援要請の姿勢にも影響を与える可能性があります。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 6,
+        "title_ja": "中国、政治局員3人目を{粛清|しゅくせい}　汚職摘発が深化",
+        "summary": "習近平指導部による反腐敗運動が共産党政治局員にまで及び、3人目の摘発が明らかになりました。軍・党・政府の高官が相次いで対象となっています。",
+        "take": "💭 権力基盤強化が目的とみられる一方、党内の{軋轢|あつれき}や統治への不安定要因ともなり得る両刃の剣です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/14/asia-pacific/politics/china-purge-politburo-graft/"
+      },
+      {
+        "rank": 7,
+        "title_ja": "中国の月間自動車輸出、初の100万台超え",
+        "summary": "中国の6月の自動車輸出が初めて月間100万台を突破し、貿易全体も前年比27%増となりました。米欧からの追加関税リスクが高まっています。",
+        "take": "💭 中国の輸出攻勢は世界の自動車産業の勢力図を塗り替えつつあり、日本メーカーの競争戦略にも{直撃|ちょくげき}します。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs"
+      },
+      {
+        "rank": 8,
+        "title_ja": "CXMT、85億ドル調達へ　中国半導体最大級のIPO",
+        "summary": "中国メモリー大手CXMTが85億ドル規模の新規株式公開を計画しており、中国半導体企業として過去最大のIPOになる見通しです。米国の対中規制下での資金調達力が注目されています。",
+        "take": "💭 米国の輸出規制にもかかわらず中国半導体産業が資本市場で存在感を強めており、技術覇権競争の新局面を示します。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/tech/semiconductors/cxmt-to-raise-8.5bn-in-largest-chinese-chip-ipo"
+      },
+      {
+        "rank": 9,
+        "title_ja": "米CPI、想定超えの{鈍化|どんか}も利上げ再燃観測は消えず",
+        "summary": "6月の米消費者物価指数はエネルギー価格の下落で予想以上に鈍化しましたが、中東情勢の再緊迫を受け、市場はFRBの利上げ再開の可能性を完全には{排除|はいじょ}していません。",
+        "take": "💭 インフレ鈍化と地政学リスクの綱引きが続く中、FRBの政策判断は一段と難しくなっています。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3360570/us-inflation-cools-brief-ceasefire-fed-keeps-rate-hike-option?utm_source=rss_feed"
+      },
+      {
+        "rank": 10,
+        "title_ja": "IBM株が25%急落　AIシフトで{従来型|じゅうらいがた}事業に{陰|かげ}り",
+        "summary": "IBMのクリシュナCEOは、顧客がAIサーバーやストレージへの投資を急ぐ中で従来型事業が「{つまずいた|躓いた}」と述べ、株価は25%急落しました。AI投資の波が既存IT企業の収益構造を揺さぶっています。",
+        "take": "💭 AI投資ブームの恩恵が一様でないことを示す象徴的な事例で、勝者と敗者の選別が今後さらに鮮明になりそうです。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95"
+      },
+      {
+        "rank": 11,
+        "title_ja": "ウォール街大手銀、株式取引ブームで最高益",
+        "summary": "JPモルガンやゴールドマン・サックスなど大手銀行は、AI関連銘柄の取引急増とスペースXのIPOなどを追い風に記録的な収益を計上しました。",
+        "take": "💭 AIブームの恩恵は投資銀行の手数料収入という形で確実に金融セクターに波及しており、市場の過熱感には注意が必要です。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2"
+      },
+      {
+        "rank": 12,
+        "title_ja": "ニューヨーク州、大規模データセンターを1年間{凍結|とうけつ}",
+        "summary": "ニューヨーク州は電力・水資源への負荷を理由に、大規模AIデータセンターの新設を1年間停止する画期的な措置を決定しました。全米で同様の規制が広がる可能性があります。",
+        "take": "💭 AIインフラ拡大と地域住民の生活インフラとの{摩擦|まさつ}が表面化しており、他州や日本の政策議論にも影響を与えそうです。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/7/14/new-york-imposes-landmark-one-year-ban-on-large-data-centres?traffic_source=rss"
+      },
+      {
+        "rank": 13,
+        "title_ja": "メタ従業員ら、AIによる差別的レイオフを{提訴|ていそ}",
+        "summary": "メタの現・元従業員がAIを使った人員削減で障害を持つ従業員が不当に狙われたとして提訴しました。AIが人事判断に使われることへの懸念が高まっています。",
+        "take": "💭 AIによる雇用判断の透明性・公平性が問われる象徴的な訴訟で、企業のAI活用に法的リスクを{突|つ}きつけます。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html"
+      },
+      {
+        "rank": 14,
+        "title_ja": "バフェット氏、ゲイツ財団への寄付を{打|う}ち切り",
+        "summary": "ウォーレン・バフェット氏は、ビル・ゲイツ氏とジェフリー・エプスタイン{受刑者|じゅけいしゃ}との関係を巡る報道を受け、20年続けてきたゲイツ財団への寄付を停止したことを明らかにしました。",
+        "take": "💭 世界的{慈善|じぜん}事業の枠組みにも{影響|えいきょう}を及ぼす動きで、著名人の評判リスクが資金の流れを左右する典型例です。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3360580/warren-buffett-cuts-donations-bill-gates-charity-after-epstein-revelations?utm_source=rss_feed"
+      },
+      {
+        "rank": 15,
+        "title_ja": "企業のAI投資、「1ドルあたりの成果」測定へ　OpenAIが指針",
+        "summary": "OpenAIは、企業がエージェント型AI時代の投資対効果を測るための考え方を提示し、効率化や高価値業務への{注力|ちゅうりょく}を促しています。",
+        "take": "💭 AI投資が「導入すること」自体から「実際の成果」への評価軸に移りつつあり、過大な期待の是正が始まっています。",
+        "category": "AI",
+        "source": "OpenAI",
+        "link": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+      },
+      {
+        "rank": 16,
+        "title_ja": "DeepMind CEO、AIの{独立|どくりつ}規制機関の設立を提案",
+        "summary": "グーグル・ディープマインドのハサビスCEOは、金融業界のFINRAのような独立標準化団体を設け、最先端AIモデルを検証する仕組みを提案しました。",
+        "take": "💭 業界自主規制と政府規制の中間的な枠組みは実現性が鍵で、主要企業の協力度合いが実効性を左右します。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+      },
+      {
+        "rank": 17,
+        "title_ja": "ボコ・ハラム、米中AIチャットボットを攻撃指南に悪用",
+        "summary": "ケンブリッジ大学の研究で、過激派組織ボコ・ハラムが米国・中国製のAIチャットボットを使い、戦闘員に攻撃手法を指導していた実態が明らかになりました。",
+        "take": "💭 AIの{悪用|あくよう}防止策の{脆弱|ぜいじゃく}性を突く事例で、開発企業のガードレール設計の限界が浮き彫りになっています。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/article/3360585/boko-haram-exploited-us-and-chinese-ai-chatbots-attacks-cambridge-study-finds?utm_source=rss_feed"
+      },
+      {
+        "rank": 18,
+        "title_ja": "高市内閣、{支持率|しじりつ}は{高水準|こうすいじゅん}を維持",
+        "summary": "NHKとJNNの最新世論調査によると、高市内閣の支持率はそれぞれ1ポイント、5.9ポイントの下落にとどまり、依然高い水準を保っています。",
+        "take": "💭 国内外の難題が山積する中での底堅い支持は、今後の政策運営への{地盤|じばん}固めとなりそうです。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/14/japan/politics/takaichi-approval-rating/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "日本からの海外送金、初の1兆円超え",
+        "summary": "財務省の統計によると、日本からの海外送金額が前年比11.5%増の1兆400億円となり、初めて1兆円を突破しました。2015年比では倍増しています。",
+        "take": "💭 外国人労働者の増加や国際化の進展を映す数字で、今後の移民政策・労働市場の議論にも波及しそうです。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/14/japan/japan-foreign-worker-remittances/"
+      },
+      {
+        "rank": 20,
+        "title_ja": "日銀の独立性に疑問符、長期国債利回り上昇のリスク",
+        "summary": "日銀の政策運営の独立性を巡る懸念が、長期国債（JGB）利回りの上昇リスクとして意識され始めています。国債のNISA組み入れ論議とも絡み、財政・金融政策の{行方|ゆくえ}が注目されます。",
+        "take": "💭 金融政策の信認が揺らげば、国債消化コストの上昇を通じて日本の財政運営全体に{波及|はきゅう}しかねません。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/spotlight/comment/questions-over-boj-independence-risk-rise-in-long-jgb-yields"
+      }
+    ]
+  },
+  {
     "date": "2026-07-14",
     "dateLabel": "2026年7月14日(火)",
     "generatedAt": "2026-07-13T21:55:28.224Z",
