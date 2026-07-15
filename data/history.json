@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-16",
+    "dateLabel": "2026年7月16日(木)",
+    "generatedAt": "2026-07-15T21:59:13.028Z",
+    "overview": "米国のイラン攻撃再開と{中東|ちゅうとう}情勢の緊迫化、中国の急減速する経済成長、そしてAI業界の資金調達競争が今日の主要な軸となった。フランスの{尊厳|そんげん}死法可決や{中露|ちゅうろ}に対する米中対立の深まりなど、国際秩序の変化を示す動きも目立つ。",
+    "deepdive": {
+      "title": "米国のイラン再攻撃、出口なき{泥沼|どろぬま}化の懸念",
+      "body": "米国が{中東|ちゅうとう}・ホルムズ海峡周辺でイランへの新たな空爆を実施し、トランプ大統領は「（作戦を）終わらせるかどうかまだ決めていない」としつつ、イランに対し「行儀よくしろ」と{威嚇|いかく}した。攻撃はイラン国内のバンダルアッバスやチャバハール、アフワーズなど複数都市に及び、イラン側は「{存立|そんりつ}をかけた戦争」だとして、既存の停戦・{合意|ごうい}は無効になったと{主張|しゅちょう}している。\nこの{衝突|しょうとつ}は今年に入ってから4か月以上続いており、当初は限定的な{報復|ほうふく}合戦とみられていたが、米国が一時発表したホルムズ海峡の通行料（トール）構想を{撤回|てっかい}するなど迷走も見られ、トランプ政権が明確な出口戦略を持たないまま軍事的圧力を強めている{構図|こうず}が浮かぶ。イラン最高指導部に近いペゼシュキアン大統領は「{領土|りょうど}の一寸たりとも守る」と{徹底|てってい}抗戦の{構え|かまえ}を見せている。\nこの{一件|いっけん}が重要なのは、ホルムズ海峡が世界の原油輸送の約2割を担う{生命線|せいめいせん}だからだ。同海峡が閉鎖・危険化すれば、原油の{備蓄|びちく}という緩衝材はすでに{枯渇|こかつ}しつつあり、価格急騰が世界経済、特に石油輸入国である日本にも{直撃|ちょくげき}する可能性が高い。IMO（国際海事機関）トップも商船に対し同海峡の通航を控えるよう{異例|いれい}の警告を出している。\n今後の焦点は、トランプ政権が発電所など更なる{標的|ひょうてき}への攻撃拡大に踏み切るか、イランが本当に海峡封鎖に踏み切るか、そして米国内で長期化する軍事関与への{世論|よろん}の反発がどこまで強まるかだ。ベトナム戦争の「{泥沼|どろぬま}」になぞらえる論調も出ており、中間選挙を控えるトランプ政権にとって政治的リスクも高まっている。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "トランプ氏、ホルムズ海峡通行料を撤回　イラン戦争は{泥沼|どろぬま}の様相",
+        "summary": "トランプ大統領は一時打ち出したホルムズ海峡の通行料構想を{撤回|てっかい}した。4か月以上続く対イラン軍事作戦は、明確な終着点が見えないまま迷走している。",
+        "take": "💭 通行料の撤回は弱腰と見るより、経済への副作用（{原油|げんゆ}高・海運混乱）を無視できなくなった証拠。軍事と経済のジレンマが露呈している。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "イラン、「{存立|そんりつ}をかけた戦争」宣言　米国の新たな空爆に反発",
+        "summary": "米国はバンダルアッバスなど複数都市への新たな攻撃を発表し、イランは既存の合意を無効と主張。ペゼシュキアン大統領は領土死守を{誓|ちか}った。",
+        "take": "💭 イラン指導部が「存立の危機」を強調するのは、国内の結束を固める狙いもある。体制崩壊のリスクが高まるほど、逆に強硬姿勢は続きやすい。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "世界で中国支持が米国を上回る　Pew調査、{習近平|しゅうきんぺい}氏への信頼も上昇",
+        "summary": "米シンクタンクPewの調査で、世界的に米国よりも中国を好意的に見る回答者が増え、{習近平|しゅうきんぺい}国家主席への信頼度もトランプ氏を上回った。",
+        "take": "💭 米国の一国主義的な外交姿勢が同盟国の信頼を{侵食|しんしょく}している表れ。ソフトパワーの逆転は長期的な地政学バランスに影響する。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "中国経済成長率4.3%に急減速　統計{開始|かいし}以来最低水準に",
+        "summary": "中国の4〜6月期GDP成長率は4.3%と、政府目標の4.5〜5%を下回った。不動産不況や消費の低迷、雇用市場の悪化が重なっている。",
+        "take": "💭 輸出だけが好調でも内需の弱さは隠せない。世界の工場が減速すれば、日本を含むサプライチェーン全体への波及は避けられない。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ゼレンスキー氏、人気の国防相を{更迭|こうてつ}　内閣改造の一環",
+        "summary": "ウクライナのゼレンスキー大統領は、国防省改革で評価の高かった{フェドロフ|ふぇどろふ}国防相を解任した。海外パートナーや市民社会からの慰留にもかかわらず実施された。",
+        "take": "💭 戦時下での主要閣僚交代は同盟国に不安を与えかねない。国内政治の駆け引きが、対露戦争の継続体制にどう影響するか注視が必要。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister"
+      },
+      {
+        "rank": 6,
+        "title_ja": "EU、中国とロシアが「世界秩序の再編」を狙うと{異例|いれい}の非難",
+        "summary": "EUは新たな戦略文書で、中国とロシアが自国の利益に沿って国際秩序を再構築しようとしていると{名指|なざ}しで批判し、「{勢力圏|せいりょくけん}」志向への回帰を懸念した。",
+        "take": "💭 EUがここまで踏み込んだ対中批判をするのは異例。米中対立に加えて欧州も巻き込む形で、世界の分断が制度面でも明文化されつつある。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3360723/eu-accuses-china-seeking-reshape-global-order-stark-new-strategy-paper?utm_source=rss_feed"
+      },
+      {
+        "rank": 7,
+        "title_ja": "アンソロピック、大型IPOに向け投資家との会合を計画",
+        "summary": "AI企業アンソロピックは、10月にも予定される大規模な新規株式公開（IPO）に向け、今後数週間で投資家説明会を実施する。OpenAIに先んじて上場を目指す動き。",
+        "take": "💭 AI企業の上場ラッシュが始まれば、市場のAIバブル懸念と実需の見極めがより一層問われる局面になる。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
+      },
+      {
+        "rank": 8,
+        "title_ja": "ASML、AI半導体需要で26年通期見通しを再び上方修正",
+        "summary": "{蘭|オランダ}半導体製造装置大手ASMLは、AI向け先端半導体の需要拡大を受け、2026年通期の売上高見通しを再び引き上げた。",
+        "take": "💭 AI投資の裾野は半導体製造装置にまで及んでいる。ASMLの上方修正は業界の実需の強さを示す一方、設備投資サイクルの過熱リスクも意識すべき。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91aFgtM1pXVEotQUxnaU8zdDkzTjFvMFpiZlJRdXh4TzZoVVhHQTllWl93MmFLQWpyMHVqaVdlZE91LTBsWEoyamo0RGpJVmgzNmhwdmVleVY1dndOMU5tN1BmLTNIRGI0UHJIVkw2d1A4NnM5VzNv?oc=5"
+      },
+      {
+        "rank": 9,
+        "title_ja": "スペースX株、IPO価格を初めて下回る　時価総額1兆ドル減",
+        "summary": "スペースXの株価はナスダック100入り後に下落を続け、6月のIPO以来初めて公開価格の135ドルを下回った。マスク氏の資産評価にも影響。",
+        "take": "💭 宇宙・AIの融合企業として期待されたスペースXの調整は、過熱したハイテク株全般への警戒感の表れかもしれない。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米ニューヨーク州、データセンター建設許可を1年間{凍結|とうけつ}　全米初",
+        "summary": "ニューヨーク州はデータセンターの建設許可手続きを1年間停止すると発表した。全米で初めての措置で、AI需要急増による電力負荷への対応が背景にある。",
+        "take": "💭 AIの裏側にあるエネルギー制約が政治問題化し始めた。電力インフラの限界が今後のAI拡大速度を左右する重要な変数になる。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40dllPcnZnaHpKc2xlLUpibW9DSDFKLUNxYk1zazJLN25Ea1Z1QzkxWXNDQ1VFRWJObFQySndZb3d1eFZ3b3JRcjVyekJuVkhYR0c2aURWdjdhVkstQ3lYOGZyTUdzTnZIY0E5cFlNTUtwNklzUFYzSA?oc=5"
+      },
+      {
+        "rank": 11,
+        "title_ja": "フランス議会、{尊厳|そんげん}死を認める法案を可決",
+        "summary": "フランス下院は末期患者を対象とした{尊厳|そんげん}死を認める法案を291対241で可決した。今後{憲法|けんぽう}院の審査を経て正式に施行される見通し。",
+        "take": "💭 欧州で終末期医療の選択肢が広がる流れが加速。高齢化が進む日本にとっても、いずれ避けて通れない議論となるだろう。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss"
+      },
+      {
+        "rank": 12,
+        "title_ja": "イタリア・メローニ政権、{選挙|せんきょ}制度改革案の採決で{痛手|いたで}",
+        "summary": "メローニ首相率いる政権は、選挙制度改革をめぐる採決で予想外の敗北を{喫|きっ}し、野党から辞任要求が上がっている。来年の総選挙を前に政局が{揺|ゆ}れる。",
+        "take": "💭 右派連立の{結束|けっそく}にひびが入れば、欧州内での対露・対中政策の一貫性にも影響しかねない。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 13,
+        "title_ja": "インドネシアから投資家が{相次|あいつ}ぎ{離脱|りだつ}　新興国{格|かく}下げの{危機|きき}",
+        "summary": "プラボウォ大統領の積極財政策が投資家の不安を招き、東南アジア最大級の経済国インドネシアが新興国としての地位を{失|うしな}いかねない状況にある。",
+        "take": "💭 「8％成長」の公約と財政規律の両立は難しい。新興国市場全体への波及リスクとしても注視すべき動き。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 14,
+        "title_ja": "14か国、南シナ海{声明|せいめい}めぐり「{行|い}き過ぎ」批判も",
+        "summary": "米国や日本、豪州、英国など14か国が南シナ海{仲裁|ちゅうさい}判断10周年にあたり共同声明を発表。一方でSCMPは「拡張的な行き過ぎ」との論評を掲載した。",
+        "take": "💭 対中包囲網の形成が進む一方、その正当性を巡る論争も同時進行。地域の緊張緩和にはむしろ逆効果になるとの見方もある。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3360419/14-nation-south-china-sea-statement-expansionist-overreach?utm_source=rss_feed"
+      },
+      {
+        "rank": 15,
+        "title_ja": "{習近平|しゅうきんぺい}氏、また{政治局|せいじきょく}トップを更迭　{追放|ついほう}記録を更新",
+        "summary": "{習近平|しゅうきんぺい}国家主席が政治局の{幹部|かんぶ}をまた一人{更迭|こうてつ}し、指導部からの追放数の記録を更新したと報じられた。",
+        "take": "💭 権力集中が進むほど、内部の疑心暗鬼も強まる。経済減速と統治の引き締めが同時進行する中国の内政は要警戒。",
+        "category": "経済",
+        "source": "The Economist",
+        "link": "https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team"
+      },
+      {
+        "rank": 16,
+        "title_ja": "日本の{過労死|かろうし}等の労災補償、過去最多の1310人に",
+        "summary": "2025年度、過労死や労働関連疾患で政府補償を受けた人数が1310人と過去最多を更新し、4年連続の記録更新となった。",
+        "take": "💭 働き方改革の掛け声とは裏腹に、実態の改善は{道半|みちなか}ば。労働市場の構造的な問題として国際的にも注目される。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/15/japan/science-health/japan-karoshi-overwork-record/"
+      },
+      {
+        "rank": 17,
+        "title_ja": "ニチレイへのサイバー攻撃、影響範囲や原因{究明|きゅうめい}が焦点に",
+        "summary": "食品大手ニチレイがサイバー攻撃を受け、業務への影響範囲や攻撃の原因究明が急がれている。",
+        "take": "💭 食品サプライチェーンへの攻撃は物流・供給の混乱に直結しうる。重要インフラ以外の企業も標的になる時代の警鐘。",
+        "category": "日本",
+        "source": "NHK",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQm03Zk5kTTZsMVpfcFBaaERuczhrcVZEeWdCenhvblFmZDJNWnhJcWVMWW00clZiVk1yRGhCUlVVVEw3Y1ZlWmdwLWMtbzB4eVRUQ2NpUllEeWg4UlRvQ2RKYXo2X05kMFNXY2tR?oc=5"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ドイツ、米国の「選挙介入」計画に警告　助成金スキームを{問題視|もんだいし}",
+        "summary": "ドイツのメルツ首相は、米国務省が発表した欧州向け助成金制度について、自国選挙への介入になりかねないとしてトランプ政権に警告した。",
+        "take": "💭 同盟国間でも「内政干渉」の懸念が表面化。米国の対外的な信頼性がさらに揺らぐ可能性がある。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe"
+      },
+      {
+        "rank": 19,
+        "title_ja": "出版社らがグーグルを提訴　AI学習での著作権侵害を主張",
+        "summary": "アシェットやエルゼビアなどが、グーグルのAIモデル「Gemini」の学習に自社書籍が無断使用されたとして米国で提訴した。",
+        "take": "💭 AI企業と著作権者の対立は今後さらに激化する見通し。学習データの正当性が、AI業界全体の持続可能性を左右する焦点になる。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss"
+      },
+      {
+        "rank": 20,
+        "title_ja": "ロシアの攻撃で14人死亡　ウクライナは黒海の油送船20隻を攻撃",
+        "summary": "ロシアによる攻撃でウクライナ各地の民間人14人が死亡した一方、ウクライナは黒海でロシアの油送船を含む20隻の船舶を攻撃したと発表した。",
+        "take": "💭 海上でのエネルギー輸送網への相互攻撃が激化しており、ロシア産原油の輸出網に直接的な打撃を与える新たな戦術段階に入っている。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
+      }
+    ]
+  },
+  {
     "date": "2026-07-15",
     "dateLabel": "2026年7月15日(水)",
     "generatedAt": "2026-07-14T21:56:35.178Z",
