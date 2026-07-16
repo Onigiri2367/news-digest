@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-17",
+    "dateLabel": "2026年7月17日(金)",
+    "generatedAt": "2026-07-16T22:02:31.410Z",
+    "overview": "米国によるイラン攻撃が6日目に突入し中東情勢が緊迫する中、ウクライナでは{国防相|こくぼうしょう}{更迭|こうてつ}を{巡|めぐ}る政治危機が拡大、AI・半導体分野では{台湾|たいわん}TSMCの好決算とエヌビディア{訪日|ほうにち}が世界の投資マネーを動かしています。",
+    "deepdive": {
+      "title": "米軍、イラン攻撃を6夜連続で実施 ホルムズ海峡{封鎖|ふうさ}の{懸念|けねん}が世界経済を{揺|ゆ}さぶる",
+      "body": "米軍は6日連続でイランへの空爆を実施し、港湾都市バンダルアッバスや北部の軍事施設、ホルムズ海峡入り口の戦略拠点グレーターツンブ島などを標的にしたと伝えられています。米側は「イランの軍事能力をさらに{低下|ていか}させる」ことが目的だとしていますが、イラン側は病院近くへの攻撃を「{野蛮|やばん}」だと非難し、報復として商船への攻撃や船舶の拿捕にも動いています。\n発端は今年前半からの緊張激化で、核・ミサイル開発を{巡|めぐ}る米イラン対立が軍事衝突へと発展しました。イランは核合意破棄後、ウラン濃縮を進めてきたとされ、米国とイスラエルはこれを安全保障上の重大な{脅威|きょうい}とみなしてきました。今回の6夜連続攻撃は、単発の限定攻撃から{恒常|こうじょう}的な軍事作戦へと{性質|せいしつ}が変わりつつあることを示しています。\nこの衝突が特に重要なのは、世界の原油輸送の約2割が通過するホルムズ海峡の安全が{脅|おびや}かされている点です。イランは対抗手段として紅海の要衝バブエルマンデブ海峡の封鎖もちらつかせており、実現すれば世界のエネルギー価格と海運コストに直接影響します。既にシェブロンやイラクがホルムズ海峡を避ける新パイプライン計画を検討し始めており、企業側も長期化を{織|お}り込み始めています。\n今後の焦点は、米国が地上部隊投入に踏み切るかどうか、そしてイランが本当に海峡封鎖を実行するかどうかです。仮に軍事衝突がさらに拡大すれば、原油高・{物流|ぶつりゅう}混乱を通じて世界経済、そして輸入国である日本のエネルギー・物価にも波及する可能性があり、外交による収束が急がれます。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米軍、イラン攻撃を6夜連続で実施",
+        "summary": "米国はイランへの新たな攻撃を実施し、戦闘は6日連続となりました。米側は「イランの軍事能力をさらに{低下|ていか}させる」ことが目的だとしています。",
+        "take": "💭 攻撃の常態化はホルムズ海峡の航行リスクを高め、原油市場と世界経済への波及が現実味を帯びてきています。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "イラン、紅海の要衝バブエルマンデブ海峡封鎖も{示唆|しさ}",
+        "summary": "イラン{革命|かくめい}防衛隊がホルムズ海峡に続き、紅海の戦略的{要衝|ようしょう}バブエルマンデブ海峡の航行妨害も選択肢として警告しています。",
+        "take": "💭 二つの海峡が同時に不安定化すれば、欧州・アジア間の海運ルート全体が打撃を受け、保険料や運賃の急騰につながりかねません。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/16/how-serious-is-irans-threat-to-disrupt-shipping-in-the-red-sea?traffic_source=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ゼレンスキー氏、国防相{更迭|こうてつ}で抗議デモに直面",
+        "summary": "ウクライナの{ゼレンスキー|ぜれんすきー}大統領が人気の高いフェドロフ国防相を解任し、市民の抗議と政治的反発を招いています。軍最高司令官との対立が背景にあったとされます。",
+        "take": "💭 戦時下でのリーダーシップ内紛は、対露戦線での結束にも影を落としかねず、西側支援国の信頼にも関わる問題です。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "TSMC、4〜6月{純利益|じゅんりえき}が予想上回る AI需要の強さ示す",
+        "summary": "台湾TSMCの{四半期|しはんき}決算は市場予想を上回り、AI向け半導体需要の底堅さを示しました。設備投資動向にも注目が集まっています。",
+        "take": "💭 AIブームの実需を裏付ける最重要指標であり、半導体株全体のセンチメントを左右する決算といえます。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44b3cwZXRtaVdRQlRLZ1k1N2RHZ01xTWpxVGJxR3QxRWtuZ3NQRmlxSWJ1TElzU0dXR05TaERDRDJpOXhDU2xoUzZjalhVN1NIZUNya2RJVU1POXQ0dWx3THhUWmcwZzVtT083dS1EWmZKaFp3WUs4?oc=5"
+      },
+      {
+        "rank": 5,
+        "title_ja": "米半導体・メモリ株が急落、ウォール街に{動揺|どうよう}",
+        "summary": "AI相場を{牽引|けんいん}してきた半導体・メモリ関連株が売られ、米国株式市場に新たな波乱をもたらしています。",
+        "take": "💭 高すぎるバリュエーションへの警戒が表面化しつつあり、AI相場の持続性を試す局面に入っています。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/c92a5a36-55a0-4d04-b84c-d1705976987b?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 6,
+        "title_ja": "エヌビディアCEO来日、日本企業との連携を強化",
+        "summary": "エヌビディアのフアン氏が来日し、ソフトバンクやソニー、ホンダなど日本企業との協業を相次いで発表しました。国産AI基盤の構築が加速しています。",
+        "take": "💭 日本は「主権AI」戦略の要としてエヌビディアの{最重要|さいじゅうよう}パートナーの一角に位置づけられつつあり、半導体外交の好機です。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IRFdqSHlVSWVSbGF0VjVYQXdaR0otUkkzdUJmbTd1Mm1STkFOU250R3psZGFNVTVqVUIwMER0WjBSUXRNWjliSTAxQVlleWYzRWRVaDFvNThrcmU0cEJUSHktVXRtNUx3NE1uRVM4NVdxSzlFNHZCNw?oc=5"
+      },
+      {
+        "rank": 7,
+        "title_ja": "中国AI新興Moonshot、Anthropicに{迫|せま}る新モデル発表へ",
+        "summary": "中国のAIスタートアップMoonshotが、Anthropicの{最先端|さいせんたん}モデルに匹敵する性能を目指す「Kimi K3」を発表する見通しです。",
+        "take": "💭 米中AI競争の技術差が縮まりつつあることを示す事例で、オープンモデル戦略が中国の追い上げの武器になっています。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/c6ecd8ce-c441-4d7c-aea6-fae3e28fb6ff?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 8,
+        "title_ja": "ウーバー、独デリバリーヒーローを1.48兆円で買収へ",
+        "summary": "ウーバーがドイツのデリバリーヒーローを{全株式|ぜんかぶしき}交換で買収することに合意し、世界最大級のフードデリバリー企業が誕生します。",
+        "take": "💭 グローバルな配送網の再編が進み、中国市場を除く世界規模での寡占化が一段と進むことになります。",
+        "category": "テック",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/16/ubers-14-8b-delivery-hero-deal-would-nearly-double-its-global-footprint/"
+      },
+      {
+        "rank": 9,
+        "title_ja": "スペースX株、上場後初めてIPO価格を{下回|したまわ}る",
+        "summary": "スペースXの株価が急騰後に失速し、IPO価格を一時割り込みました。空売りも積み上がっています。",
+        "take": "💭 宇宙ビジネスへの過熱期待が一服し、実態評価への{回帰|かいき}が始まった可能性があります。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNnZ6V0ZxT0JHeWZYM1V6SDUxOEJBWjNwck9UWUVDbHlHNzVhZkRMWGVIS29oUHlvRGFHTFhscEx6VmtHQ2hfb2FrZ1JRYXpfQ3ZsSEhsMUFGeFBRbjhaT2xKSFlxeXlUandYU0tSbmlLZDA1dWVLZVFXVXJMWXpvbA?oc=5"
+      },
+      {
+        "rank": 10,
+        "title_ja": "ブラジル、米の25%関税に報復も辞さずと表明",
+        "summary": "ブラジル大統領{府|ふ}は、米国が一部ブラジル製品に25%の関税を課す決定に対し報復も辞さない姿勢を示しました。前政権支持派の圧力が背景にあると指摘されています。",
+        "take": "💭 米国の保護主義的な通商政策が南米との関係悪化を招き、サプライチェーンの分断リスクを再燃させています。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/jul/16/brazil-us-tariffs"
+      },
+      {
+        "rank": 11,
+        "title_ja": "中国、米の半導体規制強化を{非難|ひなん}",
+        "summary": "中国政府は米議会による対中半導体規制強化の動きを非難し、世界の{供給網|きょうきゅうもう}に「{恣意|しい}的な混乱と損害」をもたらすと警告しました。",
+        "take": "💭 半導体を巡る米中対立は緩和の兆しがなく、企業は地政学リスクを織り込んだサプライチェーン再構築を迫られています。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/article/3360846/beijing-denounces-us-chip-curbs-threat-global-supply-chains?utm_source=rss_feed"
+      },
+      {
+        "rank": 12,
+        "title_ja": "中国{外務省|がいむしょう}副大臣、米訪問へ 習主席訪米の布石か",
+        "summary": "中国の馬朝旭・外務{次官|じかん}が訪米する見通しで、習近平国家主席の年内訪米に向けた地ならしとみられています。",
+        "take": "💭 貿易摩擦とAI・半導体対立が続く中での高官往来は、米中関係の一時的な安定化に向けた重要なシグナルです。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3360834/chinese-foreign-vice-minister-set-us-visit-temperature-test-pave-way-xi?utm_source=rss_feed"
+      },
+      {
+        "rank": 13,
+        "title_ja": "{高市|たかいち}内閣支持率、初めて50%割れ",
+        "summary": "{高市|たかいち}内閣の支持率が{世論|よろん}調査で初めて50%を下回りました。不支持は25.2%、無回答が25.7%となっています。",
+        "take": "💭 発足直後の勢いが薄れつつあり、今後の経済対策や外交での実績が政権の求心力を左右します。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/16/japan/politics/japan-pm-approval-rating-below-50/"
+      },
+      {
+        "rank": 14,
+        "title_ja": "日本政府、エヌビディア「ルービン」チップでロボット向けAI構築へ",
+        "summary": "日本政府はエヌビディアの次世代チップ「ルービン」を{調達|ちょうたつ}し、ロボット向けAI開発「{Noetra|ノエトラ}」構想を進めています。海外技術依存の低減が狙いです。",
+        "take": "💭 半導体の海外依存脱却と経済安全保障を両立させる象徴的プロジェクトで、日本のAI主権戦略の試金石になります。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/16/japan-nvidia-rubin-chips-robots/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "英国の援助削減、アフリカ向けで最大90%減",
+        "summary": "英労働党政権の対外援助削減により、一部アフリカ諸国への{二国間|にこくかん}支援が最大90%減少することが判明しました。",
+        "take": "💭 英国の国際的存在感の後退は、中国やロシアがアフリカで影響力を広げる{隙|すき}を生む可能性があります。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries"
+      },
+      {
+        "rank": 16,
+        "title_ja": "ウーバー、独デリバリーヒーロー買収を検討（詳報）",
+        "summary": "ウーバーが約2兆4000億円の価値で独デリバリーヒーローの買収を進めているとされ、世界の食品配送市場の再編が加速する見通しです。",
+        "take": "💭 規模の経済を追求する業界再編の波が、地域配送企業の淘汰をさらに進めることになりそうです。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02VHNXcktZemRNVl9CMHZQSDl0R0hkcWZwX1RtVU9CR3hGUjdqdGNHcTZmeGItbG5lS1dzZHFJRGs4RXNKNHljMmhhQVpmNlhSOU1teHNNVDlfRnhNd2ZOM3BuVnFhV3BaLVdtdkc3VVdha2EtOXpN?oc=5"
+      },
+      {
+        "rank": 17,
+        "title_ja": "ヒト型ロボットへの{脅威|きょうい}感、現代自動車工場でスト発生",
+        "summary": "現代自動車の工場で、ヒト型ロボット「アトラス」の大量導入計画を{巡|めぐ}り労働者が初のストライキを起こしました。2028年から米工場への配備が予定されています。",
+        "take": "💭 AI・ロボットによる雇用代替への現場の不安が現実の労働争議として表面化した象徴的な出来事です。",
+        "category": "テック",
+        "source": "Ars Technica",
+        "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/"
+      },
+      {
+        "rank": 18,
+        "title_ja": "モロッコ元{情報|じょうほう}機関員、ペガサス使用の実態を{告発|こくはつ}",
+        "summary": "モロッコの元治安機関員が内部告発し、スパイウェア「ペガサス」が2017年以降、国内外の要人監視に使われていた実態を明らかにしました。",
+        "take": "💭 監視技術の乱用問題は各国の情報機関の説明責任を{問|と}い直す契機となり、外交的緊張も再燃しかねません。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus"
+      },
+      {
+        "rank": 19,
+        "title_ja": "EU、グーグルにAndroidのAI競合への{開放|かいほう}を命令",
+        "summary": "EUはグーグルに対し、AndroidのデータをAI競合他社にも広く利用可能にするよう命じました。EUのデジタル規制強化の一環です。",
+        "take": "💭 プラットフォーマー規制の焦点がAIに移りつつあり、グーグルの対応次第で他の巨大テック企業への規制モデルにもなり得ます。",
+        "category": "テック",
+        "source": "The Verge",
+        "link": "https://www.theverge.com/policy/966588/eu-dma-ai-android-siri-ai"
+      },
+      {
+        "rank": 20,
+        "title_ja": "エボラ、コンゴで急拡大 ウガンダは終息へ前進",
+        "summary": "世界保健機関(WHO)は、コンゴ民主共和国でのエボラ拡大が「過去のどの{流行|りゅうこう}よりも速い」と警告する一方、ウガンダは最後の患者を{退院|たいいん}させ終息に近づいています。",
+        "take": "💭 隣国間で明暗が分かれる状況は、初動対応と医療インフラの差が感染症対策の成否を左右することを改めて示しています。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/16/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss"
+      }
+    ]
+  },
+  {
     "date": "2026-07-16",
     "dateLabel": "2026年7月16日(木)",
     "generatedAt": "2026-07-15T21:59:13.028Z",
