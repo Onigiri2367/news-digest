@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-18",
+    "dateLabel": "2026年7月18日(土)",
+    "generatedAt": "2026-07-17T21:52:18.289Z",
+    "overview": "米国とイランの{緊張|きんちょう}が続くなか中東情勢が世界経済を{揺|ゆ}さぶり、半導体株の急落や{中国|ちゅうごく}AIモデルの台頭、ウクライナ国防相{更迭|こうてつ}を{巡|めぐ}る内部対立など、地政学とテクノロジーが交錯する1日となった。",
+    "deepdive": {
+      "title": "中国AI「月之暗面」の新モデルが{米|べい}ハイテク株を{揺|ゆ}さぶった{理由|りゆう}",
+      "body": "中国のAIスタートアップ「月之暗面（Moonshot AI）」が、最新モデル「Kimi K2」を発表した。このモデルは無償で重み（モデルの中身）を公開する「オープンウェイト」形式でありながら、米国のトップ企業であるOpenAIやAnthropicの製品に迫る性能を示したとされ、市場に衝撃を与えた。\nこれまで最先端のAIモデルは米国企業が独占し、開発には巨額の計算資源（GPU）と資金が必要とされてきた。しかし中国企業は、米国による半導体輸出規制という制約下でも、効率的な学習手法や工夫によって急速に性能を高めている。すでに{DeepSeek|ディープシーク}が同様の衝撃を市場に与えたことは記憶に新しいが、今回はそれに続く「第二波」といえる。\nこのニュースが重要なのは、AI開発の優位性が「資金力」や「半導体の量」だけで決まらないことを示した点にある。市場はこれを、NVIDIAなど半導体銘柄への過剰な期待の再考を{促|うなが}す材料と受け止め、実際に{米|べい}ハイテク株や東京市場の半導体関連株が大きく売られた。AIの「実力」と「価格」の両面で中国勢が競争力を持ち始めたことは、AIサービスのコスト構造そのものを変える可能性がある。\n加えて、中国政府はこうした技術力を背景に「世界AI協力機構」を{発足|ほっそく}させ、ロシアなど29か国を{巻|ま}き込んで独自のAI規範づくりを進めている。これは米国主導のAI秩序に対抗する明確な布石であり、AIを{巡|めぐ}る覇権争いは技術だけでなく外交・安全保障の領域にも{広|ひろ}がっている。\n今後は、米国が輸出規制をさらに強化するか、逆に中国製オープンモデルの利用が世界的に{広|ひろ}がるかが焦点となる。日本企業にとっても、安価で高性能な中国製AIをどう活用するか、あるいは安全保障上の懸念からどう距離を置くかという難しい判断が求められることになりそうだ。",
+      "category": "アジア",
+      "source": "Nikkei Asia",
+      "link": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "中国AI「{月之暗面|ムーンショット}」新モデルに{米|べい}ハイテク株が{動揺|どうよう}",
+        "summary": "中国のAI企業・月之暗面（Moonshot AI）が発表した新モデルが、性能面で米国トップ勢に{迫|せま}るとして市場が{動揺|どうよう}した。NVIDIAなど半導体・ハイテク株が下落した。",
+        "take": "💭 AI開発の優位性が資金力だけで決まらないことが証明されつつあり、半導体需要の前提そのものが問い直されている。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears"
+      },
+      {
+        "rank": 2,
+        "title_ja": "TSMC株急落、台湾株が調整局面入り",
+        "summary": "台湾積体電路製造（TSMC）の株価が急落し、台湾市場全体が調整局面入りした。アジア全域の半導体銘柄に売りが波及している。",
+        "take": "💭 中国AIの台頭と地政学リスクが重なり、半導体セクターへの資金流入に転換点が訪れている可能性がある。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UYk1ZbW5QTGIzVGlJaEExUmRFdlMydUZIZTNYWlR0Qi10cnZGeDdvTHppRnJnUEdfcE9PXzZxVEVPNlQwSHhZR2tYLUVITG9FdWpkekZzUXhKU05iRkVfbHE1NHdrMnRKbGlyczRCZm0tcTl1VXpj?oc=5"
+      },
+      {
+        "rank": 3,
+        "title_ja": "米イラン、インフラ攻撃の応酬で{エスカレーション|エスカレーション}懸念",
+        "summary": "米国がイラン国内の橋を攻撃し、イランはクウェートの発電・淡水化施設を攻撃で応じた。双方が攻撃対象をインフラへと{拡大|かくだい}させ、{事態|じたい}悪化への{懸念|けねん}が高まっている。",
+        "take": "💭 民間インフラへの相互攻撃は、紛争の性格を軍事的から経済的・人道的損害重視へと変化させる危険な兆候だ。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3361019/us-and-iran-attack-infrastructure-raising-fears-escalation?utm_source=rss_feed"
+      },
+      {
+        "rank": 4,
+        "title_ja": "ホルムズ海峡の{通航|つうこう}、6日連続で激減",
+        "summary": "米国とイランの{衝突|しょうとつ}を受け、原油輸送の要衝ホルムズ海峡の通航量が6日連続で大きく減少している。{深刻|しんこく}化への{懸念|けねん}が高まっている。",
+        "take": "💭 世界の原油輸送の約2割が通る海峡の機能低下は、エネルギー価格だけでなく世界経済全体への波及リスクをはらむ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5cVVIRG5IRjlnVFViaF8xamVYV3lIQjI2ajJFcS1NNGZtLXhYeUxDaFpJNkxkSFg1akxXVmRuQTZlS0RUemdCNG1JSWJObG83WWgtVXpKeFlrWXZmZGZDWUJuYW5VaWNhajFKOVdrMGVGM3R6LVY4?oc=5"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ウクライナ国防相{更迭|こうてつ}、政府・軍内の{亀裂|きれつ}が{露|あら}わに",
+        "summary": "ウクライナで国防相が{更迭|こうてつ}され、兵士や軍関係者から{怒|いか}りの声が上がっている。対ロシア戦略を{巡|めぐ}る政府と軍内部の{対立|たいりつ}が表面化した。",
+        "take": "💭 前線の疲弊と政治指導部への不信が同時進行しており、戦争継続能力そのものへの疑問符が強まっている。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2YtYVphMk5HZlJzSGpmVTJmOU5waDZKSW5fdEN1RDJlNUZEOUk1TDFzTXBXcE9PUTBDejRnNExOMzlCM3AxLVozNUNLQ2N6TjJIUXhlX0p5ekVNNTY2LU5rQXJVd0tLVWpiVHd4TG85Z0RJVmpreUZQLXJYQXV0Yg?oc=5"
+      },
+      {
+        "rank": 6,
+        "title_ja": "{習近平|しゅうきんぺい}氏、AIで世界的{影響力|えいきょうりょく}拡大へ",
+        "summary": "中国が主導する新たな国際AI協力の{枠組|わくぐ}みに約30か国が{署名|しょめい}し、米国に対抗する{影響力|えいきょうりょく}拡大を{図|はか}っている。中国製AIモデルの台頭が安全保障上の警戒も{招|まね}いている。",
+        "take": "💭 AIの技術覇権争いは、途上国への「規範の輸出」という形で外交ゲームへと{変質|へんしつ}しつつある。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/17/asia-pacific/china-ai-rise-xi-jinping/"
+      },
+      {
+        "rank": 7,
+        "title_ja": "英国のブリティッシュ・スチール国有化に中国が反発",
+        "summary": "英国政府がブリティッシュ・スチールを国有化したことに対し、中国政府は「強い不満」を表明し、対英投資への{信頼|しんらい}低下を{招|まね}くと{批判|ひはん}した。",
+        "take": "💭 経済安全保障を理由とした国有化が、対中投資関係の冷却という副作用を伴う典型例だ。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 8,
+        "title_ja": "メタとアンソロピック、最大100億ドルのデータセンター契約を{協議|きょうぎ}",
+        "summary": "米メタとAI企業アンソロピックが、最大100億ドル規模のデータセンター契約を{巡|めぐ}り{協議|きょうぎ}していると報じられた。メタはクラウド事業参入も検討している。",
+        "take": "💭 AI企業同士が計算資源を融通し合う構図は、GPU不足という業界共通の制約を浮き彫りにしている。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/0ae58f76-3386-464a-9248-090cc68e9864?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 9,
+        "title_ja": "アップル、OpenAI元従業員数十人に法的{通告|つうこく}",
+        "summary": "アップルは企業秘密{侵害|しんがい}を{巡|めぐ}りOpenAIを{提訴|ていそ}した{訴訟|そしょう}に関連し、OpenAIに移籍した元アップル社員数十人に法的{書簡|しょかん}を送付した。",
+        "take": "💭 AI人材の引き抜き競争が法廷闘争に発展し、業界の人材流動性そのものにブレーキがかかる可能性がある。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 10,
+        "title_ja": "アップル、時価総額で{一時|いちじ}NVIDIAを{逆転|ぎゃくてん}",
+        "summary": "アップル株がAI関連株の売られる中でも{堅調|けんちょう}を保ち、時価総額で一時NVIDIAを上回り世界首位となった。",
+        "take": "💭 AIバブル懸念が高まる局面で『安全資産』としてのアップルの相対的な強さが目立った。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/9586223a-8339-4a57-9e2f-251899ebd211?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 11,
+        "title_ja": "日本、皇位{継承|けいしょう}ルールを{改正|かいせい}も女性天皇は{認|みと}めず",
+        "summary": "日本の国会が皇室典範の一部を{改正|かいせい}し、{15|じゅうご}歳以上の男系男子を皇族に{養子|ようし}として迎えられるようにした。ただし女性天皇を{巡|めぐ}る{議論|ぎろん}は{棚上|たなあ}げされたままだ。",
+        "take": "💭 皇位継承の安定策として男系維持にこだわる一方、女性・女系天皇論議の先送りは将来的な制度不安を残す。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 12,
+        "title_ja": "英労働党新党首にアンディ・バーナム氏、{次期|じき}首相へ",
+        "summary": "英国の与党労働党がアンディ・バーナム氏を新党首に選出し、スターマー氏に代わる次期首相就任への道が開かれた。",
+        "take": "💭 党内の路線対立を{経|へ}ての交代は、英国政治の不安定さと欧州における指導力低下を象徴する。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/uk-andy-burnham-confirmed-as-labour-party-leader/a-78000524?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 13,
+        "title_ja": "日経平均一時4%超安、半導体株が軒並み下落",
+        "summary": "東京市場で日経平均株価が一時4%超下落し、半導体関連株が軒並み売られた。中東情勢の緊迫も相場の重しとなった。",
+        "take": "💭 中国AIの台頭と中東リスクという二つの震源が同時に東京市場を直撃した形だ。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY3lnVnUxU3Yyemg3TTZwa0VxSnRhYlpQLUp4RnkwNktYSXU5elQxSS1tNGhWOVpvN2RkdklaNVdTanFOal9hamM0TlZ2YmU2czFNeTBFcnVLVlBMeFhoemVlaF9XWUtzQTlUeWRpOG9uV0t1djBkZVRiX2NJd2ZMSg?oc=5"
+      },
+      {
+        "rank": 14,
+        "title_ja": "キオクシア株、{最高値|さいこうち}から1か月弱で半値に",
+        "summary": "半導体メモリー大手キオクシアホールディングスの株価が、最高値から1か月足らずで半値まで下落し、時価総額約31兆円が消失した。",
+        "take": "💭 特許{訴訟|そしょう}の敗訴{評決|ひょうけつ}と中国AI{懸念|けねん}が重なり、個別銘柄リスクと業界全体リスクが同時に噴出した。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9BMzBlSzkyekthRFdObURiQmxkSklBZXh2bHVoODNfUFdhOEJzTGItRGFKWDhEVkt3bVcxRGtSaTN0OThRRVBNSHdaNDRoX1VFaTJCUHNnODBUcFBIbGpqWnIzOFN5WnVWZmhLejJVeXM1cTY1Ri1n?oc=5"
+      },
+      {
+        "rank": 15,
+        "title_ja": "米陪審、キオクシアに2億ドル超の賠償{評決|ひょうけつ}",
+        "summary": "米国の陪審が、フラッシュメモリーの特許{侵害|しんがい}を{巡|めぐ}りキオクシアに2億ドル超の損害賠償を{命|めい}じる{評決|ひょうけつ}を下した。",
+        "take": "💭 半導体業界の特許紛争が激化しており、日本メーカーの海外事業リスクとして今後も注視が必要だ。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qY3V0czlmajYyNFZkMzg1MjVRZkVzemdBRTB6ZnZsSm5iWVpzd2I5a1E0S2hSWDJCRkFIRWhQN3FwUHhnWGpscVJDY0VJcFBZenRrbGdWazZPdDZaWlRHVVprNnJqTHU5VnRQa1NNSG5mdkdHbFVpeA?oc=5"
+      },
+      {
+        "rank": 16,
+        "title_ja": "片山財務相、GPIF・{NISA|ニーサ}見直しで「日本マネー」呼び戻しへ",
+        "summary": "片山財務相が、公的年金積立金GPIFやNISA制度の見直しを通じて、海外に流出した日本の資金を国内に呼び戻す構想を示した。",
+        "take": "💭 円安・株安局面での資金還流策は、実効性次第で為替や国内株式市場の需給構造を変える可能性がある。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HLVV1dkxOY3JiN3doQ3dqb0VGa3VNMW1lU0tKM3JRc3pkYnZVZUZmM3E4SWlORndTNDFrTVl0MFJXeC1sQ2xFZll5dEYzcHZydjFfT3lLMkRuX2pPX25XUlZtTDJIaGRWejBhdFVmNmh6SWdJNkxZ?oc=5"
+      },
+      {
+        "rank": 17,
+        "title_ja": "円安進行なら「{果断|かだん}な措置」、片山財務相が{警告|けいこく}",
+        "summary": "片山財務相は、為替相場の円安が{行|い}き過ぎた場合には「{果断|かだん}な措置」を取る{考|かんが}えを示し、市場に{牽制|けんせい}を{発|はっ}した。",
+        "take": "💭 発言だけで市場を動かす『口先介入』の限界が近づいており、実弾介入の判断時期が焦点となる。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kS0Vzd0VGYThBeEdXNkhGM3NUSHlGUUo4SnhBb1M2a3U0aldQZldQRkYydDhNbVBTOXQtT0xuQlRMQ3dqMHpzQktMMkVYY2JOU3pDbWhJS0lXNVp3YkNFbTdCZkV5MDdndFBqUzJqQ3k2OFJpZElhaQ?oc=5"
+      },
+      {
+        "rank": 18,
+        "title_ja": "国会会期を7月25日まで{延長|えんちょう}",
+        "summary": "日本の国会は、副首都構想に関する法案などの{審議|しんぎ}を続けるため、会期を7月25日まで{延長|えんちょう}することを決めた。",
+        "take": "💭 副首都構想は東京一極集中の是正と危機管理体制強化の両面を持ち、地方創生論議の試金石となりうる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/17/japan/politics/diet-extension-july-25/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "米渡航{制限|せいげん}を受け、米国人援助隊員がケニアでエボラ隔離",
+        "summary": "コンゴでのエボラ対応にあたっていた米国人援助隊員7人が、米国の渡航{制限|せいげん}措置を受けてケニアの新設隔離施設で{隔離|かくり}生活を送っている。",
+        "take": "💭 感染症対応の国際協力が自国優先の渡航規制と{摩擦|まさつ}を起こしており、次のパンデミック対応にも影を落とす。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya"
+      },
+      {
+        "rank": 20,
+        "title_ja": "カナダの{山火事|やまかじ}の{煙|けむり}、米国北東部を{覆|おお}う",
+        "summary": "カナダで発生した800か所以上の{山火事|やまかじ}による{煙|けむり}が米国の主要都市を{覆|おお}い、1億人以上が大気{質|しつ}悪化の{警戒|けいかい}を受けている。トランプ氏はカナダへの関税で対応する意向を示した。",
+        "take": "💭 気候変動由来の災害が通商政策の道具にされる展開は、今後の米加関係と気候外交の両方に不穏な先例を残す。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east"
+      }
+    ]
+  },
+  {
     "date": "2026-07-17",
     "dateLabel": "2026年7月17日(金)",
     "generatedAt": "2026-07-16T22:02:31.410Z",
