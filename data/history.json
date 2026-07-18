@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-19",
+    "dateLabel": "2026年7月19日(日)",
+    "generatedAt": "2026-07-18T21:49:08.858Z",
+    "overview": "米国とイランの{軍事|ぐんじ}衝突が全面戦争の瀬戸際まで{激化|げきか}する一方、中国発AIモデルの{台頭|たいとう}が世界の株式市場を揺さぶるなど、地政学とテクノロジーの両面で緊張が高まった一日でした。",
+    "deepdive": {
+      "title": "米国・イラン、全面戦争の{瀬戸際|せとぎわ}へ－{中東|ちゅうとう}情勢が急激に{悪化|あっか}",
+      "body": "米国とイランの軍事衝突が一段と{激化|げきか}し、専門家の間では「全面戦争の{一歩|いっぽ}手前」との見方が広がっています。イランはヨルダンの米軍基地を攻撃し、米兵2人が死亡、1人が行方不明となりました。米側もイランに対して7夜連続で空爆を実施し、ホルムズ海峡周辺での{緊張|きんちょう}が急速に高まっています。\n事の発端は数週間前に成立したはずの停戦・暫定合意でした。しかし米国が合意に反する行動を取ったとしてイランが{反発|はんぱつ}し、合意の履行停止を表明。ここから攻撃の応酬が始まり、クウェートやバーレーンへのイランによる攻撃、サウジアラビアへの数か月ぶりの攻撃など、戦火は{中東|ちゅうとう}地域全体に広がりつつあります。イランの最高指導者{ホメネイ|ホメネイ}師は米国に「忘れられない教訓」を与えると警告し、トランプ大統領の{署名|しょめい}は「無価値」だと{一蹴|いっしゅう}しました。\nこの衝突が重要なのは、単なる二国間の軍事対立にとどまらないからです。ホルムズ海峡は世界の原油輸送の要衝であり、既に原油価格は4月以来の大幅高となっています。エネルギー価格の高騰は日本を含む世界経済に直接影響し、インフレ再燃のリスクを{孕|はら}みます。また米国内では中間選挙を控え、トランプ氏が既に不人気な戦争を再燃させる政治的リスクも指摘されています。\n今後の焦点は、イランが本当にホルムズ海峡の封鎖に踏み切るか、米国が地上兵力の投入に踏み込むかという点です。同盟国や周辺国（イラク、レバノン、パキスタンなど）への波及も既に見られ、原油価格や為替市場、そして日本のエネルギー安全保障にも目が離せない展開が続きそうです。",
+      "category": "アジア",
+      "source": "The Hindu",
+      "link": "https://www.thehindu.com/news/international/us-iran-have-blown-past-red-lines-as-they-lurch-back-toward-all-out-war/article71237644.ece"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米・イラン、{全面|ぜんめん}戦争の{瀬戸際|せとぎわ}に－{中東|ちゅうとう}全域で攻撃応酬",
+        "summary": "米国とイランが互いへの攻撃を{激化|げきか}させ、専門家は全面戦争への{移行|いこう}が現実味を帯びていると警告しています。米軍はヨルダンでイランの攻撃により兵士2人が死亡、1人が行方不明となったと発表しました。",
+        "take": "💭 ホルムズ海峡封鎖が現実化すれば原油供給網に{致命|ちめい}的な打撃となり、日本のエネルギー安全保障にも直結する。中間選挙を控えるトランプ政権の政治判断も今後の展開を左右する。",
+        "category": "アジア",
+        "source": "The Hindu",
+        "link": "https://www.thehindu.com/news/international/us-iran-have-blown-past-red-lines-as-they-lurch-back-toward-all-out-war/article71237644.ece"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ホルムズ海峡で機雷によるタンカー爆発、米の攻撃7夜連続",
+        "summary": "イランは、ホルムズ海峡に設置された機雷でタンカーが爆発したと発表しました。米軍は7夜連続でイランへの攻撃を継続し、軍事能力の低下を狙っていると説明しています。",
+        "take": "💭 機雷戦は海峡封鎖への布石とも読める。世界の原油輸送の約2割が通過する要衝だけに、日本の輸入エネルギーコストへの波及は避けられない。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/18/world/iran-tankers-hormuz-mines-us-strikes/"
+      },
+      {
+        "rank": 3,
+        "title_ja": "イスラエル、ガザ・西岸に新規{入植地|にゅうしょくち}計画を発表",
+        "summary": "イスラエルの国防・財務両相が、ガザと西岸に3つの新たな入植地建設計画を発表しました。司令官はガザの65%を実効支配していると述べ、トランプ政権が仲介した停戦合意に違反する内容です。",
+        "take": "💭 停戦の実効性そのものが問われる事態で、米国の仲介外交の信頼性にも影を落とす。国際社会の反発は必至だ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine"
+      },
+      {
+        "rank": 4,
+        "title_ja": "ウクライナ国防相の{更迭|こうてつ}、{ゼレンスキー|ゼレンスキー}政権の内部対立を{露呈|ろてい}",
+        "summary": "ゼレンスキー大統領は革新的な手法で評価されていた若手国防相フェドロフ氏を突然解任しました。軍の旧世代勢力が優勢になり、戦況が好転しつつある局面での更迭に懸念の声が上がっています。",
+        "take": "💭 対露戦の最中に指導部の内紛が表面化すれば、西側の支援継続の意欲にも影響しかねない。司令官の交代観測も含め政権基盤の揺らぎに注目したい。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ウクライナ、ロシアの物流拠点にドローン攻撃－死者9人",
+        "summary": "ウクライナのドローンがモスクワ近郊やタンボフのWildberries倉庫などを攻撃し、少なくとも9人が死亡、80人以上が負傷しました。ゼレンスキー大統領は制裁対象部品を供給する「主要な物流拠点」だったと説明しています。",
+        "take": "💭 民生インフラを装った軍需サプライチェーンへの攻撃は、戦争の「灰色地帯」を広げる。ロシア国内の反発世論への影響も見逃せない。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 6,
+        "title_ja": "ハンガリー大統領、{罷免|ひめん}に応じ辞任－{オルバン|オルバン}氏の{忠実|ちゅうじつ}な{盟友|めいゆう}",
+        "summary": "オルバン前首相の{忠実|ちゅうじつ}な盟友とされるシュヨク大統領が、議会の罷免決議を受けて辞任に合意しました。土曜夜までに合意するよう求められていました。",
+        "take": "💭 与党内からも見放された形で、EU内での対ハンガリー包囲網の変化を占う試金石になり得る。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "英次期首相{バーナム|バーナム}氏、{スターマー|スターマー}氏のデジタルID計画を撤回へ",
+        "summary": "月曜に就任予定のアンディ・バーナム氏は、不人気だったデジタルID計画を撤回し、生活費対策に資源を振り向ける方針です。「優先順位の刷新」と位置付けています。",
+        "take": "💭 プライバシーと利便性のバランスを巡る政策論争は各国共通の課題。英国の方針転換は日本のマイナンバー政策の議論にも参考になる。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities"
+      },
+      {
+        "rank": 8,
+        "title_ja": "中国AIモデル、{台頭|たいとう}でNvidia等の株が急落",
+        "summary": "中国発の新AIモデルの登場により競争激化への懸念が広がり、Nvidiaをはじめとするハイテク大手株が下落しました。半導体株指数は最高値から20%下落したと報じられています。",
+        "take": "💭 「DeepSeekショック」の再来と言える構図。米国のAI優位という前提そのものが揺らぎ、投資家はハードウェア集中投資の再評価を迫られる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears"
+      },
+      {
+        "rank": 9,
+        "title_ja": "アリババ、NvidiaのCUDA{独占|どくせん}に挑戦－ソフトウェア{基盤|きばん}を{オープンソース化|オープンソースか}",
+        "summary": "アリババの半導体設計部門T-Headが独自ソフトウェアスタックのオープンソース化を発表しました。Nvidiaの開発者エコシステム「CUDA」の優位に挑む狙いです。",
+        "take": "💭 ハードだけでなくソフト面でも米中AI覇権争いが本格化。オープンソース戦略は開発者コミュニティの取り込み合戦の号砲となる。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米政権、{最先端|さいせんたん}AIモデルへのアクセスを{統制|とうせい}",
+        "summary": "トランプ政権が最先端AIモデルへのアクセス権限を政府主導で統制する動きを進めていると関係者が明かしました。従来テック大手が握っていた力の所在が変化しつつあります。",
+        "take": "💭 国家安全保障の名の下でAIガバナンスに政府が直接介入する前例となり得る。企業の技術自主権との緊張関係が今後の焦点だ。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
+      },
+      {
+        "rank": 11,
+        "title_ja": "日銀、成長見通し引き上げも{政策|せいさく}{据え置き|すえおき}へ",
+        "summary": "日銀は最新の経済指標を踏まえ、成長見通しを引き上げつつも金融政策は現状維持とする見通しです。最終判断は会合直前まで持ち越されるとみられています。",
+        "take": "💭 円安と物価高が続く中での据え置きは、追加利上げの機を慎重に見極める姿勢の表れ。市場は次の一手のタイミングを注視している。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/18/economy/boj-july-meeting-assessment/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "円安響き、日本でiPhone17が10%値上げ",
+        "summary": "アップルは円安を背景に日本国内でのiPhone17の販売価格を引き上げました。256GBモデルの入門機種は14万2800円からとなっています。",
+        "take": "💭 為替が家計に直結する典型例。日銀の金融政策判断がこうした消費財価格にも波及する構図が改めて浮き彫りになった。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/18/apple-iphone-17-price-hike-yen/"
+      },
+      {
+        "rank": 13,
+        "title_ja": "中国の潜水艦{ミサイル|ミサイル}発射、日本が抑止力強化を検討",
+        "summary": "中国の潜水艦によるミサイル発射を受け、日本政府はより強力な抑止力の構築を検討しています。周辺国の軍事的圧力が増す中での対応です。",
+        "take": "💭 台湾有事シナリオを見据えた防衛力整備の議論が加速する契機となりそうだ。日米同盟の役割分担も再検証されるだろう。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/politics/defense/japan-seeks-stronger-deterrence-after-china-submarine-missile-launch"
+      },
+      {
+        "rank": 14,
+        "title_ja": "データセンター建設に日本の都市部で{反対|はんたい}広がる",
+        "summary": "AIの計算基盤となるデータセンターの急増が世界的に不安を招く中、密集した日本の都市部でも建設反対の動きが拡大しています。",
+        "take": "💭 AIブームの裏で電力・水資源・土地利用という現実的制約が表面化している。日本の脱炭素目標との整合性も問われる局面だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/18/japan/society/japan-data-centers-opposition/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "AI競争のカギは「データ」－中国が国家戦略として{注力|ちゅうりょく}",
+        "summary": "AIの覇権争いはチップやモデルだけでなく「データ」層に移りつつあり、中国政府は中国語データの国家的なエコシステム構築を加速させています。",
+        "take": "💭 学習データの言語的・文化的多様性の確保は、米国中心のAI覇権への対抗軸になり得る。データ主権という新たな争点が生まれつつある。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/politics/article/3361050/why-data-may-become-chinas-most-durable-advantage-ai-race?utm_source=rss_feed"
+      },
+      {
+        "rank": 16,
+        "title_ja": "インド初の民間軌道ロケット「Vikram-1」打ち上げ成功",
+        "summary": "インドの宇宙スタートアップSkyroot Aerospaceが、同国初の商業軌道用ロケット「Vikram-1」の打ち上げに成功しました。インドの宇宙産業における大きな一歩です。",
+        "take": "💭 商業宇宙分野で米中に次ぐ第三極としてのインドの存在感が高まる。今後の打ち上げコスト競争力が市場シェア獲得の鍵となる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 17,
+        "title_ja": "SpaceX株、上場直後から空売り増加",
+        "summary": "イーロン・マスク氏率いるSpaceXの株式が、上場からわずか数週間で公開価格を下回り、投資家の間で弱気な見方が広がっています。",
+        "take": "💭 宇宙・AI複合企業への期待先行の反動とも読める。ロケット事業の収益性検証が今後の株価を左右するだろう。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 18,
+        "title_ja": "{マーティン・ウルフ|マーティン・ウルフ}氏、株式市場の楽観論に警鐘",
+        "summary": "FTのマーティン・ウルフ氏は、株式市場が明白なリスクを無視し、過度な楽観に{包|つつ}まれていると指摘し、次の暴落の可能性を{論|ろん}じています。",
+        "take": "💭 AI相場の過熱と地政学リスクの同時進行は、バリュエーション調整の引き金になり得る組み合わせだ。分散投資の重要性が増す局面。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 19,
+        "title_ja": "キューバ、米国の{封鎖|ふうさ}と電力危機で社会が{崩壊|ほうかい}寸前",
+        "summary": "米国による半年に及ぶ石油禁輸措置の中、キューバでは10日間で3度目となる大規模停電が発生し、社会不安が高まっています。",
+        "take": "💭 制裁の長期化が民生へのしわ寄せとして噴出する典型例。人道的観点からの制裁見直し論議が国際社会で強まる可能性がある。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink"
+      },
+      {
+        "rank": 20,
+        "title_ja": "米で{寄生虫|きせいちゅう}汚染のレタス回収、27州に拡大",
+        "summary": "Taylor Farms社は、サイクロスポーラ症の原因となり得る氷山レタスを27州で回収すると発表しました。Taco Bellも同社製レタスの使用を停止しています。",
+        "take": "💭 食品サプライチェーンの脆弱性が改めて浮き彫りに。外食大手の対応速度が消費者の信頼維持を左右する。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html"
+      }
+    ]
+  },
+  {
     "date": "2026-07-18",
     "dateLabel": "2026年7月18日(土)",
     "generatedAt": "2026-07-17T21:52:18.289Z",
