@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-20",
+    "dateLabel": "2026年7月20日(月)",
+    "generatedAt": "2026-07-19T21:50:41.197Z",
+    "overview": "米国とイランの{報復|ほうふく}攻撃が{激化|げきか}し中東情勢が緊迫する一方、ロシアによるキーウへの大規模ミサイル攻撃、英国の新首相誕生、AI・半導体分野での動きなど、世界は複数の重大局面を同時に迎えている。",
+    "deepdive": {
+      "title": "米国とイランの衝突が{全面戦争|ぜんめんせんそう}の{瀬戸際|せとぎわ}に",
+      "body": "ヨルダンで米兵2人が死亡し、さらにイラクでの「{制御|せいぎょ}爆破」作業中に1人が死亡したことを受け、米軍はイランの沿岸監視・防空施設に新たな空爆を実施した。イラン側もヨルダンのアカバ空港付近にミサイルを撃ち込むなど、報復の連鎖が止まらない状況にある。\n事の発端は1か月前に結ばれた{暫定|ざんてい}停戦（ホルムズ海峡の航行に関する覚書）が崩壊したことにある。イラン国内では、この米国との覚書に署名した当局者を「裏切り者」と非難する強硬派が台頭し、最高指導者が「神聖な団結」を呼びかけるほど政治的分裂が深まっていた。\nこの衝突が重要なのは、単なる二国間の軍事衝突にとどまらないからだ。ホルムズ海峡は世界の原油輸送の生命線であり、緊張が続けば原油価格の急騰、世界的なインフレ再燃、株式市場の動揺につながりかねない。すでにナイジェリアなど遠く離れた地域でも、この戦争の余波で子どもの栄養失調が悪化するなど、経済的・人道的な{波及|はきゅう}が報告されている。エコノミスト誌も「世論調査開始以来、最も不人気な戦争」と報じており、米国内の政治的な持続可能性にも疑問符がついている。\n今後の焦点は、米国がどこまで本格的な軍事介入に踏み込むか、そしてイランが本当にホルムズ海峡封鎖に踏み切るかどうかだ。封鎖が実現すれば世界経済への打撃は計り知れず、日本を含むエネルギー輸入国は特に大きな影響を受ける。外交による事態収拾の糸口が見えるか、それとも{泥沼|どろぬま}化するか、今週が重大な分岐点となる。",
+      "category": "日本",
+      "source": "Japan Times",
+      "link": "https://www.japantimes.co.jp/news/2026/07/19/world/us-strikes-iran-punish-two-troops-killed/"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米軍、イランに新たな空爆－米兵死亡への「懲罰」",
+        "summary": "米軍がイランを攻撃し、米兵2人死亡への報復とした。ヨルダンでの米兵死亡に続き、イラクでも1人が死亡し、米国とイランの{報復|ほうふく}合戦が{激化|げきか}している。",
+        "take": "💭 ホルムズ海峡の緊張が続けば原油価格と世界のインフレ動向に直結する。停戦崩壊の経緯を見ると、事態の完全収拾にはまだ時間がかかりそうだ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/19/world/us-strikes-iran-punish-two-troops-killed/"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ロシア、キーウに5時間の大規模ミサイル攻撃",
+        "summary": "ロシアが{戦争|せんそう}中最大級となるミサイル攻撃をキーウなどに実施し、少なくとも6人が死亡、多数が負傷した。ウクライナでは国防指導部の突然の交代など政治的不安定も重なっている。",
+        "take": "💭 ロシアの空爆激化とウクライナ側の政治動揺が同時進行しており、欧米の支援継続の意思が試される局面だ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack"
+      },
+      {
+        "rank": 3,
+        "title_ja": "英国、新首相アンディ・バーナム氏に交代",
+        "summary": "英国で10年間に7人目となる新首相が誕生し、アンディ・バーナム氏が就任する。ウクライナやイラン情勢など外交課題に直面しつつ、北海の石油・ガス採掘{凍結|とうけつ}の継続など国内政策でも{注目|ちゅうもく}を集める。",
+        "take": "💭 英国の政治的不安定さは同盟国としての信頼性に影を落とす。エネルギー政策の行方は欧州全体のロシア制裁の結束にも影響しかねない。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/7/19/andy-burnhams-in-tray-the-challenges-facing-the-new-uk-pm?traffic_source=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "EU、対ロシア新制裁で支持が{崩壊|ほうかい}",
+        "summary": "EU加盟国の間で、自国企業への打撃を{懸念|けねん}し新たな対ロシア制裁への支持が弱まっている。制裁強化の機運は{後退|こうたい}しつつある。",
+        "take": "💭 制裁疲れが表面化すれば、ロシアの{強気|つよき}な姿勢を助長しかねない。西側の結束の限界が見え始めている。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ロシア国民、現金志向強まる－{戦時|せんじ}経済に{歪み|ひずみ}",
+        "summary": "4年以上続く{戦争|せんそう}でロシア経済が減速し、モバイル通信の遮断や課税逃れの動きが広がる中、国民は現金決済に頼るようになっている。",
+        "take": "💭 経済制裁と戦費負担のダブルパンチがロシア国内経済を静かに{蝕|むしば}んでいる兆候だ。表向きの強気姿勢とは裏腹の{脆弱性|ぜいじゃくせい}が見える。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 6,
+        "title_ja": "ハンガリー大統領、憲法改正で{辞任|じにん}へ",
+        "summary": "ハンガリーのシュヨク大統領が、与党ティサ党主導の憲法改正を受けて{辞任|じにん}に同意した。「信任の著しい喪失」が改正の理由とされる。",
+        "take": "💭 EU内の民主主義の後退がまた一例増えた形で、オルバン後の政治地図の再編にも注目が集まる。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/18/hungarys-president-agrees-to-stand-down-after-law-change-ends-his-term"
+      },
+      {
+        "rank": 7,
+        "title_ja": "中国企業、英国製鉄国有化で賠償要求",
+        "summary": "英国政府が国有化した英国製鉄について、旧所有者の中国{京業|きょうぎょう}集団が投資損失への補償を要求した。英中間の新たな{摩擦|まさつ}要因となる。",
+        "take": "💭 重要インフラの国有化を巡る対中賠償紛争は、他の西側諸国の対中投資判断にも影響を与えかねない{試金石|しきんせき}だ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 8,
+        "title_ja": "小泉防衛相「核兵器の議論避けられず」",
+        "summary": "小泉進次郎防衛相が、日本の非核三原則の見直しを{巡|めぐ}る議論が避けられないとの見解を示した。政府は長年の「作らず・持たず・持ち込ませず」の方針を再検討している。",
+        "take": "💭 北朝鮮・中国の核戦力増強を背景にした議論だが、被爆国としての国内世論との{軋轢|あつれき}は避けられない。日本の安全保障政策の大転換点になり得る。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/19/japan/politics/koizumi-japan-nuclear-weapons-debate/"
+      },
+      {
+        "rank": 9,
+        "title_ja": "台湾総統「民主台湾は中国の台湾にならない」",
+        "summary": "台湾の{頼清徳|らいせいとく}総統が、台湾はすでに独立国家であり中国に{従属|じゅうぞく}しないと改めて強調した。中台関係の緊張が続く中での発言。",
+        "take": "💭 台湾海峡の緊張が続く中、この発言は北京への明確な{牽制|けんせい}であり、日米との連携強化にもつながる論点だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/19/asia-pacific/politics/democratic-taiwan-lai-ching-te/"
+      },
+      {
+        "rank": 10,
+        "title_ja": "中国潜水艦のミサイル発射、日本が抑止力強化へ",
+        "summary": "中国の潜水艦によるミサイル発射を受け、日本は防衛面での抑止力強化を{模索|もさく}している。地域の軍事的緊張の高まりを示す動き。",
+        "take": "💭 台湾情勢や核議論と合わせ、日本の安全保障政策が急速に現実路線へシフトしていることが読み取れる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/politics/defense/japan-seeks-stronger-deterrence-after-china-submarine-missile-launch"
+      },
+      {
+        "rank": 11,
+        "title_ja": "中国AI企業ムーンショット、香港上場へ",
+        "summary": "中国のAI新興企業ムーンショットAIが、半年以内の香港IPOを目指し株主決議を配布した。評価額は300億ドル超とも報じられる。",
+        "take": "💭 米国のAI規制強化を{尻目|しりめ}に、中国AI企業が香港市場を通じた資金調達を加速させている。米中AI競争の新たな{局面|きょくめん}だ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/19/tech/china-moonshot-ai-ipo/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "アリババ新AIモデル、Claudeに次ぐ性能と発表",
+        "summary": "アリババが次世代AIモデル「Qwen3.8」のプレビュー版を公開し、アンソロピック社のClaudeに次ぐ性能を持つと主張している。",
+        "take": "💭 中国勢のオープンモデル攻勢が続き、米国発の閉鎖的モデルとの価格・性能競争が世界のAI開発コストを押し下げる可能性がある。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?utm_source=rss_feed"
+      },
+      {
+        "rank": 13,
+        "title_ja": "ジェンスン・フアン氏の来日、日本の技術基盤に{楔|くさび}",
+        "summary": "エヌビディアのフアンCEOが東京訪問を通じ、日本のテクノロジー業界全体にまたがる複数の提携・投資を{取|と}り付けた。",
+        "take": "💭 半導体・AIインフラを巡る日米連携の強化は、日本企業にとって大きな商機であると同時に、対中依存脱却の一手ともなる。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/"
+      },
+      {
+        "rank": 14,
+        "title_ja": "アップルの{提訴|ていそ}、OpenAIのハード事業計画に影",
+        "summary": "アップルによる訴訟が、OpenAIが進めるハードウェア事業やIPO計画に影響を与えるか{議論|ぎろん}になっている。",
+        "take": "💭 AI企業がソフトからハードへ進出する流れの中、既存プラットフォーマーとの法的衝突は今後も増えるとみられる。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "ネットフリックス、ベン・アフレック氏のAI映像新興企業を587億円で買収",
+        "summary": "ネットフリックスが、ベン・アフレック氏共同創業のAI映画制作新興企業「InterPositive」を現金5億8700万ドルで買収したことを明らかにした。",
+        "take": "💭 生成AIによる映像制作が本格的にハリウッドの主流ビジネスへ組み込まれ始めた象徴的な取引だ。",
+        "category": "テック",
+        "source": "TechCrunch",
+        "link": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/"
+      },
+      {
+        "rank": 16,
+        "title_ja": "韓国株、AI相場で日本市場との連動性が逆転",
+        "summary": "AI関連相場を背景に、韓国株式市場が日本市場との連動性で米国市場との相関を上回るという「ニューノーマル」が生じていると{報道|ほうどう}された。",
+        "take": "💭 AIサプライチェーンの再編でアジア株式市場の力学が変化しており、投資家は従来の相関モデルの見直しを迫られている。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByTEZNdjFtdnMtX3FMbTBsTVQwTVFLTjRmckVYallSVWNuZ0stWkxobjNoUzUzV21FZTFOVHV6aTFxTmxMbXBOX3M3T1ZVLTlRNkZVSW1RWDJ0aTBIcGVnUk52Vk1hNUN2T1VNbUcyNG5YUU9Xel9n?oc=5"
+      },
+      {
+        "rank": 17,
+        "title_ja": "FRB内でインフレ論争{激化|げきか}、ウォーシュ議長がタカ派鮮明に",
+        "summary": "米連邦準備制度理事会（FRB）内でインフレを巡る論争が熱を帯び、ウォーシュ議長がタカ派姿勢を鮮明にしていると報じられた。",
+        "take": "💭 中東情勢による原油高懸念も重なり、利下げ期待は後退しやすい。金融市場は金利パスの再修正を迫られる可能性がある。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aSkp1RTNmVXVtVzlYb0xfOHowb083RkMySkQ1aVhKWlJpRE1yaHVkeHhNXzRMUi1heTMyZHo0SmwwVmZwdlFOOGkxSHE4THZ2NVJ5WmR0X1JlVXNJMVdHN2xnNmJBeDNqLWNMdXN3bFZJcWFGMmww?oc=5"
+      },
+      {
+        "rank": 18,
+        "title_ja": "日本の対米投資公約、実行率は1年で2割",
+        "summary": "日本政府が関税交渉で表明した対米投資・融資の公約について、1年経過時点での実行率は約20%にとどまっていると報じられた。",
+        "take": "💭 巨額投資公約の実効性への疑問は、日米通商関係における日本の交渉力を{占|うらな}う試金石になる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/19/20-percent-japan-pledged-us-investments-underway/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "米国の「中国専門知」が{衰退|すいたい}、対中関係に影",
+        "summary": "米国建国250周年を迎える中、対中専門家の育成機会や関心の低下が進み、米中関係の緊張を読み解く力が弱まっていると{指摘|してき}されている。",
+        "take": "💭 専門知の空洞化は誤算や誤解による衝突リスクを高める。米中関係の安定にとって見過ごせない構造的な弱点だ。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3361097/fewer-opportunities-less-passion-no-clue-how-us-china-expertise-fading?utm_source=rss_feed"
+      },
+      {
+        "rank": 20,
+        "title_ja": "米ビザ政策変更、インド・中国人留学生らに打撃",
+        "summary": "米国土安全保障省が国家安全保障上の懸念を理由に、F・J・Iビザの規則を変更し、インドや中国出身の留学生・研究者・報道関係者への影響が懸念されている。",
+        "take": "💭 人材の国際流動性を{阻害|そがい}する政策は、長期的には米国の技術・学術面での競争力低下につながりかねない。",
+        "category": "アジア",
+        "source": "The Hindu",
+        "link": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece"
+      }
+    ]
+  },
+  {
     "date": "2026-07-19",
     "dateLabel": "2026年7月19日(日)",
     "generatedAt": "2026-07-18T21:49:08.858Z",
