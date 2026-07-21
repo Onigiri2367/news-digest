@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-22",
+    "dateLabel": "2026年7月22日(水)",
+    "generatedAt": "2026-07-21T22:03:14.019Z",
+    "overview": "米・イラン紛争の激化とウクライナ軍{首脳|しゅのう}人事の混乱、そしてトランプ政権による対カナダ50%関税など、世界秩序を揺るがす動きが同時多発した1日でした。あわせて日本の骨太方針や中国艦艇のEEZ内活動など、日本周辺の安全保障・経済動向にも注目が集まります。",
+    "deepdive": {
+      "title": "米、イランへ追加攻撃　中東紛争が新たな段階に",
+      "body": "アメリカ軍がイランに対して新たな空爆を実施し、トランプ大統領は米兵の死亡を受けて「報復」を{示唆|しさ}しました。これに対しイラン側もホルムズ海峡で船舶を攻撃したほか、バーレーンやヨルダンの米軍基地を狙うなど、10日間続く戦闘は収束の気配を見せていません。\n\n発端は今年前半からのイランの核開発をめぐる緊張です。米国とイスラエルはイランの核施設を攻撃し、イランがこれに応戦する形で戦闘が拡大しました。ヘグセス国防長官は「戦費はすでに375億ドルに達した」と証言し、追加で700億ドル規模の予算を要求するなど、戦争の長期化・{高騰|こうとう}化が鮮明になっています。\n\nこの紛争が重要なのは、単なる地域紛争にとどまらず、世界のエネルギー・海運・金融市場に直結しているためです。イエメンのフーシ派がサウジアラビアへの海上封鎖を宣言し、紅海やホルムズ海峡での船舶航行が脅かされたことで、原油価格や日本の原油調達（全体の3割に影響が及ぶ可能性）にも波及しています。ゴールドマン・サックスは原油が1バレル120ドルまで急騰し得ると警告しました。\n\n加えて、クウェートでは電力網への攻撃で計画停電が実施されるなど、周辺の中小国が「巻き添え」被害を受けている点も見逃せません。ヨルダンも新たな前線国家となるリスクが指摘されています。\n\n今後の焦点は、トランプ政権が地上戦を含むさらなる軍事関与に踏み込むか、あるいはパキスタンなどの仲介による外交解決に向かうかです。中間選挙を控える米国内では戦費への批判も強まっており、エコノミスト誌が指摘するように「イラン戦争がトランプ政権そのものを{蝕|むしば}む」展開になるかが注目されます。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米、イランへ追加空爆　中東紛争が10日目に突入",
+        "summary": "米軍がイランへ新たな攻撃を実施し、トランプ大統領は米兵死亡への報復を{示唆|しさ}しました。イラン側もホルムズ海峡の船舶やバーレーン・ヨルダンの米軍基地を攻撃し、戦闘は拡大の一途をたどっています。",
+        "take": "💭 戦費が既に375億ドルに達し追加予算要求も出ており、米国内世論と中間選挙への影響が今後の展開を左右しそうです。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "フーシ派のサウジ海上封鎖、日本の原油調達3割に影響懸念",
+        "summary": "イエメンのフーシ派がサウジアラビアへの海上封鎖を宣言し、サウジ産原油タンカーが紅海でUターンする事態が発生しました。日本の原油調達の3割が影響を受ける可能性があり、ルート変更や代替調達が必要になるとみられます。",
+        "take": "💭 日本のエネルギー安全保障が中東情勢に直結する構図が改めて浮き彫りになり、調達先の多様化が急務となります。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2S1l0LW9QYTB5b3BQdHM3YVNRcWY4cHM1RHRUY1BUbUF4VWtOejNqV2pKaTdQS3VtaDN6SHM0Mi1CQ0VVdnl5Wm8yMW1veFhoQzRwUWI4WEtfdEx0dDBHaVhUZlA0ZzA4WWRlWEoxbk94X0RZQnRF?oc=5"
+      },
+      {
+        "rank": 3,
+        "title_ja": "トランプ氏、カナダに50%関税　貿易摩擦が急拡大",
+        "summary": "トランプ大統領がカナダの大半の製品に50%の追加関税を課すと発表しました。カナダ側の対抗措置への報復とされ、カーニー首相は「あらゆる選択肢」を検討すると表明しています。",
+        "take": "💭 同盟国同士でも容赦ない関税外交は、他の貿易相手国への{威嚇|いかく}効果を狙ったものとみられ、世界の通商秩序に不確実性を広げます。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "ゼレンスキー氏、軍総司令官を{更迭|こうてつ}　国防相復帰で事態収拾へ",
+        "summary": "ウクライナのゼレンスキー大統領は抗議デモを受け、シルスキー軍総司令官を解任し、一度更迭した{フェドロフ|Fedorov}国防相を政権に呼び戻すと発表しました。新司令官には{ドラパティ|Drapatyi}氏が就任します。",
+        "take": "💭 戦時下での指導部の動揺は前線の士気にも影響しかねず、西側の軍事支援継続への信頼にも{波紋|はもん}を広げる可能性があります。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/21/zelenskyy-replaces-military-leader-and-brings-back-defence-minister-he-sacked"
+      },
+      {
+        "rank": 5,
+        "title_ja": "中国艦艇、沖ノ鳥島南西の日本EEZ内で射撃訓練",
+        "summary": "中国海軍の艦艇が沖ノ鳥島南西の日本の{排他的経済水域|はいたてきけいざいすいいき}内で射撃訓練を実施したことが判明しました。日本政府はこの動きを異例として公表し、防衛省が監視を強めています。",
+        "take": "💭 中国が日本のEEZ内での軍事活動を{恒常|こうじょう}化させれば、日本の防衛政策や日米同盟の対応方針にも影響が及びそうです。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/21/japan/china-live-fire-exercise-japan-eez/"
+      },
+      {
+        "rank": 6,
+        "title_ja": "骨太方針を閣議決定、日銀の独立性を明記　防衛費目標は見送り",
+        "summary": "日本政府は経済財政運営の基本方針（骨太の方針）を閣議決定し、日銀の独立性に関する記述を加筆した一方、防衛費の数値目標は見送りました。市場の信認確保を重視する姿勢が示されています。",
+        "take": "💭 日銀の独立性を巡る与党内の綱引きが表面化しており、財政・金融政策の一体運営に市場がどう反応するかが今後の焦点です。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTRFWWhPMHpvX1hGWklURXUwV2xzQVQ5a1A1ZmNmZERZNF84cmM5NFJsQ1hReWtzbWM0RWp3UXJac1l1dGlmT3BCYUNwaTRNUHFZR3JpT0lMb1VOc3FOVXMtMFY3eDhBQUgtR3R0aDFfOGgza0d3aVlSdUNJX1I1VQ?oc=5"
+      },
+      {
+        "rank": 7,
+        "title_ja": "JPモルガンなど、日本の対米5500億ドル投資計画に融資協力",
+        "summary": "JPモルガンを含む複数の銀行が、日本の対米5500億ドル投資計画の資金調達を支援することが分かりました。日本の銀行は円建て資金基盤のためドル調達コストが高く、参加に消極的だったとされます。",
+        "take": "💭 巨大投資計画の実現には為替とドル調達コストが{鍵|かぎ}を握り、円安環境が日本企業の対米投資戦略を複雑にしています。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/21/companies/us-banks-help-japan-investment-pledge-in-us/"
+      },
+      {
+        "rank": 8,
+        "title_ja": "高市内閣の支持率下落、皇室典範改正への理解広がらず",
+        "summary": "世論調査で高市内閣の支持率が6月の60%から53%へ低下しました。改正{皇室典範|こうしつてんぱん}への理解が広がらないことなどが背景にあるとみられます。",
+        "take": "💭 支持率低下が政策実行力の低下に直結すれば、経済対策や外交交渉での{求心力|きゅうしんりょく}にも影響しかねません。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/21/japan/politics/takaichi-popularity-dips/"
+      },
+      {
+        "rank": 9,
+        "title_ja": "中国発「Kimi K3」、AI業界に再び衝撃",
+        "summary": "中国Moonshot AIの新モデル「Kimi K3」の登場により、限られた先端チップへのアクセスでも米国のフロンティアAIモデルに匹敵できるかという議論が再燃しています。DeepSeek以来の「衝撃」と評されています。",
+        "take": "💭 オープンウエイトモデルの性能向上は米国のAI規制戦略の前提を揺るがしており、次は米政府の対中輸出規制強化が焦点になりそうです。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/big-tech/article/3361387/another-deepseek-moment-what-chinas-kimi-k3-means-global-ai-industry?utm_source=rss_feed"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米、中国AIモデルへの制裁検討　知的財産侵害を理由に",
+        "summary": "ベッセント財務長官は、知的財産侵害を理由に中国のオープンAIモデルへの制裁を検討していると述べました。トランプ政権による対中AI封じ込め策の一環とみられます。",
+        "take": "💭 制裁がオープンソースAIの国際流通そのものを分断しかねず、世界の開発者コミュニティへの影響が注視されます。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+      },
+      {
+        "rank": 11,
+        "title_ja": "アンソロピック、15億ドルの著作権和解が承認",
+        "summary": "AI企業アンソロピックが著作権侵害訴訟で合意した15億ドルの集団訴訟和解が、裁判所に承認されました。ただしAI学習における著作物利用の是非という根本問題は未解決のままです。",
+        "take": "💭 巨額和解は今後のAI企業に対する著作権訴訟の相場観を形成し、生成AI業界全体のコスト構造を変える可能性があります。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "データセンターの電力需要、2035年に4倍へ",
+        "summary": "AI向けデータセンターの電力消費量が2035年までに現在の4倍に達するとの予測が示されました。2033年までに新設されるデータセンターだけでインド一国分の電力消費に匹敵するといいます。",
+        "take": "💭 AIの成長制約は今やチップよりも電力供給にシフトしつつあり、エネルギーインフラ投資が次の競争軸になります。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/"
+      },
+      {
+        "rank": 13,
+        "title_ja": "フランス、15歳未満のSNS禁止法をEUで初めて可決",
+        "summary": "フランス議会は15歳未満の子どものSNS利用を禁止する法案を可決しました。マクロン大統領が推進してきた政策で、新学期開始までの施行を目指しています。",
+        "take": "💭 各国が追随すれば、TikTokなどのプラットフォームは年齢確認技術への投資を迫られ、規制対応がグローバル競争の新たな変数となります。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/21/france-ban-social-media-access-under-15s"
+      },
+      {
+        "rank": 14,
+        "title_ja": "インドでトンネル崩落、10人死亡　有毒ガスが救助阻む",
+        "summary": "インドで発生したトンネル崩落事故で少なくとも10人が死亡し、17人が閉じ込められています。ガス爆発が原因とみられ、有毒ガスの発生が救助活動を{阻|はば}んでいます。",
+        "take": "💭 インフラ急拡大を進めるインドで安全基準の徹底が追いついていない実態が浮かび上がり、今後の建設プロジェクトの監督強化が課題です。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/india-tunnel-collapse-kills-10-as-toxic-gases-hamper-rescue?traffic_source=rss"
+      },
+      {
+        "rank": 15,
+        "title_ja": "インドで抗議デモ続く、警察の強制排除に批判",
+        "summary": "デリーで若者らによる抗議デモが続き、前日の警察の強制排除で少なくとも60人のデモ参加者が負傷しました。教育改革を求める大規模な運動が広がっています。",
+        "take": "💭 モディ政権への若年層の不満が可視化されつつあり、次期選挙に向けた政治的インパクトが注目されます。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 16,
+        "title_ja": "ガイアナでフェリー転覆、41人死亡",
+        "summary": "ガイアナ沖でフェリー「MVバリマ」号が転覆し、少なくとも41人が死亡、数十人が依然行方不明となっています。救助された人数は77人に増えました。",
+        "take": "💭 発展途上国での旅客船安全基準の甘さが繰り返し悲劇を生んでおり、国際的な海上安全支援の必要性が改めて浮き彫りになります。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 17,
+        "title_ja": "中国のEV政策、ゼロから世界一への道筋　他国は{追随|ついずい}できるか",
+        "summary": "中国の電気自動車（EV）産業は、消費・環境・貿易・製造・技術が交差する分野として世界の注目を集めています。政府主導の産業政策がその急成長を支えた構図が分析されています。",
+        "take": "💭 補助金と国内需要創出を組み合わせた中国モデルは、日欧の自動車産業にとって模倣困難な脅威であり、部品サプライチェーンの奪い合いが激化しています。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/economy/global-economy/article/3361334/chinas-policy-playbook-took-its-ev-sector-zero-hero-can-other-countries-follow?utm_source=rss_feed"
+      },
+      {
+        "rank": 18,
+        "title_ja": "アルツハイマー病誘発か、日本の研究者がたんぱく質の{塊|かたまり}を発見",
+        "summary": "日本の研究チームが、アルツハイマー病の引き金になるとみられる新種のアミロイドベータたんぱく質の「種」を発見しました。早期治療法の開発につながる可能性があるとしています。",
+        "take": "💭 基礎研究の成果だが、臨床応用までは長い道のりがあり、過度な期待より着実な検証プロセスの継続が重要です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/21/japan/science-health/alzheimers-study/"
+      },
+      {
+        "rank": 19,
+        "title_ja": "居住可能領域の岩石惑星、初めて大気を確認",
+        "summary": "地球から48光年離れた岩石惑星「LHS 1140 b」で、他の恒星の居住可能領域にある岩石惑星として初めて大気の存在が確認されました。ヘリウムが宇宙空間に漏れ出すことでその存在が判明しました。",
+        "take": "💭 生命存在の可能性を直接示すものではありませんが、系外惑星の大気観測技術の進展を示す重要な一歩といえます。",
+        "category": "科学",
+        "source": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm"
+      },
+      {
+        "rank": 20,
+        "title_ja": "サウジ産原油タンカー、紅海でUターン　フーシ派の警告受け",
+        "summary": "サウジアラビア産原油を積んだタンカー2隻が、フーシ派の警告を受けて紅海でUターンしました。海上輸送ルートの安全性への懸念が広がっています。",
+        "take": "💭 紅海の航行リスクが常態化すれば、喜望峰迂回による輸送コスト増加が世界の原油・物流価格に波及する恐れがあります。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aU3JTQ05IbzYyUDhBWkt6Vlk0aDFGSF9KMjJLOHB0LS1seWVUM3Q1czNyQVdwX20wUUZaVTd2VnRhdDNERXd3UFoxekNMMHhqOTBDSVlRSmw4aWMtRzZIUGYwalpLTm5XaUt0dTRicDI3Yzl5WG14Rm9UY3Yxdw?oc=5"
+      }
+    ]
+  },
+  {
     "date": "2026-07-21",
     "dateLabel": "2026年7月21日(火)",
     "generatedAt": "2026-07-20T21:59:27.462Z",
