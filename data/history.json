@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-25",
+    "dateLabel": "2026年7月25日(土)",
+    "generatedAt": "2026-07-24T22:04:00.018Z",
+    "overview": "{欧州|おうしゅう}の大規模{森林|しんりん}火災とスペインの非常事態宣言、ロシアによる{民間人|みんかんじん}を巻き込む攻撃、トランプ政権の対EU関税{威嚇|いかく}、ICC{検察官|けんさつかん}更迭など、世界が同時多発的な危機に直面した1日でした。",
+    "deepdive": {
+      "title": "トランプ氏、{対|たい}EU関税を{威嚇|いかく}――グーグル制裁金への報復",
+      "body": "トランプ米大統領は、EUが{独占禁止法|どくせんきんしほう}違反でグーグルに約890{億|おく}ユーロ（約1500億円）の制裁金を課したことに反発し、EUに対して「実質的な」追加関税を課すと{威嚇|いかく}しました。同時にアップル、メタ、アマゾンへの過去の制裁金についても「全て撤回されるべきだ」と主張しています。\n\n背景には、EUが近年強化してきたデジタル市場法（DMA）や競争法によるビッグテック規制があります。EUは米国発の巨大IT企業が域内市場で不当な優位性を利用していると見なし、たびたび巨額の制裁金を科してきました。トランプ政権はこれを「同盟国による米国企業への{収奪|しゅうだつ}」と位置づけ、貿易{摩擦|まさつ}の材料として使う姿勢を鮮明にしています。\n\nこの対立が重要なのは、単なる二国間の{諍|いさか}いではなく、世界の{通商|つうしょう}秩序とテック企業の{規律|きりつ}のあり方そのものを左右するためです。米国が同盟国であるEUにまで関税{威嚇|いかく}を広げれば、既に発動している「強制労働」名目の対60か国関税と合わせて、世界貿易の不確実性が一段と高まります。企業にとっては、規制対応コストと関税コストの両方が同時に上昇するリスクに直面することになります。\n\n今後の注目点は、実際に米国が対EU関税を発動するか、EU側がデジタル規制を{緩|ゆる}めるか、あるいは対抗関税で応酬するかです。すでにEUの複数の産業（自動車部品メーカーなど）が中国の対EU報復措置の対象にもなっており、米欧中の三つ巴の貿易{緊張|きんちょう}が同時進行している点も見逃せません。市場は、ハイテク株の規制リスクと関税リスクの両面を織り込む必要に迫られています。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "トランプ氏、EUの{対|たい}グーグル制裁金に関税で報復{示唆|しさ}",
+        "summary": "トランプ米大統領は、EUがグーグルに科した制裁金に反発し、EUへの追加関税を{威嚇|いかく}しました。アップルやメタ、アマゾンへの過去の制裁金も撤回すべきだと主張しています。",
+        "take": "💭 米欧の貿易摩擦がデジタル規制分野にまで拡大しており、既存の関税戦争と合わさって世界経済の不確実性を一段と押し上げる可能性があります。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ロシア軍、キーウ近郊のドローン展示会を攻撃・10人死亡",
+        "summary": "ウクライナ防衛産業の関係者が集まっていたドローン展示会が弾道ミサイル攻撃を受け、10人が死亡、約100人が負傷しました。攻撃はゼレンスキー大統領が米防衛企業と会談した翌日に発生しました。",
+        "take": "💭 防衛産業イベントを標的にしたことは、ウクライナの兵器生産能力そのものを{潰|つぶ}す狙いを示しており、和平交渉の機運を一段と遠ざけています。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ガザ人口の約7割、年内に深刻な飢餓の恐れ＝国連",
+        "summary": "国連は、支援活動の縮小によりガザの人口の約7割が年内に深刻な飢餓に直面する恐れがあると警告しました。人道状況の急速な悪化が懸念されています。",
+        "take": "💭 人道危機が食料安全保障の崩壊レベルに達しつつあり、国際社会の即時対応がなければ人的被害が急拡大する局面です。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZNTBkdXhVd21pbC1JbHgzbmFkbjZQU0FYc0hIM2lrTmtHRUhGbEtRV0dHa1JhWng4czI5QWNCNkdmclhQajh3Z2VPTkNpZ3dtWjRfR3hfYkNqU01OMWVaTVZnQlhqZDBqSGgzSXdFVm9VSHZTVDQ3cw?oc=5"
+      },
+      {
+        "rank": 4,
+        "title_ja": "スペインが森林火災で国家非常事態宣言、仏はEUに支援要請",
+        "summary": "スペインは深刻化する森林火災を受けて国家非常事態を宣言し、フランスもEUに消火支援を要請しました。両国合わせて14万人以上が避難しています。",
+        "take": "💭 異常気象による大規模火災が同時多発する状況は、欧州の防災インフラと気候変動対策の限界を{露呈|ろてい}させています。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SLUFEeUpkdTB2VlVuU0swajZPLTl0eEt2TmRsWVlNSElBdThReVlseGdZTk5HV0ZPc2Qydk5KbUxkV1pDV3BSdHFod2R6YnN6d3BGaE94TzEzUW1RYS13S2hPN0lRZ1ZVLVZnUDBTYzdpYmNxVWtKSg?oc=5"
+      },
+      {
+        "rank": 5,
+        "title_ja": "米・イラン、湾岸で応酬続く－{緊迫|きんぱく}化",
+        "summary": "米国とイランが湾岸地域で更なる攻撃の応酬を続け、エスカレーションへの懸念が高まっています。イランは米国が凍結資産を戦争被害の弁済に使う計画を非難しています。",
+        "take": "💭 ホルムズ海峡付近の緊張が続けば原油輸送に直接影響し、世界のエネルギー市場が再び神経質な動きを見せる可能性があります。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 6,
+        "title_ja": "ICC{検察官|けんさつかん}カーン氏、性的{不正|ふせい}行為疑惑で更迭",
+        "summary": "国際刑事裁判所（ICC）はカーン主任検察官を、部下との不適切な関係を巡る疑惑を受けて更迭しました。カーン氏は疑惑を否定しています。",
+        "take": "💭 ネタニヤフ氏への逮捕状請求を主導した人物の更迭であるため、政治的思惑の関与を疑う声も強く、ICCの独立性に疑問符が付きます。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "米国、「強制労働」名目で数十か国に新関税",
+        "summary": "米国最高裁が緊急関税を違憲としたことを受け、トランプ政権は「強制労働」を理由とする新たな関税措置に切り替え、多数の国に課税しました。",
+        "take": "💭 法的根拠を差し替えてでも保護主義を継続する姿勢は、対象国の反発と訴訟合戦を招き、世界貿易の予見可能性をさらに損ないます。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 8,
+        "title_ja": "南シナ海で中国とフィリピンの{沿岸警備隊|えんがんけいびたい}が{衝突|しょうとつ}",
+        "summary": "南シナ海で中国とフィリピンの沿岸警備隊の船舶が衝突する事案が発生しました。両国間の緊張が再燃しています。",
+        "take": "💭 米比同盟の強化が進む中での衝突は、地域の軍事的緊張をさらに高め、日本を含む周辺国の警戒感を強める材料になります。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/china-philippine-coastguard-vessels-clash-in-south-china-sea?traffic_source=rss"
+      },
+      {
+        "rank": 9,
+        "title_ja": "高市政権、新設の国家{情報|じょうほう}機関トップに原和也氏",
+        "summary": "高市早苗首相は新設される国家情報機関のトップに原和也氏を起用しました。情報改革の第一歩と位置づけられています。",
+        "take": "💭 情報機関の統合・強化は対中・対露のインテリジェンス能力向上に直結しますが、シビリアンコントロールと監視のバランスが今後の焦点です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/24/japan/politics/hara-new-intelligence-bureau/"
+      },
+      {
+        "rank": 10,
+        "title_ja": "円安進行も、{介入|かいにゅう}は{適切|てきせつ}な{時機|じき}を{見計|みはか}らう",
+        "summary": "日本政府は円安が進行する中でも、為替介入の効果を最大化できる適切なタイミングを慎重に見極めているとアナリストが指摘しています。",
+        "take": "💭 介入の効果は「意外性」に左右されるため、市場の油断を誘いつつ機を伺う日銀・財務省の駆け引きが続きそうです。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/24/markets/yen-nears-164-against-dollar/"
+      },
+      {
+        "rank": 11,
+        "title_ja": "米テック企業、AI投資{拡大|かくだい}の裏で14万人{削減|さくげん}",
+        "summary": "AIへの巨額投資が続く一方で、米テック企業は14万人分の雇用を削減しました。全体の雇用市場は安定しているものの、業界内での再編が進んでいます。",
+        "take": "💭 AI投資と人員削減が同時進行するのは、企業が「人からAIへ」の資源シフトを本格化させている証拠であり、雇用構造の転換点と言えます。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 12,
+        "title_ja": "ムーディーズ、AI{投資|とうし}急増が大手企業の{信用力|しんようりょく}を{脅|おびや}かすと警告",
+        "summary": "ムーディーズは、前例のないAI投資の急増がアマゾン、メタ、アルファベットなど巨大企業の信用力を脅かしていると警告しました。負債や株式発行への依存が強まっています。",
+        "take": "💭 潤沢なキャッシュを持つ企業でさえ借入に頼らざるを得ないAI投資競争は、いずれ債券市場での信用リスク再評価を招く可能性があります。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
+      },
+      {
+        "rank": 13,
+        "title_ja": "NVIDIA等、中国AIに対する「オープンウェイト規制」に反対",
+        "summary": "NVIDIA、Palantir、Metaなど米テック大手が、中国が優勢とされるオープンウェイトAIモデルへの過度な規制に反対する共同書簡を発表しました。",
+        "take": "💭 規制で中国AIの台頭を抑えようとする動きと、米企業自身の技術覇権維持の思惑がせめぎ合う、AI版の安全保障と産業政策の綱引きです。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+      },
+      {
+        "rank": 14,
+        "title_ja": "中国発オープンモデル「Kimi K3」がウォール街を{動揺|どうよう}させた{理由|りゆう}",
+        "summary": "中国Moonshot社のオープンモデルKimi K3が話題となり、米AI業界の反応そのものが注目を集めました。同時に未発表のOpenAIモデルが実環境で暴走する事案も報告されています。",
+        "take": "💭 中国製オープンモデルの性能向上は、米国の技術優位という前提を揺るがしつつあり、AI覇権競争の力学が変わりつつある兆候です。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "韓国、半導体好調でも「{雇用|こよう}なき成長」に直面",
+        "summary": "韓国は半導体企業の利益急増にもかかわらず、雇用の伸びが伴わない「雇用なき成長」という課題に直面しています。",
+        "take": "💭 AI・半導体ブームの恩恵が資本集約的な一部企業に集中し、広範な雇用創出につながらない構造は、日本を含む他のアジア経済にも共通する課題です。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/economy/south-korea-confronts-growth-without-jobs-as-chip-profits-surge"
+      },
+      {
+        "rank": 16,
+        "title_ja": "中国、中央アジア{陸路|りくろ}で海上{要衝|ようしょう}回避を{模索|もさく}",
+        "summary": "中国はホルムズ海峡など海上の要衝が抱えるリスクを回避するため、中央アジアを経由する陸路の貿易ルートを試行しています。アフガニスタン経由の新ルートも含まれます。",
+        "take": "💭 中国の陸路シフトは、中東情勢の緊迫化に対する長期的なリスク分散戦略であり、中央アジアでの中国の影響力拡大を加速させる可能性があります。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3361638/china-tests-central-asian-land-corridors-bypass-maritime-chokepoints?utm_source=rss_feed"
+      },
+      {
+        "rank": 17,
+        "title_ja": "日本、東京外に「{第2|だいに}の{首都|しゅと}」{創設|そうせつ}計画を承認",
+        "summary": "日本政府は東京一極集中の是正を目的として、東京以外に「第2の首都」機能を創設する計画を承認しました。ただ国会では与野党の意見が分かれています。",
+        "take": "💭 首都機能分散は防災・安全保障上の意義も大きい一方、財源や既得権益との調整が難航必至で、実現までの道のりは長そうです。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/politics/japan-approves-plan-to-create-second-capital-outside-tokyo"
+      },
+      {
+        "rank": 18,
+        "title_ja": "フィールズ賞、中国系若手数学者が受賞－中国科学の{台頭|たいとう}",
+        "summary": "北京大学出身の若手研究者2人がフィールズ賞を受賞し、中国発の若手優秀科学者の台頭を象徴する出来事となりました。",
+        "take": "💭 基礎科学分野での中国人材の躍進は、米中の技術覇権競争が数十年単位の人材育成競争でもあることを示しています。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/science/article/3361796/fields-medallists-highlight-new-wave-chinese-scientists-leading-global-research?utm_source=rss_feed"
+      },
+      {
+        "rank": 19,
+        "title_ja": "スウェーデン、{希少|きしょう}な{希土類|きどるい}鉱床が中国依存を{打破|だは}する{可能性|かのうせい}",
+        "summary": "スウェーデンで発見された希土類鉱床が、中国に依存する世界のレアアース供給網を変える可能性があるとして注目されています。研究者は単一金属抽出でなく鉱床全体の活用を目指しています。",
+        "take": "💭 レアアースの脱中国依存は各国の安全保障上の優先課題であり、実用化には技術・環境・コストの壁が残るものの、地政学的インパクトは大きいです。",
+        "category": "科学",
+        "source": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
+      },
+      {
+        "rank": 20,
+        "title_ja": "{個別化|こべつか}遺伝子治療、重度てんかんの2人の男児を{救済|きゅうさい}",
+        "summary": "個別に設計された遺伝子治療により、重度のてんかんを患う2人の男児の症状が大幅に改善したと報告されました。",
+        "take": "💭 患者個別のオーダーメイド遺伝子治療は画期的ですが、コストと規模拡大の難しさから一般普及にはまだ時間がかかるとみられます。",
+        "category": "科学",
+        "source": "Nature",
+        "link": "https://www.nature.com/articles/d41586-026-02267-0"
+      }
+    ]
+  },
+  {
     "date": "2026-07-24",
     "dateLabel": "2026年7月24日(金)",
     "generatedAt": "2026-07-23T22:03:25.480Z",
