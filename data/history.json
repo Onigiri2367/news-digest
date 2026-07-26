@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-27",
+    "dateLabel": "2026年7月27日(月)",
+    "generatedAt": "2026-07-26T21:58:07.632Z",
+    "overview": "{独逸|ドイツ}のベルリンで{同性愛|どうせいあい}者向けパレードを狙った襲撃事件が発生し容疑者が射殺された一方、米イラン間の緊張は一時的な小康状態が続いています。欧州の大規模{山火事|やまかじ}や中国半導体企業の上場、AI投資への懸念など、世界各地で構造的な変化が同時進行しています。",
+    "deepdive": {
+      "title": "ベルリン{同性愛|どうせいあい}者パレード襲撃、容疑者射殺で幕引きも{独逸|ドイツ}社会に{波紋|はもん}",
+      "body": "7月26日、{独逸|ドイツ}の首都ベルリンで開催されていたLGBTQ+の祭典「クリストファー・ストリート・デー（CSD）」の会場付近で、男が車を群衆に突入させた後、ナイフを振り回す襲撃事件が発生しました。1人が死亡し、16人以上が負傷する惨事となりました。\n容疑者はレバノン系{独逸|ドイツ}国籍の21歳男性アブドゥル・バロート容疑者とみられ、当局は「イスラム過激派によるテロ」と断定しました。事件後、容疑者は約24時間にわたる大規模な{捜索|そうさく}の末、ベルリン西部シュパンダウ地区の{菜園|さいえん}で警察に発見され、ナイフを持って警官に突進したため射殺されました。\nこの事件が重要なのは、近年欧米各国で相次ぐ「車両を凶器とするテロ」の最新例であり、かつLGBTQ+コミュニティという特定の社会集団を標的にした点です。{独逸|ドイツ}のメルツ首相は事件を「{凶悪|きょうあく}」と{非難|ひなん}し、移民・治安政策を巡る国内世論に一段と火をつける可能性があります。{独逸|ドイツ}では近年、移民系住民による犯罪が極右政党の躍進を後押ししており、今回の事件も同様の政治的{磁力|じりょく}を持ちかねません。\n今後は、容疑者の背景や過激化の経緯、事前の当局把握の有無が焦点となります。また、LGBTQ+コミュニティの安全確保や、他の欧州都市での警備強化にも波及するとみられ、{独逸|ドイツ}国内の移民政策論争が再燃する可能性が高いです。",
+      "category": "世界",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "ベルリンの{同性愛|どうせいあい}者パレード襲撃、容疑者を警察が射殺",
+        "summary": "ベルリンのLGBTQ+パレード付近で車が群衆に突入し1人が死亡、16人以上が負傷しました。容疑者アブドゥル・バロート（21）は約24時間の{逃走|とうそう}の末、警察に射殺されました。",
+        "take": "💭 車両テロという手法の再来であり、{独逸|ドイツ}国内の移民・治安政策論争に一段と火がつく可能性が高い。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "米国、イラン攻撃を2日連続で一時停止",
+        "summary": "米軍高官がトランプ氏に爆撃継続の限界を{進言|しんげん}し、弾薬{備蓄|びちく}への懸念も背景に攻撃が一時停止されました。並行して外交による事態収拾の努力が続いています。",
+        "take": "💭 軍事的手詰まり感が外交の窓を開いた形だが、オマーン仲介が失敗すれば戦火拡大は避けられない。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ウクライナがカスピ海のイラン船を攻撃、中東紛争が拡大の様相",
+        "summary": "ウクライナによるイラン船{舶|はく}への攻撃と、サウジアラビアによるフーシ派攻撃が重なり、中東紛争が地理的に拡大しています。イランはウクライナの攻撃を「敵対的で犯罪的」と{非難|ひなん}しました。",
+        "take": "💭 ウクライナ戦争と中東紛争が{交錯|こうさく}し始めており、当事国が増えるほど収拾は困難になる。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/26/ukraine-strikes-iranian-vessels-tehran-accuses-kyiv-of-hostile-act.html"
+      },
+      {
+        "rank": 4,
+        "title_ja": "イスラエル政府、ガザ国際安定化部隊を承認",
+        "summary": "イスラエル政府はガザに「友好国」で構成される国際安定化部隊（ISF）の展開を承認しました。イスラエル軍の管理外地域で活動する見通しです。",
+        "take": "💭 戦後統治の第一歩だが、部隊の指揮権や武装権限を巡り関係国間の{軋轢|あつれき}が早くも予想される。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "中国半導体CXMT、上海市場に上場へ",
+        "summary": "中国の半導体大手CXMTが7月27日に上海市場へ上場し、初日に時価総額でトップに浮上する可能性があります。米中技術覇権競争の中での大型上場です。",
+        "take": "💭 中国が半導体自給を{加速|かそく}させる象徴的{事象|じしょう}であり、米国の対中規制の実効性が問われる局面。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DcENTYmw0SF8yVF9PclB2TjFqSUVGVGxpSkUtc0NWX1Fobl8wNE5nTFVNVUZVMFE4TXRPWXRsWk55SFB4NkM5SjBPa0JfQWROOUxGMFA3WFFEN2gtRGZ0RUdzNkk5OUN2SFZOMzJFRlE3aXIwZWow?oc=5"
+      },
+      {
+        "rank": 6,
+        "title_ja": "サムスン・SK・エヌビディア、7000億ドル規模の米韓AI連合に参加",
+        "summary": "サムスン電子とSKハイニックス、エヌビディアが参加する米韓AIインフラ構想が発表され、総額7000億ドル規模の投資となる見通しです。",
+        "take": "💭 AI半導体サプライチェーンにおける韓国の存在感がさらに高まり、日本勢の立ち位置が問われる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/samsung-sk-and-nvidia-join-700bn-us-korea-ai-push"
+      },
+      {
+        "rank": 7,
+        "title_ja": "「AIの冬」を懸念する投資家、設備投資への{暗黙|あんもく}の前提が崩壊",
+        "summary": "AI関連の巨額設備投資について、投資家の間で「投資に見合うリターンが出ていない」との懸念が広がり始めています。市場の楽観論に{陰|かげ}りが見え始めました。",
+        "take": "💭 AIバブルへの警戒感が具体化しつつあり、次の決算シーズンで設備投資計画の修正が相次げば株価調整の引き金になり得る。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PYThSSlZoWG5xSTBpUzhkdnhBWFU0SkJmVk5qRWtPdTI0NGhWU2s4ZktjeTliWC1UMlJJWnp1WkNXV19xUWtzR19lOFktdkpaWS0zel9FNy1naWItSTdkSndQdy1nNjhqMExmYjZNZ205SGFLWXBr?oc=5"
+      },
+      {
+        "rank": 8,
+        "title_ja": "OpenAIへの「前例のない」ハッキング、自律型AIエージェントが初の攻撃主体に",
+        "summary": "Hugging FaceのCEOが、OpenAIを標的にした「自律型エージェントによる初のサイバー攻撃」を受け「徹底した透明性」を求めました。AI悪用のリスクが現実化しています。",
+        "take": "💭 AIエージェントが攻撃ツールとして自律的に機能した初の事例であり、サイバー防御側の対応速度が根本的に問われる。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/"
+      },
+      {
+        "rank": 9,
+        "title_ja": "AIがサイバー攻撃を高速化、防御が追いつかない事態に",
+        "summary": "AIを活用したサイバー攻撃の速度が、従来の防御手法では対応しきれないレベルに達しているとの分析が示されています。",
+        "take": "💭 攻撃側のAI活用が防御側を上回るスピードで進化しており、企業のセキュリティ投資戦略の再考が急務。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/spotlight/datawatch/ai-makes-cyberattacks-too-fast-to-fight"
+      },
+      {
+        "rank": 10,
+        "title_ja": "仏西で山火事拡大、ボルドー近郊で数万人避難",
+        "summary": "フランスとスペインで山火事が広がり、両国合わせて33万人以上が避難しました。強風が続き{鎮火|ちんか}の見通しは立っていません。",
+        "take": "💭 気候変動による極端な高温・乾燥がヨーロッパの夏の日常{風景|ふうけい}になりつつあり、観光業や保険業への影響も拡大する。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 11,
+        "title_ja": "インドで学生運動が政権を{揺|ゆ}さぶる、モディ氏の{威信|いしん}に{陰|かげ}り",
+        "summary": "「ゴキブリ・ジャンタ党」と呼ばれる学生主導の抗議運動により教育相が辞任に追い込まれました。モディ首相の12年におよぶ強権的な統治への挑戦とみられています。",
+        "take": "💭 SNS世代の若者が既存メディアを迂回して政権批判を拡散させており、来る州議会選での野党復調の号砲となる可能性がある。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/26/india-cockroach-protest-victory-signals-trouble-ahead-for-narendra-modi"
+      },
+      {
+        "rank": 12,
+        "title_ja": "ブラジル、トランプ政権高官の入国を拒否",
+        "summary": "ブラジルは米国が来る大統領選への{介入|かいにゅう}を図っているとして、米当局者2人へのビザ発給を拒否しました。米ブラジル間の政治的緊張が深まっています。",
+        "take": "💭 中南米諸国が米国の内政干渉に対して{毅然|きぜん}とした姿勢を見せ始めており、地域全体の対米関係に波及しかねない。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/brazil-denies-entry-to-senior-trump-officials-ahead-of-elections/a-78117458?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 13,
+        "title_ja": "中国、ポーランドの大学を輸出規制ブラックリストに追加",
+        "summary": "中国が欧州の安全保障関連機関を対象とした{軍民|ぐんみん}両用輸出規制リストに、ポーランドの大学を防衛関連企業と並べて初めて追加しました。",
+        "take": "💭 学術機関を対象にした前例のない措置で、欧州における対中警戒論をさらに強める{触媒|しょくばい}となりそうだ。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3361899/china-has-put-polish-university-its-european-dual-use-exports-blacklist-why?utm_source=rss_feed"
+      },
+      {
+        "rank": 14,
+        "title_ja": "南シナ海でベトナム{船舶|せんぱく}が沈没、17人不明",
+        "summary": "62人が乗船していたベトナム{籍|せき}の貨物船が南シナ海の{永暑|えいしょ}{礁|しょう}付近で沈没し、17人が行方不明となっています。",
+        "take": "💭 争いのある海域での事故であり、悪天候だけでなく南シナ海の過密な航行状況も背景にある可能性がある。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-17-missing/a-78118211?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 15,
+        "title_ja": "台風{奴|ど}{拉|ら}が中国南部に上陸、34万人以上避難",
+        "summary": "今年最強の台風となった{奴|ど}{拉|ら}が広東省{恵州|けいしゅう}市に上陸し、暴風と豪雨をもたらしました。34万人以上が避難し鉄道や業務が停止しました。",
+        "take": "💭 今年最強クラスの台風が中国経済の中心地・{珠江|しゅこう}デルタを直撃しており、サプライチェーンへの短期的な影響に注視が必要。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/26/asia-pacific/china-typhoon-noul/"
+      },
+      {
+        "rank": 16,
+        "title_ja": "AIで賃金と生産性の{乖離|かいり}がさらに拡大へ",
+        "summary": "AIの普及によりGDPに占める労働分配率が低下し、先進国全体で賃金と生産性の{乖離|かいり}が加速するリスクが指摘されています。",
+        "take": "💭 AIによる生産性向上の果実が労働者に還元されなければ、格差拡大が政治的不安定の火種になりかねない。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/9741206d-b53f-4149-8cab-5203dd4b70fb?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 17,
+        "title_ja": "防衛大手、軍事スタートアップへの投資を{記録|きろく}的規模に拡大",
+        "summary": "ドローンや自律型システムが戦場を一変させる中、伝統的な防衛企業がベンチャーキャピタルのように軍事スタートアップへ出資する動きが加速しています。",
+        "take": "💭 戦争のハイテク化が防衛産業の投資構造そのものを変えており、伝統的な兵器メーカーの競争力維持戦略として注目される。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/fcb2bd34-b13f-4f4f-950d-92367d43d1f3?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 18,
+        "title_ja": "高市首相の支持率、{日経|にっけい}調査で10ポイント急落し58%に",
+        "summary": "{日経|にっけい}の世論調査で高市首相の支持率が10ポイント下落し58%となりました。国会論戦を控え政権運営への影響が注目されます。",
+        "take": "💭 消費税減税など経済政策を巡る国会論戦が本格化する中、支持率の急落は政権の政策遂行力に影を落としかねない。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-approval-rating-sinks-10-points-to-58-in-nikkei-poll"
+      },
+      {
+        "rank": 19,
+        "title_ja": "ベイン、キオクシア株売却で日本記録となる170億ドルを回収",
+        "summary": "米投資会社ベイン・キャピタルがキオクシアホールディングス株の売却により、日本市場で過去最大級となる170億ドルを回収しました。",
+        "take": "💭 半導体メモリ市況の回復を背景にした{大型|おおがた}{利益|りえき}確定であり、他の{未公開株|みこうかいかぶ}投資の出口戦略にも影響を与えそうだ。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/tech/semiconductors/bain-reaps-japan-record-setting-17bn-from-kioxia-stake-sale"
+      },
+      {
+        "rank": 20,
+        "title_ja": "日本の{飛鳥|あすか}・{藤原|ふじわら}遺跡群、ユネスコ世界遺産に登録",
+        "summary": "自然遺産を含め、日本の世界遺産登録件数は27件となりました。{飛鳥|あすか}・{藤原|ふじわら}地域の{古代|こだい}都市遺跡群が新たに登録されました。",
+        "take": "💭 観光振興と地域経済への波及効果が期待される一方、遺跡保護と観光開発の両立が今後の課題となる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/26/japan/asuka-fujiwara-world-heritage/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-26",
     "dateLabel": "2026年7月26日(日)",
     "generatedAt": "2026-07-25T21:54:11.344Z",
