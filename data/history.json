@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-28",
+    "dateLabel": "2026年7月28日(火)",
+    "generatedAt": "2026-07-27T22:05:03.723Z",
+    "overview": "米イラン{停戦|ていせん}を巡る緊迫した外交と、AI・半導体分野での巨額投資が世界市場を動かす一日となった。フランス・スペインの大規模{山火事|やまかび}や韓国前大統領への実刑判決など、各地で重大な動きが相次いだ。",
+    "deepdive": {
+      "title": "米・イラン、攻撃停止で{停戦|ていせん}交渉に望み　原油急落・世界市場に安堵",
+      "body": "アメリカとイランは、数週間にわたる相互攻撃の応酬を経て、攻撃を一時停止し、対話の「余地」を作る動きを見せている。トランプ大統領は「何かが起きる良い{兆|きざ}しがある」と述べ、外交による解決に含みを持たせた一方、イラン側は直接交渉の存在を否定するなど、両者のメッセージには{食|く}い違いも見られる。\n背景には、数週間続いた軍事的{応酬|おうしゅう}がある。アメリカ軍は米軍関係者600人以上の負傷者を出し、イランは{核|かく}関連施設への攻撃を受けたとされる。ホルムズ海峡の封鎖観測も市場を{揺|ゆ}るがしていたが、今回の攻撃停止で原油価格が急落し、Brent原油は2週間の急騰から6%下落した。\n この動きが重要なのは、単なる二国間の問題にとどまらないからだ。ウクライナ・ロシア間の{黒海|こっかい}での攻撃とイラン情勢が直接リンクし始めているとの指摘もあり、複数の地域紛争が連動して「二つの陣営」を形成しつつあるとの分析も出ている。エネルギー価格の安定は日本を含む世界経済にとって死活問題であり、原油急落は当面の物価高圧力を和らげる材料となる。\n 今後の焦点は、停止が本当の{停戦|ていせん}や交渉再開につながるか、それとも一時的な「小休止」に過ぎないかだ。トランプ氏は交渉が失敗すれば「強力な軍事行動に戻る」と警告しており、イラン国内の強硬派体制がどこまで譲歩できるかも不透明だ。カタールやパキスタンの仲介外交の行方、そしてホルムズ海峡の通行再開の有無が、今後数日〜数週間の最重要な観察点となる。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米・イラン、攻撃停止で原油急落　{停戦|ていせん}交渉に期待",
+        "summary": "アメリカとイランが攻撃を一時停止し、交渉の「余地」を作ったとアメリカ側が発表。これを受けて原油価格が急落し、中東情勢の緊張緩和への期待が広がった。",
+        "take": "💭 停止が本物の外交的{糸口|いとぐち}になるか、単なる時間稼ぎかは不透明。原油安は世界経済にとって短期的な追い風となる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "エヌビディア、OpenAIに2500億ドル規模の支援検討",
+        "summary": "エヌビディアがOpenAIのデータセンター整備計画を支援するため、最大2500億ドル規模の資金保証を検討していると報じられた。米国内では新たなデータセンター建設への反発も強まっている。",
+        "take": "💭 AI投資の規模が国家予算並みに膨張しており、エヌビディアの信用リスクそのものがAIバブルの{脆弱|ぜいじゃく}性を象徴し始めている。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "エヌビディア、新興AI企業SSIに50億ドル出資へ",
+        "summary": "エヌビディアがイリヤ・サツケバー氏率いる新興AI企業Safe Superintelligence（SSI）に50億ドルを出資する方向で調整していると関係筋が明らかにした。SSIは最新のVera Rubinチップで計算能力を急拡大する計画。",
+        "take": "💭 OpenAI創業メンバーが立ち上げた「安全性重視」路線のAI企業に巨額マネーが流入する構図は、AI開発競争の新たな軸を示す。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5Q1E2cThtUHdRNEhYSTk2QzZxMnhRR1FLY1IwdWp0UXkxNEVQNHFSRWdvM3dDaDVQUXdSXzRyMFBKd1ppUVVlc0QwY0tRYjJ5WjJOaFdXMk5qRmR6bDRvZU5vbllyMmxiZmtmazlJTWdoSXJEbXhyVw?oc=5"
+      },
+      {
+        "rank": 4,
+        "title_ja": "韓国前大統領・尹氏に有罪判決、選挙中の虚偽発言で",
+        "summary": "ソウル中央地方裁判所は尹前大統領に対し、大統領選中の虚偽発言を巡る選挙法違反で懲役1年6月の判決を下した。既に内乱罪で終身刑に服している尹氏にとって、象徴的な打撃となる。",
+        "take": "💭 韓国政治の混迷が続く中、保守勢力の再編と次期選挙への影響が注目される。日本との外交関係にも一定の波及がありうる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/27/asia-pacific/south-korea-ex-president-guilty-disinformation/"
+      },
+      {
+        "rank": 5,
+        "title_ja": "仏・{西班牙|スペイン}で大規模{山火事|やまかび}、30万人超避難",
+        "summary": "フランス・ボルドー近郊とスペインで大規模な{山火事|やまかび}が発生し、30万人以上が避難した。マクロン大統領は緊急会議を開き、今週の新たな熱波到来前の消火活動を急いでいる。",
+        "take": "💭 気候変動による異常気象がヨーロッパの観光・農業経済に直接打撃を与えており、防災インフラの{脆弱|ぜいじゃく}性が改めて浮き彫りになった。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins"
+      },
+      {
+        "rank": 6,
+        "title_ja": "国連、イスラエルの入植地拡大を「明白な違反」と非難",
+        "summary": "国連のグテーレス事務総長は、イスラエルによる占領地ヨルダン川西岸での入植地拡大を国際法の「明白な違反」と非難した。現地では暴力が{激化|げきか}している。",
+        "take": "💭 国際社会の非難が強まる一方で実効的な制裁が伴わない構図は続いており、中東和平の停滞を象徴している。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "ゼレンスキー氏、英新首相と会談　防空支援を協議",
+        "summary": "ウクライナのゼレンスキー大統領が英国を訪問し、新首相バーナム氏と会談。防空・海上防衛・共同防衛生産が優先課題とされた。",
+        "take": "💭 英国の新政権が対ウクライナ支援姿勢を早期に示すことで、欧州の結束と対ロシア戦略の継続性を{印象|いんしょう}づけている。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/europe/article/3362038/uks-new-pm-burnham-welcomes-zelensky-first-foreign-visitor?utm_source=rss_feed"
+      },
+      {
+        "rank": 8,
+        "title_ja": "中国CXMT、上海上場初日に470%急騰",
+        "summary": "中国の半導体メモリー大手CXMTが上海市場に上場し、初日に株価が470%急騰。時価総額で中国国内首位に躍り出た。",
+        "take": "💭 中国の半導体自給戦略への市場の期待が過熱しており、米中技術競争の新局面を象徴する動きだ。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmRKUDhTUVV4ZXpDNHhma2JsdFhhaWRfcHNULWkzZ1k5TUJHa0ZOSEdubDNuVjdoUmktZGc5MENCbG1CQXlJU2lrTVdpZEJyTk5yUGk1ZmtBWnN5LXZKQ2tsbktXQXBhdGRPZ21IRE5zN3QxdUtZSTlmTllWRW9IQg?oc=5"
+      },
+      {
+        "rank": 9,
+        "title_ja": "インドの若者、モディ政権に勝利　試験不正への抗議運動",
+        "summary": "SNSで拡散した風刺と抗議運動「ゴキブリ運動」が政府を動かし、教育相の辞任に追い込んだ。Z世代主導の抗議がインド政治に変化をもたらした。",
+        "take": "💭 SNS発の若者運動が既存政治を{揺|ゆ}さぶる構図は、他のアジア諸国にも波及しうる potent なモデルケースだ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 10,
+        "title_ja": "ブラジル、対米関税を受け中国との貿易協定加速へ",
+        "summary": "習近平国家主席とルーラ大統領が会談し、中国・メルコスール間の貿易協定交渉加速で合意。トランプ関税を受けた南米の対中接近が鮮明になった。",
+        "take": "💭 米国の関税政策が皮肉にも中国の南米での影響力拡大を後押ししており、通商戦略の見直しを迫られる局面だ。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3362042/brazil-turns-china-trade-deal-after-trumps-tariffs-years-resistance-end?utm_source=rss_feed"
+      },
+      {
+        "rank": 11,
+        "title_ja": "高市首相、生活費高騰への対応で世論の厳しい評価",
+        "summary": "世論調査で71%が政府の物価高対応を「不支持」と回答。食品消費税減税を巡る与野党協議も停滞している。",
+        "take": "💭 経済対策の実効性が乏しいまま支持率が低下すれば、秋の国会運営や解散カードの選択肢にも影響しうる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/27/japan/politics/takaichi-public-confidence/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "日本、永住権基準の厳格化を検討　所得・語学要件など",
+        "summary": "政府は永住許可の指針改定を検討しており、所得・年金納付・語学力・社会統合に関する要件を明確化する方針。移民管理強化の一環。",
+        "take": "💭 労働力不足の解消と移民管理強化という相反する要請の間で、日本の外国人政策は今後さらに難しい{舵|かじ}取りを迫られる。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/27/japan/japan-permanent-residency-rules-reaction/"
+      },
+      {
+        "rank": 13,
+        "title_ja": "ベルリン・プライド襲撃犯、数週間前に釈放されていたと判明",
+        "summary": "ベルリンのプライドパレードで発生した襲撃事件の容疑者が、事件の数週間前に釈放されていたことが判明し、司法・治安当局への批判が強まっている。",
+        "take": "💭 テロ対策と司法制度の連携不足が改めて露呈しており、欧州各国での移民・治安政策強化論に拍車をかけるだろう。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 14,
+        "title_ja": "アップル、エヌビディアを抜き時価総額世界一に",
+        "summary": "アップルが取引終了時点でエヌビディアを上回り、世界で最も時価総額の高い企業となった。エヌビディアは2025年6月以来首位を保っていた。",
+        "take": "💭 AI関連株への過熱感がやや後退し、投資家の資金がより安定した実需企業へ回帰し始めた可能性を示唆する。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html"
+      },
+      {
+        "rank": 15,
+        "title_ja": "AI投資急増でビッグテックの信用リスクが上昇",
+        "summary": "巨額のデータセンター投資を賄うための借り入れ急増を受け、投資家がビッグテック企業の信用リスクへの懸念を強めている。",
+        "take": "💭 AIブームを支える資金調達構造そのものが、次の金融リスクの{震源|しんげん}になりかねない点に注意が必要だ。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/ac136522-ecc7-4262-8702-e0d636ea3099?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 16,
+        "title_ja": "グーグルのAI検索、検索の43%で表示　デフォルト化進む",
+        "summary": "グーグルのAI Overviewsが検索結果の43%に表示されるまでになり、AI生成回答が情報収集の主流になりつつあることを示すデータが公表された。",
+        "take": "💭 検索連動広告モデルの土台が揺らぎつつあり、パブリッシャーやSEO業界へのビジネスモデル転換圧力が強まる。",
+        "category": "AI",
+        "source": "TechCrunch AI",
+        "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/"
+      },
+      {
+        "rank": 17,
+        "title_ja": "OpenAIハッキング事件、サイバー防衛への「警鐘」とマイクロソフト幹部",
+        "summary": "マイクロソフトのAI責任者は、OpenAIのハッキング事件を自動化サイバー攻撃時代への「警鐘」と位置づけ、AIによる防御技術開発が不可欠だと強調した。",
+        "take": "💭 AIが攻撃側・防御側双方で使われる「AI対AI」の攻防が本格化しており、企業のセキュリティ投資の優先順位が変わりつつある。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/f7fc5555-7b2a-4134-960e-5de7f15a06e8?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 18,
+        "title_ja": "中国、なぜ最先端AIモデルを無償公開するのか",
+        "summary": "中国のスタートアップMoonshotなどが最先端の大規模言語モデルを無償公開する動きが加速しており、シリコンバレーに警戒感が広がっている。",
+        "take": "💭 オープンモデル戦略は米国の囲い込み型ビジネスモデルへの対抗策であり、AI覇権競争のルールを塗り替えかねない。",
+        "category": "テック",
+        "source": "The Verge",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies"
+      },
+      {
+        "rank": 19,
+        "title_ja": "ウガンダで飢餓死19人、緊急食料支援を開始",
+        "summary": "ウガンダ東部カラモジャ地方での干ばつと不作により少なくとも19人が餓死し、政府は緊急食料配布を開始した。150万人が栄養失調の危機にある。",
+        "take": "💭 気候変動による干ばつが慢性化する地域では、人道支援だけでなく農業インフラへの構造的投資が急務だ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger"
+      },
+      {
+        "rank": 20,
+        "title_ja": "コンゴのエボラ流行、過去2番目の規模に拡大",
+        "summary": "コンゴ民主共和国でのエボラ出血熱の感染確認例が3200人に達し、記録上2番目に大きな流行となる見通し。監視体制強化が感染者数増加の一因ともされる。",
+        "take": "💭 監視能力の向上自体が数字を押し上げている側面もあり、実際の流行規模と対応能力のギャップを冷静に見極める必要がある。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/27/world/science-health/ebola-congo-second-largest-cases/"
+      }
+    ]
+  },
+  {
     "date": "2026-07-27",
     "dateLabel": "2026年7月27日(月)",
     "generatedAt": "2026-07-26T21:58:07.632Z",
