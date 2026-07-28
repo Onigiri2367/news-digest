@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-29",
+    "dateLabel": "2026年7月29日(水)",
+    "generatedAt": "2026-07-28T22:02:47.968Z",
+    "overview": "{熊本|くまもと}地方を{襲|おそ}った{最大|さいだい}震度7の地震が世界的に報じられる中、AI関連株の急落やイラン・イスラエル情勢を巡る首脳外交など、地政学と市場の両面で緊迫した1日となりました。",
+    "deepdive": {
+      "title": "熊本で最大震度7の地震、商業施設が{崩落|ほうらく}し多数が閉じ込め",
+      "body": "{熊本|くまもと}県熊本地方を{震源|しんげん}とするマグニチュード7.1の地震が発生し、宇城市などで日本の震度階級最高の「震度7」を観測しました。震源が浅かったとみられ、揺れは九州全域から広い範囲に及び、津波注意報も発令されました。\n最も深刻な被害が出たのは鹿島町にある商業施設「イオンモール」で、建物の一部が崩落し、多数の買い物客や従業員が閉じ込められる事態となりました。消防や自衛隊による救助活動が続けられていますが、複数の海外メディアは「多数の死亡が懸念される」と report しています。熊本城でも石垣の崩落が28か所で確認され、歴史的建造物への被害も広がっています。\n日本は環太平洋造山帯に位置し、プレート境界が集中する世界有数の地震国です。2016年にも熊本地震で大きな被害が出ており、今回は当時の記憶が生々しい中での再来となりました。高市首相は官邸に対策本部を設置し、被害状況の把握と救助を急ぐよう指示しています。\nこの地震は日本経済にも波及します。JR九州の新幹線を含む鉄道が運転を見合わせ、約4万8000戸が停電するなど、サプライチェーンや観光業への影響が懸念されます。半導体工場が集積する九州地域だけに、世界的なチップ供給網への影響も注視される展開です。\n今後の焦点は、閉じ込められた人々の安否確認と余震への警戒です。気象庁は今後1週間程度、同程度の地震への注意を呼びかけており、老朽化した建物やインフラの{脆弱性|ぜいじゃくせい}が改めて浮き彫りになっています。",
+      "category": "世界",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBETG05S2tuU3hxOGIyeTNoRC1fVWVXQVJLVVJNV3NGRC1raF9EdHNib04tMS1pblJETFdyM0txYzZiSjUySS1XeWU1M1FjUlFTNXh5OXYyeWU1d1Z0OV9HYXRvQWRyUmNVM00tdnN4WFBudGZ4WWc2Qy1kYnk5dw?oc=5"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "熊本で最大震度7の地震、商業施設{崩落|ほうらく}で多数閉じ込め",
+        "summary": "熊本地方でマグニチュード7.1、最大震度7の地震が発生しました。商業施設の一部が崩落し多数が閉じ込められ、火災など被害が広がっています。",
+        "take": "💭 半導体産業が集積する九州で発生した大地震であり、被災者救助と同時に世界のサプライチェーンへの波及にも注意が必要です。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBETG05S2tuU3hxOGIyeTNoRC1fVWVXQVJLVVJNV3NGRC1raF9EdHNib04tMS1pblJETFdyM0txYzZiSjUySS1XeWU1M1FjUlFTNXh5OXYyeWU1d1Z0OV9HYXRvQWRyUmNVM00tdnN4WFBudGZ4WWc2Qy1kYnk5dw?oc=5"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ネタニヤフ首相、トランプ氏と{非公開|ひこうかい}会談を歓迎",
+        "summary": "イランとの開戦後初めてとなるトランプ大統領とネタニヤフ首相の会談が行われました。同日、テヘランでは反政府デモに関与した2人が処刑されています。",
+        "take": "💭 会談前にはトランプ氏がネタニヤフ氏への{苛立|いらだ}ちを見せていたと報じられており、米イスラエル関係の微妙な変化が今後の中東政策を左右しそうです。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ゼレンスキー氏、トランプ氏と会談し防空強化を要請",
+        "summary": "ウクライナのゼレンスキー大統領がトランプ大統領と会談し、自国製兵器生産を含む軍事協力の強化を求めました。ロシアとの長距離攻撃の応酬が激化する中での会談です。",
+        "take": "💭 「良い会談」との評価が出ていますが、実際の追加支援の中身が伴うかが今後の焦点で、和平交渉停滞の中での実質的な前進かは不透明です。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 4,
+        "title_ja": "イランとオマーン、ホルムズ海峡管理案を交換",
+        "summary": "オマーンはマラッカ海峡方式を参考に、ホルムズ海峡を利用する船舶が任意で通行料を支払う案を提示しました。イランとの{緊張|きんちょう}緩和に向けた交渉が続いています。",
+        "take": "💭 世界の原油輸送の要衝である同海峡の安定は日本を含むアジアのエネルギー安全保障に直結し、合意の行方は原油価格にも影響します。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "紅海の石油封鎖でアジアのエネルギー{危機|きき}が深刻化",
+        "summary": "フーシ派によるサウジ石油輸出への{脅威|きょうい}が強まり、ホルムズ海峡の混乱に続きアジア各国が新たなエネルギー危機への対応を迫られています。日本、韓国、フィリピンなどが影響を受けています。",
+        "take": "💭 中東の複数のチョークポイントが同時にリスクにさらされることで、日本のエネルギー調達戦略の多角化の重要性が一段と高まっています。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/28/asia-energy-oil-crisis-red-sea-blockade-houthis"
+      },
+      {
+        "rank": 6,
+        "title_ja": "SKハイニックス急落、時価総額93兆円が消失",
+        "summary": "AIメモリーブームへの慎重論が広がり、SKハイニックス株が急落、時価総額が大幅に減少しました。アジア半導体株全体にも売りが波及しています。",
+        "take": "💭 AI投資への期待が過熱していた反動が一気に出た形で、メモリー市況の実需とのギャップが意識され始めています。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5OOUliRWJ3OTl5QnNTY05vaU53QWlMZ0FoZVhtWVB1V0FQa2YtNjhxdGJCVUo4TmQ0V20xYkJkQ2dtbFNsaDFnVmJkckh6QkJVTjJoM2IyeXFBNkhWZnp6aFVnWjAyUXRzYm5ha1RaZHA3dXkxdG5n?oc=5"
+      },
+      {
+        "rank": 7,
+        "title_ja": "AI関連株の{売却|ばいきゃく}が加速、ナスダック100が調整局面へ",
+        "summary": "半導体株の急落を受け、ナスダック100指数が一時調整局面入りしました。大手テック企業の決算発表を控え、投資家の警戒感が強まっています。",
+        "take": "💭 AI投資の巨額な設備投資が実際の収益にどう結びつくか、今週の決算発表が試金石となりそうです。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 8,
+        "title_ja": "アップル、時価総額5兆ドルを{初|はじめ}て突破",
+        "summary": "アップルの時価総額が初めて5兆ドルを超えました。AIに巨額投資をしていないことが、半導体株の売りが広がる中で逆に評価されています。",
+        "take": "💭 AIブームの熱狂から距離を置く「安全資産」としての評価が、逆説的にアップルの株価を押し上げている構図が興味深い点です。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/024fb6a1-fb39-4b2d-be3e-2393ed62482a?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 9,
+        "title_ja": "アマゾン・メタ・マイクロソフト決算、グーグル後の警戒感の中で発表へ",
+        "summary": "グーグルの決算をきっかけに売りが広がった後、アマゾン・メタ・マイクロソフトが決算発表を控えています。投資家はAI投資の採算性に厳しい目を向けています。",
+        "take": "💭 クラウド事業の成長鈍化とAI投資の膨張が同時に進む中、市場は「投資対効果」の具体的な説明を求め始めています。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/28/hyperscalers-face-higher-capex-scrutiny-after-alphabet-report-panned.html"
+      },
+      {
+        "rank": 10,
+        "title_ja": "エヌビディアCEO、対中チップ輸出を巡り米当局と会談",
+        "summary": "エヌビディアのジェンスン・フアンCEOが米商務長官らと会談しました。輸出規制対象の半導体が中国の先端AIモデル訓練に使われたとの報道を受けたものです。",
+        "take": "💭 対中規制とビジネス機会の{板挟|いたばさ}みという構図が続いており、米政府の対応次第でエヌビディアの中国売上戦略が大きく揺れます。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3362184/nvidia-ceo-jensen-huang-meets-us-officials-scrutiny-grows-over-china-chip-access?utm_source=rss_feed"
+      },
+      {
+        "rank": 11,
+        "title_ja": "中国が国産DUV露光装置の製造開始と報道、ASML株急落",
+        "summary": "中国が国産の露光装置（DUV）の製造を開始したと報じられ、半導体製造装置大手ASMLの株価が急落しました。中国の技術自立の進展を示す動きです。",
+        "take": "💭 最先端のEUV装置には及ばないものの、中国の国産化が進めば長期的に西側装置メーカーの対中依存戦略の見直しを迫ることになります。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeUktMUR5RnVJVEZKVzFoSC13RzB6VTVQNjJjdDQ4WEhVYjJHcjBBT19mRUZyWUpTSFhoMldnRmY2RTI5dXFXNlJ2RVpDYm9mNlVUNFFFSVBNRnAtc3ZGbGU3a0NUUG5LMk5SNFFkTTlaUWRjMlU3N21nREUyNFRzeg?oc=5"
+      },
+      {
+        "rank": 12,
+        "title_ja": "{藤森|ふじもり}ケイコ氏、ペルー大統領に就任",
+        "summary": "ケイコ・フジモリ氏が僅差の決選投票を経てペルー大統領に就任しました。犯罪への厳しい取り締まりを公約に掲げていますが、父親の強権的手法の再来を懸念する声もあります。",
+        "take": "💭 米中の地政学的競争が激しい南米で、資源国ペルーがどちらに軸足を置くかが今後の外交バランスの試金石になります。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss"
+      },
+      {
+        "rank": 13,
+        "title_ja": "自民党、外国{諜報|ちょうほう}・偽情報対策で新法検討",
+        "summary": "自民党の政策部会が、外国からの不正な干渉に対抗する新法や情報収集権限の拡大、独立した対外情報機関の設立を提案しました。",
+        "take": "💭 経済安全保障の強化が世界的潮流となる中、日本も情報機関の制度整備という長年の課題にようやく踏み込もうとしています。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/28/japan/politics/ldp-proposal-intelligence-overhaul/"
+      },
+      {
+        "rank": 14,
+        "title_ja": "日銀、政策会合で利上げの手がかりに注目集まる",
+        "summary": "日銀は今週の会合で金利据え置きが有力視されていますが、市場は次の利上げ時期を探る手がかりに注目しています。6月にはコアCPIが21か月連続で2%超となりました。",
+        "take": "💭 高市首相の支持率低下も金利観測に影を落としており、政治の不安定さが金融政策の正常化ペースを{左右|さゆう}しかねない構図です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/07/28/economy/boj-hints-rate-hike/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "消費減税、高市首相「決断する時は決断する」",
+        "summary": "自民党幹事長が、消費減税について高市首相が「決断する時は決断する」と述べたと明らかにしました。物価高対策を巡る与党内の議論が続いています。",
+        "take": "💭 財源論を{棚上|たなあ}げしたまま減税期待だけが先行すれば、財政規律と政治的求心力の両面でリスクを抱えることになります。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHJLaXQ0a1N2ejVOY09fX3lxd3FqUmF2bE1vUW1wRkgxb1NvVGxEYVUtcW4xa3VuQW1EZmdJRDFoVmtWOWN3SXdQUlVqeXVOR3hZSWU4RUwyQ0E3cDJ2WGpfVFpETXVTc0ROdHVET2xWNWtraWlDdVpjR2lxRXFDVw?oc=5"
+      },
+      {
+        "rank": 16,
+        "title_ja": "スーダン内戦、終結の道筋は見えず",
+        "summary": "スーダン軍がハルツームとエルオベイドを結ぶ主要幹線道路を奪還したと発表しました。しかし内戦全体の終結には依然として道筋が見えていません。",
+        "take": "💭 世界最大級の人道危機とされながら国際社会の関心が薄い紛争であり、他の中東・ウクライナ情勢への注目集中がスーダンの悲劇を長引かせています。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/7/28/what-will-it-take-to-stop-the-conflict-in-sudan?traffic_source=rss"
+      },
+      {
+        "rank": 17,
+        "title_ja": "国連、オンライン詐欺センターでの人身取引が急増と警告",
+        "summary": "国連は東アジアのオンライン詐欺センターで、80か国以上から約30万人が搾取・虐待の被害に遭っていると報告しました。移民当局は人身取引の増加を指摘しています。",
+        "take": "💭 東南アジアを拠点とする詐欺産業は国境を越えた犯罪組織の巨大な収益源となっており、日本人も被害・加害双方で巻き込まれるリスクが高まっています。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ライン川の水位低下、ドイツ経済を停滞させる恐れ",
+        "summary": "ライン川の記録的な低水位により貨物船が積載量を大幅に減らさざるを得ず、輸送コストが上昇しています。エコノミストはドイツの夏季成長が失われる可能性を警告しています。",
+        "take": "💭 気候変動による内陸水運の混乱は、既に低迷するドイツ製造業に追い打ちをかける形で、欧州経済全体の下振れリスクを高めます。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/germany-low-rhine-river-levels-could-push-economy-into-stagnation/a-78148371?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 19,
+        "title_ja": "SHEIN、香港IPO準備の中でFTC調査を{開示|かいじ}",
+        "summary": "SHEINは米連邦取引委員会（FTC）から米国事業について調査を受けていることを開示しました。調査の具体的内容は明らかにされていません。",
+        "take": "💭 香港上場を控えたタイミングでの規制リスクの表面化は、投資家心理と評価額に直接影響しかねない要注意材料です。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html"
+      },
+      {
+        "rank": 20,
+        "title_ja": "ビザ、AIによる業務再編で従業員7%を削減",
+        "summary": "決済大手ビザは効率化の一環として、従業員の約7%にあたる約2600人を削減すると発表しました。AIによる業務再構築が背景にあります。",
+        "take": "💭 金融インフラの中核企業までがAIを理由に人員削減へ踏み切ったことは、他業界への波及を占う象徴的な動きです。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/28/visa-is-cutting-7percent-of-employees-in-efficiency-push-as-ai-reshapes-work.html"
+      }
+    ]
+  },
+  {
     "date": "2026-07-28",
     "dateLabel": "2026年7月28日(火)",
     "generatedAt": "2026-07-27T22:05:03.723Z",
