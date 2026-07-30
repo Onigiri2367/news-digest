@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-07-31",
+    "dateLabel": "2026年7月31日(金)",
+    "generatedAt": "2026-07-30T22:04:53.375Z",
+    "overview": "米国のイラン攻撃再燃と中東情勢の緊迫化、ロシアのポーランド{領空|りょうくう}侵犯疑惑、そして{高市|たかいち}政権の消費税減税方針など、地政学リスクと経済政策が世界市場を大きく揺さぶった一日です。",
+    "deepdive": {
+      "title": "米国がイランへ「重い」空爆、中東紛争が再燃",
+      "body": "米軍によるイラン攻撃再開が報じられました。イラン側が米軍部隊への攻撃を試みたことへの{報復|ほうふく}とされ、いったん{小康|しょうこう}状態にあった米イラン間の軍事的緊張が再びエスカレートしています。米中央軍は数十カ所を標的に約2時間にわたる作戦を実施したとされ、事態は単発的な衝突にとどまらない広がりを見せています。\n背景には、今年に入ってからの米・イラン・イスラエルを巡る一連の軍事的{応酬|おうしゅう}があります。イランは全面戦争を避けつつ、米軍や同盟国に圧力をかけ続ける「限定戦争」戦略を取っているとみられ、これは同時にサウジアラビアやイラクなど周辺国を巻き込むリスクをはらんでいます。実際、サウジは紅海の船舶保護のため有志連合を模索し、エジプトへの無人機攻撃も報じられるなど、紛争の飛び火が現実味を帯びています。\nこの衝突が重要なのは、原油価格や世界のサプライチェーンへの直接的な影響があるためです。すでにトヨタなど自動車メーカーが中東情勢の悪化を理由に販売減少を{公表|こうひょう}しており、原油高・資材高が世界的な物価上昇圧力に直結します。日本を含む資源輸入国にとっては、円安と原油高が同時に進めば家計や企業のコスト負担が一段と重くなる可能性があります。\n今後の焦点は、イランがどこまで「制御された対立」を維持できるか、そして米国内でこれ以上の軍事関与への{世論|せろん}の支持が続くかです。サウジやイラクなど周辺国の出方、原油相場（すでに『高止まり』が警戒されている）の動向、そして米議会での対イラン制裁法案の行方が、今後数週間の重要な注目点となります。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米国、イランへ「重い」空爆を実施　攻撃応酬が再燃",
+        "summary": "米軍部隊への{攻撃|こうげき}未遂を受け、米国がイランに対して大規模な空爆を実施しました。一時的な{小康|しょうこう}状態が崩れ、双方のミサイル攻撃が再開しています。",
+        "take": "💭 中東紛争の再燃は原油価格と世界のサプライチェーンに直結し、日本企業の業績にも既に影を落としている。事態の{沈静化|ちんせいか}か拡大かは今後数週間が正念場。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ポーランドにロシア製とみられるミサイル着弾、NATO緊張",
+        "summary": "ポーランド首相は、同国内で見つかった{直径|ちょっけい}10メートルの{陥没|かんぼつ}穴について、ロシア製ミサイルによる可能性が高いと述べました。ウクライナ国境から約100キロの地点で発生しています。",
+        "take": "💭 NATO加盟国領内への着弾は集団防衛条項の議論に直結しかねない一線。誤爆か意図的かで対応は大きく変わる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ロシアのミサイル攻撃で一家5人死亡、北朝鮮製ミサイル使用か",
+        "summary": "ウクライナの{ゼレンスキー|ぜれんすきー}大統領は、クリビーリフ近郊の村への攻撃で6歳と11歳、17歳を含む一家6人が死亡したと発表しました。北朝鮮製ミサイルが使用された{疑い|うたがい}も報じられています。",
+        "take": "💭 北朝鮮製兵器の実戦投入が事実なら、ロシア・北朝鮮の軍事協力が新段階に入った証拠となり、東アジアの安全保障にも波及しうる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "高市首相、消費減税を正式表明　市場の「誤解」指摘も",
+        "summary": "{高市|たかいち}首相が消費税減税方針を正式に表明しました。関係者からは、この政策を巡る市場の受け止め方に一部誤解があるとの指摘が出ています。",
+        "take": "💭 財源論と市場の信認が焦点。減税規模と国債発行への波及次第で、円相場・長期金利への影響が読みにくくなっている。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uYmtQMnZnY0x6eGhJWmtpRTFUS3FWQU5ycjgyRHdDZ090cmQwV1FVNXBGNlpjX0ZMTHR0VlRRaXlJb2VwdEotaTNYa2VNMk5PdTB6ckFvUzZqVTM0Y0xEc1FjenVPNTlWeXJtczhJUktPTTJqckRLenFkWXJKUQ?oc=5"
+      },
+      {
+        "rank": 5,
+        "title_ja": "FRB、5会合連続で金利据え置き　議長「2%目標堅持」表明",
+        "summary": "FRBは5会合連続で政策金利を据え置きました。3人の{委員|いいん}が利上げを主張する中、議長はインフレ目標2%の堅持を強調しています。",
+        "take": "💭 タカ派委員の増加は今後の据え置き継続に黄色信号。長期金利の急騰と合わせ、議長の発信力そのものが試されている。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHF4Sk1lYXp1blJqbHpqNHVQdC1ENHdfbExCTGZQWlAxclo5SlhLMjZDU3BWcmZCZndIb0dsQVFucnBudF9IZWUxQXlGR0NqNTdqbzhCM3QyT2lGc3d1RDJaVWdOel96TmhhUEtpNkJULThkZmhVNjloTG9VUmFLLQ?oc=5"
+      },
+      {
+        "rank": 6,
+        "title_ja": "UEFA、FIFAの投資家案に反発しW杯ボイコットを表明",
+        "summary": "UEFA加盟55協会が、FIFAが検討する私的投資家へのワールドカップ株式売却案に反対し、実現すれば大会をボイコットすると決議しました。「ワールドカップは売り物ではない」としています。",
+        "take": "💭 200億ドル規模とされる商業スピンオフ計画が座礁すれば、{インファンティーノ|いんふぁんてぃーの}会長の求心力にも大きな打撃となる。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/uefa-votes-to-boycott-world-cup-over-fifa-investor-plan/a-78171084?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 7,
+        "title_ja": "熊本地震、死者34人に　猛暑が救助活動を{阻|はば}む",
+        "summary": "熊本県を襲った地震による死者数が34人に達しました。猛暑と{余震|よしん}が続く中、倒壊した商業施設や工場での{捜索|そうさく}活動が続いています。",
+        "take": "💭 夏季の被災は{脱水|だっすい}症状や避難所の暑熱リスクが平時以上に深刻で、災害医療体制の即応力が問われる局面。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/07/30/japan/earthquake-kumamoto-death-toll/"
+      },
+      {
+        "rank": 8,
+        "title_ja": "セウタへの移民急増、スペインが軍派遣を決定",
+        "summary": "モロッコ国境に接するスペイン領セウタへ数千人規模の移民が流入し、現地当局が国家非常事態の宣言と軍の派遣を要請、政府がこれに応じました。",
+        "take": "💭 イタリアもEUに国境管理強化を求めており、南欧発の移民問題が再びEU内の政治的{亀裂|きれつ}を広げかねない。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/spain-will-send-troops-to-ceuta-to-help-with-border-security/a-78177638?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 9,
+        "title_ja": "ベトナムの10%成長目標、経済の現実に直面",
+        "summary": "ベトナム政府が掲げる10%の経済成長目標が、実際の経済状況との{乖離|かいり}に直面していると報じられました。",
+        "take": "💭 対中サプライチェーン移管の受け皿として期待される一方、インフラや労働力の制約が急成長シナリオの{足枷|あしかせ}になり得る。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/spotlight/policy-asia/vietnam-s-10-growth-drive-runs-into-economic-realities"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米中通商協議、中国が新たな対米規制に「重大な懸念」",
+        "summary": "中国の{何立峰|かりっぽう}副首相と米国のベッセント財務長官らによるビデオ協議で、中国側が米国の新たな経済的規制措置に懸念を表明しました。",
+        "take": "💭 レアアース供給を巡る米国の圧力と中国の反発が並行しており、貿易合意の実務的な着地点は依然見えにくい。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/article/3362440/china-voices-serious-concern-over-new-us-curbs-senior-trade-talks?utm_source=rss_feed"
+      },
+      {
+        "rank": 11,
+        "title_ja": "EU、AI「ギガファクトリー」構想で対米・対中自立目指す",
+        "summary": "EUは官民資金を集めてAI計算基盤を{大規模化|だいきぼか}する計画を発表しました。域内7カ所に新拠点を建設し、非欧州勢への依存脱却を狙います。",
+        "take": "💭 200億ユーロ超の民間投資誘致が本当に集まるかが鍵。米中の計算資源への依存脱却は理念先行になりやすい。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/eu-aims-to-build-ai-gigafactories-of-its-own/a-78179533?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 12,
+        "title_ja": "トランプ政権、留学生の卒業後就労に10万ドルの手数料検討",
+        "summary": "トランプ政権が、外国人留学生が卒業後に米国で働くために10万ドルの手数料を課す案を検討していると報じられました。",
+        "take": "💭 実現すれば米国の高等教育・人材獲得競争力に打撃となり、優秀な留学生が他国へ流出する契機になりかねない。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3362447/trump-weighs-us100000-fee-foreign-students-work-us-after-graduation?utm_source=rss_feed"
+      },
+      {
+        "rank": 13,
+        "title_ja": "メタ株急落、マイクロソフトは急伸　AI投資で明暗",
+        "summary": "メタの株価が8%下落し{連続|れんぞく}安となる一方、マイクロソフトはAzureとCopilotの好調な伸びを受け15%急伸しました。AI投資への評価が企業間で分かれています。",
+        "take": "💭 巨額AI投資が本当に収益化できているかどうかが株価を分ける分水嶺になっており、『AIバブル』論争の実質的な{試金石|しきんせき}。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/30/microsoft-msft-meta-stock-today-earnings.html"
+      },
+      {
+        "rank": 14,
+        "title_ja": "AI投資家アッシェンブレナー氏、損失拡大で株式ポジション清算",
+        "summary": "元OpenAI社員でAI投資ファンドを率いる{レオポルド・アッシェンブレナー|れおぽるど・あっしぇんぶれなー}氏が、急落したAI関連株の損失を受け、シタデルとの取引を経て公開株ポジションを全て解消しました。",
+        "take": "💭 著名な『AI強気派』の敗退は、AIブームの過熱感に対する市場の見方が転換しつつあることを象徴している。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/5fb44089-ecdf-4b48-bc14-1e8b4682b142?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 15,
+        "title_ja": "アマゾン、AIインフラ投資を2200億ドルに増額",
+        "summary": "アマゾンは2026年のAIインフラ投資計画を、4月時点の2000億ドルから2200億ドルへ引き上げました。AWSの売上は前年比37%増と好調です。",
+        "take": "💭 メモリー価格高騰も投資増額の一因とされ、AI計算基盤への設備投資競争が半導体市場全体を押し上げている。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/fddc42a9-4c57-4689-abde-75bbe79622e9?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 16,
+        "title_ja": "中国のオープンウェイトAIモデル、米国の弱点を露呈",
+        "summary": "AIの将来は「最も賢いモデル」ではなく「誰もが使うモデル」を握る者が決めるとの見方があり、現状ではオープンウェイト分野で中国が優位に立っているとの分析が示されました。",
+        "take": "💭 性能競争より普及競争が勝敗を決めるなら、米国企業の閉鎖的な戦略は長期的に不利に働く可能性がある。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/07/30/china-open-source-trump-ai.html"
+      },
+      {
+        "rank": 17,
+        "title_ja": "大規模言語モデルに「根本的な脆弱性」、研究者が指摘",
+        "summary": "国際機械学習会議で発表された論文で、大規模言語モデルの{仕組み|しくみ}そのものに起因する根本的な{欠陥|けっかん}により、完全な安全性確保は不可能だと研究者らが主張しました。",
+        "take": "💭 AIの安全性議論が『運用でカバー』から『構造的に防げない』へ変わるなら、規制のあり方そのものの見直しが迫られる。",
+        "category": "AI",
+        "source": "MIT Tech Review",
+        "link": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+      },
+      {
+        "rank": 18,
+        "title_ja": "サウジアラビア、紅海防衛へ海上同盟を発表　14カ国参加",
+        "summary": "サウジアラビアが、紅海など重要な貿易・エネルギー航路を守るための海上防衛同盟を発表し、14カ国が参加しました。中東情勢の緊迫化を受けた動きです。",
+        "take": "💭 サウジ主導の有志連合は、中東紛争でのサウジの立ち位置を『傍観者』から『関与者』へ変える転換点になり得る。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/30/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways?traffic_source=rss"
+      },
+      {
+        "rank": 19,
+        "title_ja": "コンゴのエボラ流行、死者1500人超　ワクチンなく苦戦",
+        "summary": "コンゴ民主共和国でのエボラ出血熱の流行による死者数が1500人を超えました。原因となる{ブンディブジョ|ぶんでぃぶじょ}株には承認されたワクチンがなく、封じ込めが難航しています。",
+        "take": "💭 ワクチン未整備の株による流行拡大は、グローバルヘルス体制の穴を突く事例として国際社会の対応力が試される。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/7/30/congos-ebola-death-toll-passes-1500-as-it-struggles-to-halt-spread?traffic_source=rss"
+      },
+      {
+        "rank": 20,
+        "title_ja": "欧州で山火事が記録的規模に、火災気象は過去平均の43%超悪化",
+        "summary": "EU全域で今の時期としては観測史上最悪レベルの高温・乾燥・強風が重なり、地中海沿岸各地で山火事の消火活動が続いています。",
+        "take": "💭 気候変動による『火災気象』の慢性化は、観光・農業・保険業にまで及ぶ経済的コストとして今後さらに顕在化するだろう。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data"
+      }
+    ]
+  },
+  {
     "date": "2026-07-30",
     "dateLabel": "2026年7月30日(木)",
     "generatedAt": "2026-07-29T21:59:23.969Z",
