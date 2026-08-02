@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-08-03",
+    "dateLabel": "2026年8月3日(月)",
+    "generatedAt": "2026-08-02T21:54:14.072Z",
+    "overview": "{中東|なかとう}情勢が急展開する中、トランプ大統領がイラン攻撃を見送ると表明し核合意への期待が高まる一方、スペインのセウタ移民危機やギリシャの山火事、モスクワ爆発など世界各地で緊張が続いています。",
+    "deepdive": {
+      "title": "トランプ大統領、イラン攻撃を{見送|みおく}り　核合意「急速に」実現へ",
+      "body": "トランプ米大統領は、イランへの軍事攻撃計画を取りやめると発表しました。理由として、イランや周辺の中東諸国から攻撃を控えるよう要請があり、核開発問題をめぐる合意の「{枠組|わくぐ}み」がすでに固まったためだと説明しています。\nこの背景には、米国とイランの緊張が近年高まり続けてきた経緯があります。イランの核開発疑惑を巡り、米国とイスラエルは軍事的圧力を強めてきました。また、ホルムズ海峡という原油輸送の{要衝|ようしょう}を巡る対立も深刻化しており、イランはオマーンを仲介役とした交渉を進め、海峡の全面開放について「最終段階」にあると発表しています。\nこの動きが重要なのは、中東での軍事衝突が回避されれば、世界的な原油価格の急騰リスクが遠のき、国際物流や経済全体への打撃を防げる可能性があるからです。一方で、イラン国営メディアはトランプ氏の「イランが攻撃見送りを要請した」という主張を否定しており、両者の説明には{齟齬|そご}が見られます。事実関係が不透明なまま「合意間近」との期待だけが先行している状況です。\n今後は、イランとオマーンの交渉が実際にどこまで具体化するか、そして米国・イスラエルが本当に軍事行動を{自制|じせい}し続けるかが焦点となります。専門家の間では、力による威圧だけでは真の関係改善は望めないとの指摘もあり、合意内容の実効性、検証の枠組み、そしてイラン国内の政治的思惑を注視する必要があります。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "トランプ氏、イラン攻撃を{見送|みおく}りと表明　迅速な合意条件に",
+        "summary": "トランプ米大統領は、イランや中東諸国からの要請を理由に、計画していたイラン攻撃を中止すると発表しました。核開発問題を巡る合意の「枠組み」が固まったとしていますが、イラン側は米国の主張を否定しています。",
+        "take": "💭 軍事的圧力と外交合意が同時並行で語られる異例の展開で、実際の合意内容とその検証可能性が今後の焦点になる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "イラン、ホルムズ海峡巡るオマーンとの交渉「最終段階」",
+        "summary": "イランは、原油輸送の要衝ホルムズ海峡の管理を巡るオマーンとの協議が最終段階にあると発表しました。米国とイランの緊張緩和交渉と並行して進められています。",
+        "take": "💭 ホルムズ海峡の安定は世界のエネルギー安全保障に直結するため、合意の実効性が原油市場のボラティリティを大きく左右する。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "ハマスの武装解除合意後もイスラエルがガザ空爆、13人死亡",
+        "summary": "ハマスが武装解除に合意したにもかかわらず、イスラエル軍はガザ地区で軍事作戦を続行し、少なくとも13人が死亡しました。イスラエルは軍事関係者を標的にしたと説明しています。",
+        "take": "💭 停戦や合意の発表と実際の軍事行動の乖離が続いており、和平プロセスの実効性そのものが疑問視される局面にある。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "セウタ移民危機、死者72人に　モロッコからの{越境|えっきょう}急増で",
+        "summary": "スペインの飛び地セウタへ5万人超が越境した混乱で、死者数は72人に達しました。EU域内でも移民政策を巡る批判が高まり、イタリアはスペインとのシェンゲン協定を一時停止しています。",
+        "take": "💭 単発の越境事件を超え、EUの国境管理体制そのものの脆弱性を露呈しており、域内の政治的分断が一段と深まる懸念がある。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/2/migrant-deaths-in-ceuta-rise-to-72-after-border-surge-from-morocco?traffic_source=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "ウクライナ、ロシアの製油所と飛行場を攻撃　モスクワは8人死亡と発表",
+        "summary": "ウクライナはロシア国内の主要製油所や飛行場への攻撃を行ったと発表し、ロシアは黒海の港湾や船舶への攻撃で対抗したとしています。双方の応酬で死傷者が出ています。",
+        "take": "💭 停戦交渉が停滞する中、エネルギーインフラへの相互攻撃が激化しており、冬場に向けたエネルギー供給リスクが再燃しかねない。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 6,
+        "title_ja": "モスクワのレストランで爆弾テロ、3人死亡",
+        "summary": "モスクワ中心部のレストラン付近で女性が持ち込んだとみられる爆発物が爆発し、少なくとも3人が死亡、20人以上が負傷しました。モスクワ市長は「残忍なテロ攻撃」と述べています。",
+        "take": "💭 ロシア国内での治安事件はウクライナ戦争長期化の副作用ともみられ、プーチン政権の国内統治への信頼にも影を落とす。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "パキスタンで反武装勢力デモに自爆攻撃、14人死亡",
+        "summary": "パキスタン北西部の反武装勢力デモで自爆テロが発生し、警察官を含む14人以上が死亡しました。タリバン運動（TTP）による治安悪化が背景にあるとみられます。",
+        "take": "💭 パキスタン国内の治安悪化はアフガニスタン情勢とも連動しており、南アジア全体の安全保障環境に影響を及ぼす可能性がある。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 8,
+        "title_ja": "日米、2011年以来初の{協調|きょうちょう}為替介入を実施",
+        "summary": "日本と米国は円安是正に向け、2011年以来となる協調為替介入を実施しました。片山財務相は3日にその取り組みについて説明する予定です。",
+        "take": "💭 投機筋への強いメッセージとなるが、金利差という根本要因が変わらない限り効果は限定的で、次の介入時期を市場は注視する。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/markets/currencies/japan-us-carried-out-joint-forex-intervention-friday-for-1st-time-since-2011"
+      },
+      {
+        "rank": 9,
+        "title_ja": "{高市|たかいち}首相、支持率低下で政策の優先順位に{苦慮|くりょ}",
+        "summary": "高市首相は睡眠不足の中、支持率低下を受けて政策の柔軟性が問われています。「鉄の女」のイメージと現実の政権運営の間でバランスが課題となっています。",
+        "take": "💭 支持率低下は経済対策の実行力に直結し、為替介入など重要政策の国民への説明責任がこれまで以上に問われる局面だ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1OYUVHN3lRT0JsVEpBQWdicDFVX0lFZVNUTGNuUi1Ec01UQy1OYWJRWWVnUktRYkl2cHFSRzZ3RjNpdGZna3RWSFdjWGFLaGxHMHJ4b0JXbHBRUmkwY2E1dUo5bHE3NWYwQXVHQTBRWlY3RUpkQk5j?oc=5"
+      },
+      {
+        "rank": 10,
+        "title_ja": "アストラゼネカとブリストル・マイヤーズ、4000億ドル規模の統合協議",
+        "summary": "英製薬大手アストラゼネカと米ブリストル・マイヤーズ・スクイブが、統合により世界4位の製薬会社創出を目指す協議を行っていると報じられました。",
+        "take": "💭 実現すれば製薬業界の勢力図を塗り替える巨大再編となり、パイプライン統合による研究開発効率化が焦点になる。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 11,
+        "title_ja": "米国のAI優位、中国に対しほぼ消失との指摘",
+        "summary": "米国のAI分野における対中優位はほとんど失われつつあるとの論説が発表され、国家戦略の転換が必要だと主張しています。",
+        "take": "💭 技術覇権競争の焦点が「モデル性能」から「実装・普及速度」に移りつつあり、規制と投資のバランスが今後の分水嶺となる。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/08/02/ai-model-competition-us-china.html"
+      },
+      {
+        "rank": 12,
+        "title_ja": "AI投資ブームに{歪|ゆが}み　借入コスト上昇とSpaceX株売却が象徴",
+        "summary": "AI関連投資の過熱に対し、借入コストの上昇やSpaceXの株式売却など、資金調達環境の緊張を示す兆候が出始めています。",
+        "take": "💭 AIバブル懸念が単なる杞憂ではなく実際の資金調達データに表れ始めており、投資家は選別的な視点を強めるべき局面だ。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-funding-spree-shows-signs-of-strain-higher-borrowing-costs-spacex-sell-off"
+      },
+      {
+        "rank": 13,
+        "title_ja": "アジアのAIブーム、電力不足という壁に直面",
+        "summary": "アジア各国でAI関連のデータセンター投資が拡大する一方、電力供給の制約がボトルネックとなりつつあります。",
+        "take": "💭 AI競争の勝敗は今後アルゴリズムよりもエネルギーインフラの整備能力で決まる可能性があり、電力政策がAI戦略の一部になる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/opinion/asia-s-ai-boom-runs-into-a-power-wall"
+      },
+      {
+        "rank": 14,
+        "title_ja": "NTT・トヨタ主導、日本企業の設備投資が過去最高に",
+        "summary": "AIや工場投資を背景に、NTTやトヨタなど日本企業の設備投資が今年度過去最高水準に達する見通しです。",
+        "take": "💭 国内企業のAI・自動化投資拡大は生産性向上への期待材料だが、投資効果が賃金や成長率に波及するかが今後の焦点となる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/business-trends/ntt-toyota-lead-record-year-for-japan-capex-with-ai-factory-investments"
+      },
+      {
+        "rank": 15,
+        "title_ja": "中国{甘粛|かんしゅく}省で洪水、多数死亡",
+        "summary": "中国甘粛省で発生した{鉄砲水|てっぽうみず}により多数の死者が出ており、当局は原因調査を開始しました。地滑りの危険も続いています。",
+        "take": "💭 異常気象による自然災害が中国内陸部でも頻発しており、気候変動対応のインフラ投資の遅れが浮き彫りになっている。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 16,
+        "title_ja": "インドネシアでフェリー火災、5人死亡・41人不明",
+        "summary": "インドネシア・マドゥラ島沖でフェリーが炎上し、少なくとも5人が死亡、41人が行方不明となっています。乗客乗員225人は救助されました。",
+        "take": "💭 東南アジアの海上交通における安全基準の甘さが繰り返し露呈しており、規制強化と老朽船対策が急務だ。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 17,
+        "title_ja": "ペルー・ナスカの{地上絵|ちじょうえ}上空で観光機墜落、13人死亡",
+        "summary": "ペルーのナスカの地上絵上空を飛行していた小型観光機が墜落し、外国人観光客を含む13人が死亡しました。",
+        "take": "💭 観光業の人気スポットでの事故は現地の航空安全管理体制への信頼を揺るがし、観光収入への打撃も懸念される。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ギリシャで消防ヘリ2機が空中衝突、山火事拡大の中",
+        "summary": "アテネ近郊で山火事対応中の消防ヘリコプター2機が空中衝突し、乗員2人が死亡しました。ミツォタキス首相は「極めて困難な日々」が続くと警告しています。",
+        "take": "💭 欧州の山火事シーズンが年々深刻化しており、消防リソースの限界が人的損失という形で表面化している。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 19,
+        "title_ja": "日本人の4人に1人、「AIが友人・家族の代わりになりうる」と回答",
+        "summary": "日本国内の世論調査で、回答者の4人に1人がAIが人間関係の代替になり得ると回答しました。生成AI利用者は3割に上る一方、多数派は未利用でした。",
+        "take": "💭 AIとの関係性への心理的受容が進む一方、孤独対策としてのAI依存が新たな社会課題を生む可能性がある。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/08/02/japan/poll-ai-replace-friends-family/"
+      },
+      {
+        "rank": 20,
+        "title_ja": "日本、対インド進出企業へ外交支援を検討",
+        "summary": "日本政府はインドへの企業進出を後押しするため外交的支援を検討しています。インドは4年連続で最も有望な海外市場に選ばれています。",
+        "take": "💭 中国リスク分散の受け皿としてインドの重要性が増しており、政府支援が日本企業の投資判断を後押しする可能性がある。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/08/02/japan-support-firms-entry-india/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-02",
     "dateLabel": "2026年8月2日(日)",
     "generatedAt": "2026-08-01T21:54:11.688Z",
