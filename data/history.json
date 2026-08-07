@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-08-07",
+    "dateLabel": "2026年8月7日(金)",
+    "generatedAt": "2026-08-07T01:01:49.573Z",
+    "overview": "米国の弾薬不足{疑惑|ぎわく}やイラン核交渉、ホルムズ海峡問題が世界の安全保障を揺るがす中、AI業界ではGoogleの{大幅|だいふく}な組織再編とAIによるウイルス設計が話題となった一日。",
+    "deepdive": {
+      "title": "米国、対中{半導体|はんどうたい}材料でポリシリコンに15%関税",
+      "body": "トランプ政権は太陽光パネルや半導体製造に不可欠な原料「ポリシリコン」に15%の関税と価格の下限（プライスフロア）を設定する大統領布告に署名しました。ポリシリコンはシリコンを高純度に精製した材料で、太陽光パネルのセルや半導体チップの基盤となる欠かせない素材です。\n背景には、中国企業がこの分野で世界市場のほぼ独占的な地位を握っている現実があります。過去10年で中国はポリシリコン生産で巨大な設備投資を行い、価格競争力で他国の生産者を淘汰してきました。米国はこれに対抗し、自国および同盟国の生産基盤を守るため、関税と最低価格の両方を組み合わせるという珍しい手法を採用しました。\nこれが重要なのは、単なる貿易摩擦の一幕ではなく、AI・半導体・グリーンエネルギーという21世紀の産業競争の根幹に関わる「材料の主権」を巡る攻防だからです。半導体不足やクリーンエネルギー転換が世界的な経済安全保障の課題となる中、原材料を握る国が交渉力を持つ構造が改めて浮き彫りになりました。\n今後は中国が報復関税や輸出規制で対抗するか、あるいは同盟国（日本や欧州）を巻き込んだサプライチェーンの再編が進むかが注目点です。米中間の対立が先端技術のあらゆる層に及んでいることを示す事例であり、日本企業にとっても部材調達や価格動向への影響が及ぶ可能性があります。",
+      "category": "世界",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米国、対中{半導体|はんどうたい}材料ポリシリコンに15%関税",
+        "summary": "トランプ政権は太陽光パネルや半導体に使われるポリシリコンに15%の関税と価格下限を設定した。中国がこの分野で市場を独占していることへの対抗策とされる。",
+        "take": "💭 材料の主権争いは半導体戦争の新局面。日本や同盟国のサプライチェーン戦略にも波及しそうだ。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 2,
+        "title_ja": "ホルムズ海峡、米・イラン・オマーンで暫定合意近づく",
+        "summary": "トランプ大統領は戦争が「これ以上長く続かない」と述べ、米・イラン・オマーンがホルムズ海峡再開に向けた暫定合意に近づいていると明らかにした。イラン側は米・イスラエル船舶の通航制限を求めている。",
+        "take": "💭 世界の原油輸送の要衝を巡る駆け引きは、合意内容次第でエネルギー市場に即座に影響する。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "トランプ氏、米国の弾薬{不足|ふそく}を否定し情報{漏洩|ろうえい}者を追及",
+        "summary": "トランプ大統領は米国の兵器不足を否定し、機密情報を漏らした「{漏洩|ろうえい}者」を捜索していると述べた。公開情報からは、製造が困難な一部兵器の在庫が減っている可能性が指摘されている。",
+        "take": "💭 ウクライナ・イスラエル・台湾有事を同時に見据える米国の抑止力への疑念は、同盟国の安心供与にも影を落とす。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 4,
+        "title_ja": "DOGEの1100億ドル{節約|せつやく}報告、一部に誤りや根拠不足",
+        "summary": "米政府監査院（GAO）は、イーロン・マスク氏が主導した政府効率化組織DOGEが主張していた1100億ドルの財政節約について、算出根拠が誤っているか不十分な部分があると指摘した。当初目標の2兆ドルには遠く及ばないとされる。",
+        "take": "💭 派手な数字が独立機関の検証で崩れる典型例。政治的パフォーマンスと実際の統治能力の差が露呈した。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 5,
+        "title_ja": "Google、AI主導権をブリン氏に集約しDeepMind{体制|たいせい}転換",
+        "summary": "Googleは共同創業者セルゲイ・ブリン氏にAI戦略の主導権を戻し、DeepMindのデミス・ハサビス氏は一線を退く形になった。競争激化の中でAI製品化を急ぐ経営判断とみられる。",
+        "take": "💭 基礎研究重視のDeepMind文化から製品スピード重視への転換は、OpenAIとの競争激化を象徴する。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 6,
+        "title_ja": "Meta、子ども安全問題で560億円規模の罰金命令",
+        "summary": "ニューメキシコ州の裁判所は、InstagramやFacebookを運営するMetaに対し、子どもへの害に関する史上最大規模となる5億6700万ドルの支払いを命じた。",
+        "take": "💭 SNS企業への規制圧力は米国内で今後さらに強まる兆し。プラットフォームの設計責任論が世界にも波及しうる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "AIが新規ウイルスを設計、16種の合成に成功",
+        "summary": "科学者らはAIが遺伝子コードを設計した新しいウイルスを16種類作成することに成功した。バイオセキュリティ上の懸念と応用可能性の両面が注目されている。",
+        "take": "💭 生命科学とAIの融合は治療応用の可能性を開く一方、悪用リスクへの国際的な管理体制の議論が急務だ。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 8,
+        "title_ja": "Anthropic、自社ハードウェア開発でNvidia依存脱却へ",
+        "summary": "AnthropicはClaudeを支えるための独自ハードウェア開発に着手すると発表した。OpenAIとともに、計算資源の拡大とNvidia依存の低減を競う動きが加速している。",
+        "take": "💭 AI企業がチップ設計にまで乗り出すのは、計算資源が競争優位の核心である証拠。半導体業界の勢力図も変わりうる。",
+        "category": "テック",
+        "source": "Ars Technica",
+        "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
+      },
+      {
+        "rank": 9,
+        "title_ja": "米国、円買い介入で欧州中央銀行に事前連絡なし",
+        "summary": "米国が円を支えるためユーロを売却した歴史的介入について、欧州中央銀行のラガルド総裁と米財務長官ベセント氏は事後にしか連絡を取っていなかったことが判明した。",
+        "take": "💭 主要国間の通貨政策連携の乱れは、今後の為替市場の不確実性を高める要因になりかねない。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/d9922d0b-51a0-48be-811b-42e08f90985a?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 10,
+        "title_ja": "中国、対米ハイテク規制に広範な対抗措置",
+        "summary": "中国は米国の一連の技術規制に対抗し、昨年10月の貿易{休戦|きゅうせん}以来最大規模の対抗措置を打ち出した。習近平氏の訪米を控えたタイミングでの動きとなる。",
+        "take": "💭 貿易休戦の裏で技術覇権争いは止まっていない。習氏訪米前の駆け引きとして市場は神経質に反応するだろう。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html"
+      },
+      {
+        "rank": 11,
+        "title_ja": "UAE系ファンド、日本のAIデータセンターに6300億円規模投資検討",
+        "summary": "アブダビの政府系ファンド、ムバダラ投資は、日本国内で最大級となるAIデータセンターの建設を含む63億ドル規模の投資を検討していることが分かった。",
+        "take": "💭 中東マネーが日本のAI基盤投資に流入する構図は、地政学的リスク分散と日本の電力・用地インフラ需要の両方を映す。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/08/06/uae-fund-data-center/"
+      },
+      {
+        "rank": 12,
+        "title_ja": "日本、中国を「最大の戦略的挑戦」と防衛白書で明記",
+        "summary": "日本政府は閣議決定した防衛白書で、中国の軍事的行動の拡大を日本の安全保障上の最大の課題と位置づけた。同盟国との協力強化を訴えている。",
+        "take": "💭 対中認識の明文化は、日本の防衛予算増額や同盟強化の方向性をさらに固める動きにつながる。",
+        "category": "アジア",
+        "source": "The Hindu",
+        "link": "https://www.thehindu.com/news/international/china-japan-tensions-escalate-after-tokyo-labels-beijing-as-its-greatest-strategic-challenge/article71315074.ece"
+      },
+      {
+        "rank": 13,
+        "title_ja": "米国、5か国の{領事館|りょうじかん}閉鎖へ 中国の外交空白突く懸念",
+        "summary": "米国務省はカナダ・グレナダ・日本・インドネシア・カメルーンなど5か国の領事館・公館閉鎖を議会に通知した。中国がその外交的空白を埋める可能性が指摘されている。",
+        "take": "💭 予算削減の名目での外交拠点縮小は、地域における米国の影響力低下と中国の存在感拡大を招く恐れがある。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures"
+      },
+      {
+        "rank": 14,
+        "title_ja": "北朝鮮、広島原爆の日にミサイル発射",
+        "summary": "北朝鮮は広島への原爆投下記念日翌日にミサイルを発射し、日本の排他的経済水域外に着弾した。日本の防衛力強化への対抗として「追加の軍事的選択肢」を表明していた。",
+        "take": "💭 記念日を意図的に狙った挑発とみられ、日本の防衛政策と北朝鮮の瀬戸際戦略の緊張が今後も続く可能性が高い。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/08/06/asia-pacific/north-korea-projectile/"
+      },
+      {
+        "rank": 15,
+        "title_ja": "ドイツ・ライプツィヒ空港で爆発物ドローン発見、ウクライナ機の近くに",
+        "summary": "ドイツで、弾薬を積んだウクライナの輸送機付近で爆発物を搭載したドローンが発見された。ドイツ当局は外国政府の関与を含め、対テロ捜査を開始した。",
+        "take": "💭 欧州へのハイブリッド攻撃が疑われる事案で、ロシアの{影|かげ}に対する欧州の警戒が一段と強まりそうだ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/06/leipzig-drone-bomb-found-near-ukrainian-plane-carrying-ammunition"
+      },
+      {
+        "rank": 16,
+        "title_ja": "コンゴでエボラ流行、「前例のない速さ」で拡大",
+        "summary": "WHO事務局長は、コンゴ民主共和国でのエボラ出血熱の流行が「前例のない速さ」で拡大していると警告した。すでに1751人が死亡している。",
+        "take": "💭 変異の可能性も指摘される中、国際的な資金・ワクチン支援の遅れが被害拡大を招くリスクがある。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/newsfeed/2026/8/6/08-06-sv-ebola-update-funding-drc?traffic_source=rss"
+      },
+      {
+        "rank": 17,
+        "title_ja": "ナイジェリア、300人超の人質を一日で救出",
+        "summary": "ナイジェリア治安部隊は、カイニジ湖国立公園の森林地帯に拘束されていた人質300人以上を救出した。同国史上最大規模の一日での救出作戦とされる。",
+        "take": "💭 サヘル地域全体で武装集団による誘拐が続く中、治安部隊の作戦成功は数字以上に治安回復への象徴的な意味を持つ。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants"
+      },
+      {
+        "rank": 18,
+        "title_ja": "スペイン・セウタ、移民危機で数千人が滞在続く",
+        "summary": "スペイン領セウタの市長は、モロッコから国境を越えた移民7万8000人のうち数千人が依然市内に残っており、危機で100人が死亡したと明らかにした。",
+        "take": "💭 欧州とアフリカの境界に位置する飛び地の危機は、EUの移民政策とモロッコとの外交関係の脆さを露呈させた。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 19,
+        "title_ja": "高市氏の{減税|げんぜい}案、対米財政政策で{齟齬|そご}露呈",
+        "summary": "高市氏が示す税制改革案が、米国が求める財政規律路線との間で{齟齬|そご}を生んでいると指摘されている。日米間の経済協調に新たな火種となる可能性がある。",
+        "take": "💭 内需重視の減税路線と対米通商圧力の板挟みは、今後の日本の財政・外交運営の試金石になる。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/politics/takaichi-s-tax-cut-plan-exposes-fault-line-with-us-over-fiscal-policy"
+      },
+      {
+        "rank": 20,
+        "title_ja": "AI「Claude」、87年来の数学的{難問|なんもん}に反例発見",
+        "summary": "Anthropicの研究者はAIモデルを用い、87年間未解決だった「ヤコビアン予想」の3次元における反例を発見したと報告した。数学の未解決問題にAIが貢献した稀有な事例とされる。",
+        "take": "💭 AIが基礎科学の発見に直接寄与した好例だが、証明の検証や再現性の確認には人間の専門家の目が今後も欠かせない。",
+        "category": "科学",
+        "source": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260804034634.htm"
+      }
+    ]
+  },
+  {
     "date": "2026-08-06",
     "dateLabel": "2026年8月6日(木)",
     "generatedAt": "2026-08-05T22:11:43.534Z",
@@ -5637,194 +5832,6 @@
         "category": "経済",
         "source": "CNBC",
         "link": "https://www.cnbc.com/2026/07/09/ukraine-drone-strikes-russia-nato.html"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-08",
-    "dateLabel": "2026年7月8日(水)",
-    "generatedAt": "2026-07-07T22:10:48.008Z",
-    "overview": "米国がホルムズ海峡でのタンカー攻撃を受けてイランへの追加空爆を実施し、原油供給とNATO首脳会議での米欧亀裂が同時進行で世界を揺るがしている。市場ではAI相場の持続性への疑念から半導体株が急落し、政治面ではルペン氏の大統領選出馬表明やファラージ氏辞任など欧州極右の動きも目立つ。",
-    "stories": [
-      {
-        "rank": 1,
-        "title_ja": "米、ホルムズ海峡タンカー攻撃を受けイランへ追加空爆",
-        "summary": "米中央軍はホルムズ海峡での商船攻撃を受け、イランに「重い代償」を課すための空爆を実施したと発表した。米財務省はイラン産原油の販売許可も撤回し、緊張はさらに高まっている。",
-        "take": "💭 対イラン緊張の再燃は原油供給と海上輸送の両面でリスクを増幅させ、周辺国（サウジ・カタール）を巻き込む地域紛争化の可能性が高い。日本を含むアジアのエネルギー安全保障にも直結する展開だ。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 2,
-        "title_ja": "ホルムズ海峡でタンカー3隻攻撃、カタール・サウジがイラン非難",
-        "summary": "ホルムズ海峡付近でカタール・サウジ関連の商船を含む3隻のタンカーが攻撃を受けた。両国はイランを非難し、地域の緊張が一気に高まっている。",
-        "take": "💭 湾岸産油国自身が被害を訴えたことは、イランの計算が地域内の支持すら失いかねない誤算であることを示唆する。エネルギー価格への波及は避けられない。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wY2ZfYUpCUGdlcG5aZ3lmUi14Tm9XMW85TThzZ3hkQmNVcThncHZ0YXNsOG9UT29DLXJyaXB1SUFJWFE5aV9PeUtvd1lYbWdKbDBFRXhYUW81UVE3NzRPZlptSVE2bU1VTWxEY1NJbEt1VjNXYkViVzdB?oc=5"
-      },
-      {
-        "rank": 3,
-        "title_ja": "NATO首脳会議、トランプ氏の発言が影を落とす",
-        "summary": "欧州再軍備が課題となるNATO首脳会議で、トランプ大統領の刺激的な発言が「結束」の演出に水を差した。同氏はグリーンランド獲得や欧州駐留米軍撤退の可能性にも言及した。",
-        "take": "💭 米国の安全保障コミットメントの不確実性が制度化しつつあり、欧州は「米国抜きの防衛」を本気で検討し始めている。これは戦後秩序の構造変化の始まりかもしれない。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 4,
-        "title_ja": "トランプ氏、グリーンランド買収要求を再燃・欧州駐留米軍撤退を示唆",
-        "summary": "トランプ大統領はNATO首脳会議出席にあたり、グリーンランドの米国編入を改めて主張し、NATOのイラン紛争への非協力を批判、欧州駐留米軍の全面撤退も辞さない姿勢を示した。",
-        "take": "💭 同盟の相互性を公然と疑問視する発言は、欧州各国に自主防衛への投資加速を促す一方、ロシア・中国に対米同盟の脆弱性という誤ったシグナルを送りかねない。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato"
-      },
-      {
-        "rank": 5,
-        "title_ja": "米国抜きで欧州はどう戦うか",
-        "summary": "NATO首脳会議を機に、欧州は米国の支援なしでどう自国防衛を行うかを真剣に検討し始めている。防衛産業の再編や独自の核抑止力の議論も浮上している。",
-        "take": "💭 欧州の「戦略的自律」は理念から実務段階に移行しつつあるが、財政制約と産業基盤の分散という現実的な壁は厚い。日本にとっても同盟依存リスクの教訓となる。",
-        "category": "経済",
-        "source": "Financial Times",
-        "link": "https://www.ft.com/content/ffd323d9-8a8c-4b67-ae0d-208c8f994ece"
-      },
-      {
-        "rank": 6,
-        "title_ja": "米国株反落、AI相場の持続性に疑念で半導体株売り",
-        "summary": "米国株式市場は反落し、半導体株を中心に売りが広がった。AI関連銘柄への過熱感と持続性への懐疑が投資家心理を冷やしている。",
-        "take": "💭 AIバブル論はここ数カ月くすぶっていたが、地政学リスクの高まりが利益確定売りの引き金となった格好。次はクレジット市場でのAI関連債務のリスク評価が焦点になる。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPV1ZWV1dTQklSLVEzazVqVlU2QU94WlJIVVBkVWxRZzBiQkh0cGh4MUZCUUdpTmpDWGFWU09HQkw4MlVOUFZuRXF4NnJJVVdHUHlUcEl6N0lvVV9WbnR1VFE5U3VzTjc1UG94MUVLMm9DSWgyd1JXLXZqNEhGT2VLRQ?oc=5"
-      },
-      {
-        "rank": 7,
-        "title_ja": "韓国株急落、AI警戒で半導体株売り　KOSPI一時8%安で売買停止",
-        "summary": "サムスン電子が最高益を発表したにもかかわらず、AI相場への警戒感からKOSPIは一時8%急落し、取引が一時停止された。",
-        "take": "💭 好決算が売りの材料になるのは典型的な「材料出尽くし」現象。AI関連株のバリュエーション調整が本格化すれば、日本の半導体関連株にも連鎖するリスクが大きい。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CVTYyZ2VHNUJGSld3RlEyaC1laDNaYUxLZUxaM3g2cDdTRFpnS21IOG5YMEtkNENVdUJDS1BKVm9kVDJ0aGFZcWsxTEU4NzNqcXZrdDFhVDNWN1BESlRDcUNyLU8teF9jdG5nUHAzMTNCbVVldlN3?oc=5"
-      },
-      {
-        "rank": 8,
-        "title_ja": "AI相場は株式市場を席巻、次は債券市場か",
-        "summary": "AIブームによる巨額投資が株式市場を主導してきたが、次はAI関連の信用リスクが債券市場で問われる局面に入るとの分析。データセンター建設などの負債膨張が焦点。",
-        "take": "💭 株式で織り込まれた期待が債券のクレジットスプレッドにどう反映されるかは、AI投資の「持続可能な規模」を測る次の試金石になる。",
-        "category": "経済",
-        "source": "The Economist",
-        "link": "https://www.economist.com/finance-and-economics/2026/07/07/ai-has-taken-over-the-stock-market-the-bond-market-is-next"
-      },
-      {
-        "rank": 9,
-        "title_ja": "中国発のオープンモデルがシリコンバレーを揺るがす",
-        "summary": "中国発のオープンソースAIモデルが米AI業界にとって最大級の脅威になりつつあるとの分析。性能面での急速なキャッチアップが米国の優位性を脅かしている。",
-        "take": "💭 コスト効率の高い中国製オープンモデルの台頭は、米大手のクローズドモデル戦略の収益性を直撃しかねない。地政学的な技術覇権競争としての側面も強まる。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/commentary/2026/07/07/world/china-shock-shakes-silicon-valley/"
-      },
-      {
-        "rank": 10,
-        "title_ja": "DeepSeek、輸出規制受け自社製チップ開発へ",
-        "summary": "米国の輸出規制に直面する中国のDeepSeekは、NvidiaやHuaweiへの依存低減を目指し、自社製半導体の開発計画を進めている。",
-        "take": "💭 AIモデル開発企業が半導体設計にまで踏み込むのは、米中デカップリングが「モデル」から「ハードウェア」全体に及んでいることの表れだ。",
-        "category": "テック",
-        "source": "Ars Technica",
-        "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/"
-      },
-      {
-        "rank": 11,
-        "title_ja": "中国の潜水艦発射弾道ミサイル実験、核戦力拡大の一環",
-        "summary": "中国が原子力潜水艦から太平洋深部へ弾道ミサイルを発射する実験を実施。米国や日本を含む地域国家への戦略的シグナルとみられている。",
-        "take": "💭 この実験は中国の核三本柱（トライアド）強化を象徴し、日本の防衛政策・核抑止議論に直接影響する。オーストラリアなど周辺国の反発も強まっている。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/military/article/3359762/what-does-chinas-submarine-missile-test-mean-its-nuclear-triad-expansion?utm_source=rss_feed"
-      },
-      {
-        "rank": 12,
-        "title_ja": "尖閣諸島領海から中国海警船が退去、日本漁船も退去",
-        "summary": "中国当局が尖閣諸島領海から漁船退去を発表し、海上保安庁も中国海警船の退去を確認したと発表した。日中間の緊張緩和の兆候とも読める。",
-        "take": "💭 双方が同時に「退去」を発表する形は、偶発的衝突回避のための暗黙の了解が働いた可能性を示す。ただし根本的な領有権対立は変わらず、再燃リスクは残る。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV3FwWXNkN3FIVjZyYVBlcmpKcFQ0MENwdE1UUHI1SEhmYTJrdXVTYmlPSGVTY1NpeXUycGdZTUs0eUhXeUpvU0c2OFBRcnlTSzR1UkIwYmw1djFwOER6NU1sUERGbVViVW1HcTl2azVXaHdqVzhlMHlDS0FUVXNzQg?oc=5"
-      },
-      {
-        "rank": 13,
-        "title_ja": "ルペン氏、有罪判決を上訴しつつ大統領選出馬表明",
-        "summary": "フランス極右・国民連合のルペン党首は控訴審で有罪が維持され電子タグ着用を命じられたが、2027年大統領選への出馬を表明し、最高裁への上訴も行う方針を示した。",
-        "take": "💭 「司法迫害の犠牲者」という物語戦略は支持基盤の結束には効くが、無党派層の取り込みには逆効果になりうる。フランス政治の分極化がさらに進む。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 14,
-        "title_ja": "英ファラージ氏、下院議員辞職し再選挙へ",
-        "summary": "英改革党党首ナイジェル・ファラージ氏は未申告の資金提供疑惑を受け、下院議員を辞職し、名誉回復のため再選挙に臨むと表明した。",
-        "take": "💭 疑惑への対応を「再選挙で信任を得る」形にすり替える手法は支持層固めには有効だが、英政界での説明責任を巡る議論を再燃させるだろう。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/uk-nigel-farage-resigns-as-mp-to-run-again-in-by-election/a-77865626?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 15,
-        "title_ja": "ロシアに「爆発的な」銀行危機リスク、欧州情報機関が警告",
-        "summary": "欧州の国家情報機関がロシアの銀行セクターに「爆発的な」危機リスクがあると警告した。長期戦争と制裁の累積効果が金融システムを圧迫している可能性がある。",
-        "take": "💭 ロシア経済の表向きの「戦時耐性」の裏で金融システムの脆弱性が蓄積している兆候であり、実現すればウクライナ戦争の継続能力にも影響しうる。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRHRhNHdNU29Rckt2eXdfd0g2OFZoamlaOU5QS0Y4MzNycDJJWVhia2dsS3REeTJEa3BjSTZRX2pBY2hWZHlSR01Uam5xdEhOZncySXlqdzYwWmNWa2M2UjVXOHN4SjFCUkRXeFdiUWZRQkM4YkhJeXhDYjRnak1NUQ?oc=5"
-      },
-      {
-        "rank": 16,
-        "title_ja": "アマゾン、AIインフラ投資へ250億ドル超の社債発行",
-        "summary": "アマゾンはAIインフラ投資資金を調達するため、250億ドル以上の社債発行を計画している。大手テック企業のAI投資拡大が資本市場を通じて加速している。",
-        "take": "💭 巨大テック企業が自己資金だけでなく負債でAI投資を賄い始めたことは、投資規模の限界と市場のAI持続性への信認の両方を試す局面に入ったことを意味する。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HWmtNRWR4aWMtYjcybTB6Q0kwbFdoTWxCSFkwQzJUUmY0MTRNUFAtOFJ4S1RYXzJxcFZvbTJWZlJHdFhGRzU0c1BycUlRUDAzUFRYMVdXREhaQVU5YXoxc3BXdlRJNGRQdDZzSWlPM3ZJMjNlYW9R?oc=5"
-      },
-      {
-        "rank": 17,
-        "title_ja": "半導体株急落もNvidiaは反発に賭ける投資家",
-        "summary": "半導体株が全般に5%下落する中、トレーダーはNvidia株の反発に賭けている。AI関連セクターへの評価が分裂している状況が浮き彫りになった。",
-        "take": "💭 セクター全体の売りとNvidia個別への強気が併存するのは、投資家がAI覇権の「勝者総取り」構造をなお信じている証left。ただしこの選別が続くかは不透明。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/07/as-chip-sector-takes-it-on-the-chin-traders-bet-on-a-big-nvidia-rally-.html"
-      },
-      {
-        "rank": 18,
-        "title_ja": "高市首相、法案巡り与党内の板挟みで国会が延長の恐れ",
-        "summary": "高市早苗首相は日本維新の会との約束と、参議院での法案通過の現実との間で板挟みとなり、係争中の法案が国会を延長会期に追い込む可能性が出ている。",
-        "take": "💭 少数与党下での連立運営の難しさが露呈しており、政策実現力と政権の安定性の両立が今後の焦点になる。エネルギー・安保法制の停滞は対外交渉力にも影響しかねない。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/07/japan/politics/two-bills-ldp-jip/"
-      },
-      {
-        "rank": 19,
-        "title_ja": "日本政府、AI利用の法制度見直しへ協議会を発足",
-        "summary": "日本政府はAI活用に関する法的枠組みの抜本的見直しを目指し、新たな協議会を立ち上げる。人口減少に対応するための「AIトランスフォーメーション」を推進する狙い。",
-        "take": "💭 労働力不足という構造課題をAIで補う発想は理にかなうが、規制整備が実際の産業転換のスピードに追いつけるかが鍵となる。EUのAI法との整合性も今後の論点だ。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/07/japan/ai-new-council/"
-      },
-      {
-        "rank": 20,
-        "title_ja": "最先端半導体は日本を再興できるか、北海道の一社に懸かる未来",
-        "summary": "北海道に高度技術拠点を築く構想は、政府が支援する単一企業の成否にかかっている。日本の半導体産業復権の試金石となる案件だ。",
-        "take": "💭 国家戦略の成否を一社に集中させる構造はハイリスク・ハイリターンであり、供給網の多様化という世界的トレンドとは逆行するリスクもはらむ。",
-        "category": "経済",
-        "source": "The Economist",
-        "link": "https://www.economist.com/asia/2026/07/07/can-cutting-edge-semiconductors-supercharge-japan"
       }
     ]
   }
