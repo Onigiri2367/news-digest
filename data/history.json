@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-08-15",
+    "dateLabel": "2026年8月15日(土)",
+    "generatedAt": "2026-08-14T21:23:20.227Z",
+    "overview": "千葉の記録的な大雨や{露}{ロシア}の{千島|クリル}列島訪問による日露緊張、米国のイラン経済制裁強化など、自然災害と地政学リスクが同時進行した1日となった。経済面ではOpenAIの急成長とAI投資の過熱リスクが焦点になっている。",
+    "deepdive": {
+      "title": "{千島|クリル}列島への{露|ロシア}大統領訪問、日露関係が急速に悪化",
+      "body": "{露|ロシア}のプーチン大統領が、日本が{北方領土|ほっぽうりょうど}として返還を求めている{千島|クリル}列島南部を初めて訪問した。日本の高市首相はこれを「絶対に受け入れられない」と強く非難し、外交ルートを通じて抗議した。\nこの島々は第二次世界大戦末期に旧ソ連が占領して以来、日本とロシアの間で帰属をめぐる争いが続いてきた。今回の訪問は、ウクライナ侵攻をめぐる{西側|にしがわ}の制裁下にあるロシアが、日本を含む{対露|たいろ}制裁国への圧力を強める狙いがあるとみられる。専門家は、中国とロシアが連携し東京への{牽制|けんせい}を強めている可能性を指摘している。\nこの一件が重要なのは、単なる領土問題を超えて、東アジアの安全保障構造そのものに影響するためだ。日本は近年、防衛費増額や日米同盟強化を進めてきたが、ロシアが極東でも存在感を誇示することで、中国・北朝鮮・ロシアという三正面の脅威認識が一段と強まる。またエネルギー安全保障の観点でも、ロシア極東の資源開発をめぐる日本企業の立場が一段と難しくなる。\n今後の焦点は、日本政府がどこまで実効的な対抗措置を取れるかである。経済制裁の余地は既にウクライナ侵攻後の対応でほぼ使い切っており、外交的抗議以上の手段は限られる。北方領土交渉自体が事実上凍結される中、日本外交は米国・G7との連携をさらに強めつつ、中長期的な対露戦略の再構築を迫られることになりそうだ。",
+      "category": "経済",
+      "source": "CNBC",
+      "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "プーチン氏の{千島|クリル}列島訪問に高市首相「{絶対|ぜったい}に受け入れられない」",
+        "summary": "{露|ロシア}のプーチン大統領が日本の求める{北方領土|ほっぽうりょうど}を含む{千島|クリル}列島を初訪問し、日本政府が強く抗議した。専門家は中露が連携して日本に圧力をかける狙いがあると分析している。",
+        "take": "💭 領土問題は事実上凍結してきたが、中露の連携強化という新しい構図の中で再燃するリスクが高まっている。日本は対抗手段が限られる中、外交的孤立を避ける知恵が問われる。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/08/14/putin-kuril-islands-japan.html"
+      },
+      {
+        "rank": 2,
+        "title_ja": "千葉で「かつてない」大雨、8人死亡・40万人に避難指示",
+        "summary": "千葉県を中心とした記録的豪雨で8人が死亡し、成田空港では約7000人が足止めされた。40万人に避難指示が出され、土砂災害や停電も相次いだ。",
+        "take": "💭 気候変動による豪雨の激甚化が、首都圏のインフラ・空港機能にまで直撃する時代に入ったことを示す事例。今後の都市防災投資の優先度を再考させる。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather"
+      },
+      {
+        "rank": 3,
+        "title_ja": "米、イランを「経済的に孤立させる」前例ない制裁を発表へ",
+        "summary": "ベッセント米財務長官は、イランに対して過去に例のない経済的措置を近く発表すると表明した。米国はイランとの軍事的緊張が続く中、経済圧力を強める方針だ。",
+        "take": "💭 軍事的な決着がつかない中での経済制裁強化は、原油市場や中東の同盟国関係にも波及しうる。市場は「制裁の実効性」と「原油価格への影響」を注視すべきだ。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lR0Z5dHRkVnlzZjNHOTJhWFZ0ZXRQaW9vY1dFanp0VXRadjFEbl9VUWJhYkJRZUoyXzF5RWhrOXUta1BMVlpVbGtFSWVfU09paEo4UjZmNmo3ektsUlVqeG1QbU45TmVsdzVzYkk5UE5tc0Q4SklR?oc=5"
+      },
+      {
+        "rank": 4,
+        "title_ja": "OpenAI、年間売上高400億ドル超の見通し－IPOに追い風",
+        "summary": "OpenAIの年間売上高が400億ドルを上回る見通しとなり、将来のIPOに向けた期待が高まっている。一方で経営幹部の相次ぐ離脱が懸念材料となっている。",
+        "take": "💭 売上高の急成長は本物だが、幹部流出は組織の内部統制やガバナンスの脆弱さを示すシグナルでもある。IPO前の「勝者の宿題」が透けて見える。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zMDJFUHJJZjJLRV9nZ2phVTdHOVVXMFBNQl9kQ05WeXowM0I3S3dFWUI3Qmtpb0ZnVjJfdjFobldzdHhMcDI4X3dEYVktRFlLRUhCdkI0ZmpNUlZHaG5XUDBhTV96ZVFnOVRYYkdSbkpxMV9xWFU4?oc=5"
+      },
+      {
+        "rank": 5,
+        "title_ja": "OpenAIとAnthropic、中国AI勢の追い上げで価格競争へ",
+        "summary": "OpenAIとAnthropicが、中国AI企業の台頭を受けて低価格モデルを相次いで投入している。両社の1兆ドル規模の事業計画に新たな課題が突きつけられている。",
+        "take": "💭 米国AI大手の「性能で勝つ」戦略から「価格でも競う」戦略への転換は、業界の収益構造そのものを揺るがしかねない重大な変化だ。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/32a70a3c-7d28-40b4-808e-36edb58c7d01?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 6,
+        "title_ja": "AI熱狂で中国テック株、米国勢の数倍のバリュエーションに",
+        "summary": "中国政府の支援を背景に、AI関連銘柄が集まる中国のSTAR50指数は今年29%上昇し、米国同業他社を上回る評価倍率がついている。",
+        "take": "💭 国家主導の資金支援がバリュエーションを押し上げている構図は、ファンダメンタルズとの乖離リスクを内包する。過熱の反動には要警戒。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/094f578b-517a-4d05-a9f1-1cc1f2e56c44?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 7,
+        "title_ja": "米中間選挙で共和党勝利ならAIは「バブル的上昇」－BofA予測",
+        "summary": "バンク・オブ・アメリカは、米中間選挙で共和党が勝利した場合、株式市場は上昇が加速し、AI関連株は「バブル的な上昇」を見せる可能性があると分析した。",
+        "take": "💭 政治要因が金融市場のAIバブルを増幅させるという指摘は、投資家に「政治リスク＝市場リスク」という視点を強く意識させる。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50UnFfZmt1ektYWG5BZ3FBM200aklCUlpFVXozSjhsU21KaVZzazkySVh0SkktR1Roem4tR2FMZjZWeEdUOTNKeUVRTnBJZkg5a25vOFRnVEdhT0ZMWU0yRVl0c0Fma3JhVElGc0xBcTMtUHhsYTR3?oc=5"
+      },
+      {
+        "rank": 8,
+        "title_ja": "AIインフラ投資、レバレッジ増大で追跡困難に",
+        "summary": "AIデータセンターなどのインフラ投資は、社債やリース、プライベートクレジットを通じた資金調達が急増しており、レバレッジの実態把握が困難になりつつある。",
+        "take": "💭 表面上の投資ブームの裏で、金融システム全体のリスクが不透明化している。次の金融ショックの震源地になりかねない構造だ。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html"
+      },
+      {
+        "rank": 9,
+        "title_ja": "米小売売上高、7月は1年超ぶりの大幅減",
+        "summary": "米国の7月の小売売上高は1年以上ぶりの大幅な減少となり、自動車販売やネット通販の低迷が目立った。消費の減速懸念が強まっている。",
+        "take": "💭 関税や物価高が家計に重くのしかかり始めた兆候。利下げ観測と景気減速懸念がせめぎ合う局面に入った。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pbG1uMmllUG0zTDlKSURzZFpoV1VkcHJzcC02SjZjUHJfVWE4bWEwU3NxRFlxMEdBR1pLNy1TbjZoOVlSdVJRd0UyZ2tqMGdqN3Z5RWxlQmxmV0ZZSk5feFBtenR0akhfSFlTZC1JY2twNGtzM2RN?oc=5"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米国民、トランプ政権の経済運営に不満強める",
+        "summary": "イラン紛争の激化に伴う生活費上昇を背景に、米国の消費者信頼感と小売売上高が悪化し、トランプ政権の経済運営への不満が高まっている。",
+        "take": "💭 地政学リスクが直接家計を圧迫する構図は、中間選挙前の政権にとって最大級の逆風になり得る。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 11,
+        "title_ja": "米、「数十カ国が中国の対米関税逃れを支援」と報告",
+        "summary": "米政府の新報告書は、中国が関税の低い第三国を経由して製品を米国に輸出し、トランプ関税を回避していると指摘した。",
+        "take": "💭 関税の抜け道が制度化している実態は、米国の対中通商戦略の実効性そのものに疑問を投げかける。今後の追加規制の口実にもなりうる。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 12,
+        "title_ja": "NATO機、ラトビア上空でドローンを撃墜",
+        "summary": "NATO軍機が、ラトビア領空に侵入した国籍不明のドローンを撃墜した。出所は不明だが、NATO東方国境での越境事案として懸念が強まっている。",
+        "take": "💭 バルト諸国での越境事案が繰り返される中、NATOの「対応の閾値」がどこにあるのか試されている段階に入っている。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 13,
+        "title_ja": "{クリミア}のセバストポリでロシア軍将校が爆死、暗殺容疑者拘束",
+        "summary": "ロシアが占領する{クリミア}半島のセバストポリで、ロシア軍将校が爆発により死亡し、当局は暗殺の容疑者を拘束したと発表した。",
+        "take": "💭 占領地域内での標的殺害が続くことは、ウクライナの非対称戦略が長期化する戦争の中で有効な圧力手段になっていることを示す。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb2UtY1YtYl9sR3c2dmNrU1llamZvM2JiQWV2STV4ZDNVTVdySGtQdTFXVlItMW5LTi1pNmcwR0RmNGlpenY2TnJYdURnRDZPNzhDdlk3S1ZFN0xLX1hIQmVuWTI5dDdGVlRNVXR4VjBMbERYU05aNVc4SlpZWmtMNw?oc=5"
+      },
+      {
+        "rank": 14,
+        "title_ja": "イスラエル政府、ヨルダン川西岸の入植者暴力から目を{背|そむ}けられず",
+        "summary": "人権団体は、ヨルダン川西岸での入植者と国家主導の暴力が、パレスチナ人の追放と土地の併合を狙ったものだと警告している。",
+        "take": "💭 政府と入植者暴力の境界が曖昧化していること自体が、国際社会に「黙認による事実上の併合」という深刻な懸念を突きつけている。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss"
+      },
+      {
+        "rank": 15,
+        "title_ja": "ザンビア大統領選、投票所襲撃で開票が一時中断後に再開",
+        "summary": "ザンビアの選挙管理委員会は、投票用紙の盗難につながった投票所職員への攻撃を受け開票を一時停止したが、その後再開したと発表した。",
+        "take": "💭 アフリカの選挙プロセスにおける暴力の再発は、民主主義の脆弱性と外部勢力による干渉リスクを改めて浮き彫りにする。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 16,
+        "title_ja": "韓国、再び国家主導の産業政策に{賭|か}ける",
+        "summary": "韓国はハイテク分野での競争力強化のため、国家主導の新たな産業政策を推進しているが、過去の工業化期より不確実性が大きいとされる。",
+        "take": "💭 半導体・AIをめぐる米中対立の狭間で、韓国は独自の産業戦略の再構築を迫られている。日本企業にとっても競争環境の変化として注視すべきだ。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/commentary/2026/08/14/world/south-korea-industrial-policy/"
+      },
+      {
+        "rank": 17,
+        "title_ja": "日本、中国の圧力下でEV・半導体向けレアアース確保に苦戦",
+        "summary": "日本はEVや半導体製造装置に必要なレアアースの確保に苦戦しており、中国による供給圧力が背景にあるとされる。",
+        "take": "💭 サプライチェーンの脱中国依存は掛け声だけでは進まない。代替調達網の構築が遅れれば、日本の製造業競争力に直接響く。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/materials/japan-struggles-to-secure-rare-earths-for-evs-chip-tools-under-china-pressure"
+      },
+      {
+        "rank": 18,
+        "title_ja": "コンゴでエボラ出血熱、記録的ペースで感染拡大",
+        "summary": "コンゴ民主共和国でエボラウイルスの感染が急速に拡大しており、大都市キンシャサでも深刻な健康危機への懸念が高まっている。",
+        "take": "💭 大都市での感染拡大は封じ込めの難易度を一気に引き上げる。国際的な医療支援体制の即応力が試される局面だ。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 19,
+        "title_ja": "コロンビア地震、死者273人に　377人なお行方不明",
+        "summary": "コロンビアで発生した地震による死者数は273人に達し、発生から72時間が経過してもなお377人の行方が分かっていない。",
+        "take": "💭 発生から72時間という「生存率が急落する節目」を過ぎており、今後は救助から復旧・支援フェーズへの移行が焦点となる。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRY1UwVWl3V1ZzZW03WGM0bVJoNkdMQTdEVzJDQ0pUT0JnQ21xRDBZNmJaemd1ZkdROFN6V2xkOENfaDVYaFppZFVwbDRxb2diQ0tQbHp0a0lIZGVxdG1Yb2FnWld6aUNhcmRfY3Jfd0tvenNpLXJsRg?oc=5"
+      },
+      {
+        "rank": 20,
+        "title_ja": "海王星の小衛星、古代天体崩壊の残骸か　JWSTが新知見",
+        "summary": "ジェイムズ・ウェッブ宇宙望遠鏡の観測により、海王星の小さな衛星群に水の存在を示す粘土質鉱物が見つかり、古代の天体衝突の残骸である可能性が浮上した。",
+        "take": "💭 太陽系形成史の理解を書き換えうる発見だが、直接の実用応用はなく、あくまで基礎科学としての意義にとどまる点は冷静に見るべきだ。",
+        "category": "科学",
+        "source": "ScienceDaily",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm"
+      }
+    ]
+  },
+  {
     "date": "2026-08-14",
     "dateLabel": "2026年8月14日(金)",
     "generatedAt": "2026-08-13T21:42:56.090Z",
@@ -5651,201 +5846,6 @@
         "category": "世界",
         "source": "Al Jazeera",
         "link": "https://www.aljazeera.com/news/2026/7/16/ebola-spreading-more-quickly-in-drc-while-uganda-is-close-to-being-virus-free?traffic_source=rss"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-16",
-    "dateLabel": "2026年7月16日(木)",
-    "generatedAt": "2026-07-15T21:59:13.028Z",
-    "overview": "米国のイラン攻撃再開と{中東|ちゅうとう}情勢の緊迫化、中国の急減速する経済成長、そしてAI業界の資金調達競争が今日の主要な軸となった。フランスの{尊厳|そんげん}死法可決や{中露|ちゅうろ}に対する米中対立の深まりなど、国際秩序の変化を示す動きも目立つ。",
-    "deepdive": {
-      "title": "米国のイラン再攻撃、出口なき{泥沼|どろぬま}化の懸念",
-      "body": "米国が{中東|ちゅうとう}・ホルムズ海峡周辺でイランへの新たな空爆を実施し、トランプ大統領は「（作戦を）終わらせるかどうかまだ決めていない」としつつ、イランに対し「行儀よくしろ」と{威嚇|いかく}した。攻撃はイラン国内のバンダルアッバスやチャバハール、アフワーズなど複数都市に及び、イラン側は「{存立|そんりつ}をかけた戦争」だとして、既存の停戦・{合意|ごうい}は無効になったと{主張|しゅちょう}している。\nこの{衝突|しょうとつ}は今年に入ってから4か月以上続いており、当初は限定的な{報復|ほうふく}合戦とみられていたが、米国が一時発表したホルムズ海峡の通行料（トール）構想を{撤回|てっかい}するなど迷走も見られ、トランプ政権が明確な出口戦略を持たないまま軍事的圧力を強めている{構図|こうず}が浮かぶ。イラン最高指導部に近いペゼシュキアン大統領は「{領土|りょうど}の一寸たりとも守る」と{徹底|てってい}抗戦の{構え|かまえ}を見せている。\nこの{一件|いっけん}が重要なのは、ホルムズ海峡が世界の原油輸送の約2割を担う{生命線|せいめいせん}だからだ。同海峡が閉鎖・危険化すれば、原油の{備蓄|びちく}という緩衝材はすでに{枯渇|こかつ}しつつあり、価格急騰が世界経済、特に石油輸入国である日本にも{直撃|ちょくげき}する可能性が高い。IMO（国際海事機関）トップも商船に対し同海峡の通航を控えるよう{異例|いれい}の警告を出している。\n今後の焦点は、トランプ政権が発電所など更なる{標的|ひょうてき}への攻撃拡大に踏み切るか、イランが本当に海峡封鎖に踏み切るか、そして米国内で長期化する軍事関与への{世論|よろん}の反発がどこまで強まるかだ。ベトナム戦争の「{泥沼|どろぬま}」になぞらえる論調も出ており、中間選挙を控えるトランプ政権にとって政治的リスクも高まっている。",
-      "category": "世界",
-      "source": "BBC World",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
-    },
-    "stories": [
-      {
-        "rank": 1,
-        "title_ja": "トランプ氏、ホルムズ海峡通行料を撤回　イラン戦争は{泥沼|どろぬま}の様相",
-        "summary": "トランプ大統領は一時打ち出したホルムズ海峡の通行料構想を{撤回|てっかい}した。4か月以上続く対イラン軍事作戦は、明確な終着点が見えないまま迷走している。",
-        "take": "💭 通行料の撤回は弱腰と見るより、経済への副作用（{原油|げんゆ}高・海運混乱）を無視できなくなった証拠。軍事と経済のジレンマが露呈している。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 2,
-        "title_ja": "イラン、「{存立|そんりつ}をかけた戦争」宣言　米国の新たな空爆に反発",
-        "summary": "米国はバンダルアッバスなど複数都市への新たな攻撃を発表し、イランは既存の合意を無効と主張。ペゼシュキアン大統領は領土死守を{誓|ちか}った。",
-        "take": "💭 イラン指導部が「存立の危機」を強調するのは、国内の結束を固める狙いもある。体制崩壊のリスクが高まるほど、逆に強硬姿勢は続きやすい。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss"
-      },
-      {
-        "rank": 3,
-        "title_ja": "世界で中国支持が米国を上回る　Pew調査、{習近平|しゅうきんぺい}氏への信頼も上昇",
-        "summary": "米シンクタンクPewの調査で、世界的に米国よりも中国を好意的に見る回答者が増え、{習近平|しゅうきんぺい}国家主席への信頼度もトランプ氏を上回った。",
-        "take": "💭 米国の一国主義的な外交姿勢が同盟国の信頼を{侵食|しんしょく}している表れ。ソフトパワーの逆転は長期的な地政学バランスに影響する。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 4,
-        "title_ja": "中国経済成長率4.3%に急減速　統計{開始|かいし}以来最低水準に",
-        "summary": "中国の4〜6月期GDP成長率は4.3%と、政府目標の4.5〜5%を下回った。不動産不況や消費の低迷、雇用市場の悪化が重なっている。",
-        "take": "💭 輸出だけが好調でも内需の弱さは隠せない。世界の工場が減速すれば、日本を含むサプライチェーン全体への波及は避けられない。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns"
-      },
-      {
-        "rank": 5,
-        "title_ja": "ゼレンスキー氏、人気の国防相を{更迭|こうてつ}　内閣改造の一環",
-        "summary": "ウクライナのゼレンスキー大統領は、国防省改革で評価の高かった{フェドロフ|ふぇどろふ}国防相を解任した。海外パートナーや市民社会からの慰留にもかかわらず実施された。",
-        "take": "💭 戦時下での主要閣僚交代は同盟国に不安を与えかねない。国内政治の駆け引きが、対露戦争の継続体制にどう影響するか注視が必要。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/15/volodymyr-zelenskyy-dismisses-ukraines-popular-defence-minister"
-      },
-      {
-        "rank": 6,
-        "title_ja": "EU、中国とロシアが「世界秩序の再編」を狙うと{異例|いれい}の非難",
-        "summary": "EUは新たな戦略文書で、中国とロシアが自国の利益に沿って国際秩序を再構築しようとしていると{名指|なざ}しで批判し、「{勢力圏|せいりょくけん}」志向への回帰を懸念した。",
-        "take": "💭 EUがここまで踏み込んだ対中批判をするのは異例。米中対立に加えて欧州も巻き込む形で、世界の分断が制度面でも明文化されつつある。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3360723/eu-accuses-china-seeking-reshape-global-order-stark-new-strategy-paper?utm_source=rss_feed"
-      },
-      {
-        "rank": 7,
-        "title_ja": "アンソロピック、大型IPOに向け投資家との会合を計画",
-        "summary": "AI企業アンソロピックは、10月にも予定される大規模な新規株式公開（IPO）に向け、今後数週間で投資家説明会を実施する。OpenAIに先んじて上場を目指す動き。",
-        "take": "💭 AI企業の上場ラッシュが始まれば、市場のAIバブル懸念と実需の見極めがより一層問われる局面になる。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
-      },
-      {
-        "rank": 8,
-        "title_ja": "ASML、AI半導体需要で26年通期見通しを再び上方修正",
-        "summary": "{蘭|オランダ}半導体製造装置大手ASMLは、AI向け先端半導体の需要拡大を受け、2026年通期の売上高見通しを再び引き上げた。",
-        "take": "💭 AI投資の裾野は半導体製造装置にまで及んでいる。ASMLの上方修正は業界の実需の強さを示す一方、設備投資サイクルの過熱リスクも意識すべき。",
-        "category": "経済",
-        "source": "Bloomberg",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91aFgtM1pXVEotQUxnaU8zdDkzTjFvMFpiZlJRdXh4TzZoVVhHQTllWl93MmFLQWpyMHVqaVdlZE91LTBsWEoyamo0RGpJVmgzNmhwdmVleVY1dndOMU5tN1BmLTNIRGI0UHJIVkw2d1A4NnM5VzNv?oc=5"
-      },
-      {
-        "rank": 9,
-        "title_ja": "スペースX株、IPO価格を初めて下回る　時価総額1兆ドル減",
-        "summary": "スペースXの株価はナスダック100入り後に下落を続け、6月のIPO以来初めて公開価格の135ドルを下回った。マスク氏の資産評価にも影響。",
-        "take": "💭 宇宙・AIの融合企業として期待されたスペースXの調整は、過熱したハイテク株全般への警戒感の表れかもしれない。",
-        "category": "経済",
-        "source": "Financial Times",
-        "link": "https://www.ft.com/content/94959f40-1874-4ece-b629-b18f43aa3ede"
-      },
-      {
-        "rank": 10,
-        "title_ja": "米ニューヨーク州、データセンター建設許可を1年間{凍結|とうけつ}　全米初",
-        "summary": "ニューヨーク州はデータセンターの建設許可手続きを1年間停止すると発表した。全米で初めての措置で、AI需要急増による電力負荷への対応が背景にある。",
-        "take": "💭 AIの裏側にあるエネルギー制約が政治問題化し始めた。電力インフラの限界が今後のAI拡大速度を左右する重要な変数になる。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40dllPcnZnaHpKc2xlLUpibW9DSDFKLUNxYk1zazJLN25Ea1Z1QzkxWXNDQ1VFRWJObFQySndZb3d1eFZ3b3JRcjVyekJuVkhYR0c2aURWdjdhVkstQ3lYOGZyTUdzTnZIY0E5cFlNTUtwNklzUFYzSA?oc=5"
-      },
-      {
-        "rank": 11,
-        "title_ja": "フランス議会、{尊厳|そんげん}死を認める法案を可決",
-        "summary": "フランス下院は末期患者を対象とした{尊厳|そんげん}死を認める法案を291対241で可決した。今後{憲法|けんぽう}院の審査を経て正式に施行される見通し。",
-        "take": "💭 欧州で終末期医療の選択肢が広がる流れが加速。高齢化が進む日本にとっても、いずれ避けて通れない議論となるだろう。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss"
-      },
-      {
-        "rank": 12,
-        "title_ja": "イタリア・メローニ政権、{選挙|せんきょ}制度改革案の採決で{痛手|いたで}",
-        "summary": "メローニ首相率いる政権は、選挙制度改革をめぐる採決で予想外の敗北を{喫|きっ}し、野党から辞任要求が上がっている。来年の総選挙を前に政局が{揺|ゆ}れる。",
-        "take": "💭 右派連立の{結束|けっそく}にひびが入れば、欧州内での対露・対中政策の一貫性にも影響しかねない。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 13,
-        "title_ja": "インドネシアから投資家が{相次|あいつ}ぎ{離脱|りだつ}　新興国{格|かく}下げの{危機|きき}",
-        "summary": "プラボウォ大統領の積極財政策が投資家の不安を招き、東南アジア最大級の経済国インドネシアが新興国としての地位を{失|うしな}いかねない状況にある。",
-        "take": "💭 「8％成長」の公約と財政規律の両立は難しい。新興国市場全体への波及リスクとしても注視すべき動き。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 14,
-        "title_ja": "14か国、南シナ海{声明|せいめい}めぐり「{行|い}き過ぎ」批判も",
-        "summary": "米国や日本、豪州、英国など14か国が南シナ海{仲裁|ちゅうさい}判断10周年にあたり共同声明を発表。一方でSCMPは「拡張的な行き過ぎ」との論評を掲載した。",
-        "take": "💭 対中包囲網の形成が進む一方、その正当性を巡る論争も同時進行。地域の緊張緩和にはむしろ逆効果になるとの見方もある。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/opinion/china-opinion/article/3360419/14-nation-south-china-sea-statement-expansionist-overreach?utm_source=rss_feed"
-      },
-      {
-        "rank": 15,
-        "title_ja": "{習近平|しゅうきんぺい}氏、また{政治局|せいじきょく}トップを更迭　{追放|ついほう}記録を更新",
-        "summary": "{習近平|しゅうきんぺい}国家主席が政治局の{幹部|かんぶ}をまた一人{更迭|こうてつ}し、指導部からの追放数の記録を更新したと報じられた。",
-        "take": "💭 権力集中が進むほど、内部の疑心暗鬼も強まる。経済減速と統治の引き締めが同時進行する中国の内政は要警戒。",
-        "category": "経済",
-        "source": "The Economist",
-        "link": "https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team"
-      },
-      {
-        "rank": 16,
-        "title_ja": "日本の{過労死|かろうし}等の労災補償、過去最多の1310人に",
-        "summary": "2025年度、過労死や労働関連疾患で政府補償を受けた人数が1310人と過去最多を更新し、4年連続の記録更新となった。",
-        "take": "💭 働き方改革の掛け声とは裏腹に、実態の改善は{道半|みちなか}ば。労働市場の構造的な問題として国際的にも注目される。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/15/japan/science-health/japan-karoshi-overwork-record/"
-      },
-      {
-        "rank": 17,
-        "title_ja": "ニチレイへのサイバー攻撃、影響範囲や原因{究明|きゅうめい}が焦点に",
-        "summary": "食品大手ニチレイがサイバー攻撃を受け、業務への影響範囲や攻撃の原因究明が急がれている。",
-        "take": "💭 食品サプライチェーンへの攻撃は物流・供給の混乱に直結しうる。重要インフラ以外の企業も標的になる時代の警鐘。",
-        "category": "日本",
-        "source": "NHK",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PQm03Zk5kTTZsMVpfcFBaaERuczhrcVZEeWdCenhvblFmZDJNWnhJcWVMWW00clZiVk1yRGhCUlVVVEw3Y1ZlWmdwLWMtbzB4eVRUQ2NpUllEeWg4UlRvQ2RKYXo2X05kMFNXY2tR?oc=5"
-      },
-      {
-        "rank": 18,
-        "title_ja": "ドイツ、米国の「選挙介入」計画に警告　助成金スキームを{問題視|もんだいし}",
-        "summary": "ドイツのメルツ首相は、米国務省が発表した欧州向け助成金制度について、自国選挙への介入になりかねないとしてトランプ政権に警告した。",
-        "take": "💭 同盟国間でも「内政干渉」の懸念が表面化。米国の対外的な信頼性がさらに揺らぐ可能性がある。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/us-news/2026/jul/15/germany-warns-against-election-interference-as-us-offers-funding-to-maga-aligned-causes-in-europe"
-      },
-      {
-        "rank": 19,
-        "title_ja": "出版社らがグーグルを提訴　AI学習での著作権侵害を主張",
-        "summary": "アシェットやエルゼビアなどが、グーグルのAIモデル「Gemini」の学習に自社書籍が無断使用されたとして米国で提訴した。",
-        "take": "💭 AI企業と著作権者の対立は今後さらに激化する見通し。学習データの正当性が、AI業界全体の持続可能性を左右する焦点になる。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/economy/2026/7/15/authors-publishers-sue-google-over-alleged-ai-copyright-infringement?traffic_source=rss"
-      },
-      {
-        "rank": 20,
-        "title_ja": "ロシアの攻撃で14人死亡　ウクライナは黒海の油送船20隻を攻撃",
-        "summary": "ロシアによる攻撃でウクライナ各地の民間人14人が死亡した一方、ウクライナは黒海でロシアの油送船を含む20隻の船舶を攻撃したと発表した。",
-        "take": "💭 海上でのエネルギー輸送網への相互攻撃が激化しており、ロシア産原油の輸出網に直接的な打撃を与える新たな戦術段階に入っている。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
       }
     ]
   }
