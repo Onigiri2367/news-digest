@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-08-18",
+    "dateLabel": "2026年8月18日(火)",
+    "generatedAt": "2026-08-17T21:24:19.887Z",
+    "overview": "{中東|ちゅうとう}情勢の緊張が世界経済とAI投資ブームの両輪で続く一日となり、トランプ氏の{強硬|きょうこう}発言と巨大テック企業のインフラ投資競争が同時に世界を{揺|ゆ}るがしています。",
+    "deepdive": {
+      "title": "エヌビディア、OpenAIのデータセンターに10.5兆円{保証|ほしょう}－AIバブル論争が{再燃|さいねん}",
+      "body": "エヌビディアが、OpenAIがオハイオ州で建設中の巨大データセンターに対し、最大1050億ドル（約15兆円）の{金融|きんゆう}保証を提供すると発表しました。このデータセンターはソフトバンク{傘下|さんか}のSBエナジーが開発を{手掛|てが}けており、エヌビディア自身もこのプロジェクトに出資する予定です。\n背景には、AIモデルの学習・{推論|すいろん}に必要な計算資源への需要が{爆発的|ばくはつてき}に増えている現実があります。OpenAIやアンソロピックなどのAI企業は、莫大な収益成長（アンソロピックは年間{換算|かんさん}売上高が650億ドルに到達）を見せる一方、データセンター建設には巨額の先行投資が必要で、従来の{融資|ゆうし}では{賄|まかな}いきれなくなっています。そこでエヌビディアのような{半導体|はんどうたい}企業が、自社チップの{販売|はんばい}先を確保しつつ、金融保証という形でインフラ投資を{下支|したざさ}えする構図が生まれています。\nこれが重要なのは、AI産業の成長が実質的に一握りの巨大企業間の{相互|そうご}出資・{循環|じゅんかん}取引によって{支|ささ}えられている点です。エヌビディアが顧客（OpenAI）の設備投資を保証し、その設備がエヌビディアのチップ需要を生むという構造は、収益の実態以上に評価額が{膨|ふく}らむリスクをはらみます。ノルウェー政府年金基金のトップやECBのエコノミストが相次いでAI株バブルへの警戒感を示しているのも、この{歪|ゆが}んだ資金循環が一因です。\n今後の焦点は、こうした巨額投資が実際のAI需要と{釣|つ}り合うかどうかです。データセンター建設が過剰になれば、電力{逼迫|ひっぱく}や{資源配分|しげんはいぶん}の{歪|ゆが}みが顕在化し、逆に需要が追いつかなければ「AIバブル崩壊」のシナリオが現実味を帯びます。投資家、政策担当者、そして一般市民も、この巨大な資金の流れが持続可能かを注視する必要があります。",
+      "category": "アジア",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "エヌビディア、OpenAIのデータセンターに10.5兆円{保証|ほしょう}",
+        "summary": "エヌビディアがOpenAIのオハイオ州データセンターに最大1050億ドルの金融保証を提供すると発表しました。ソフトバンク系のSB{エナジー|えなじー}が開発を担い、エヌビディアも出資します。",
+        "take": "💭 半導体企業が顧客の設備投資を保証する循環構造は、AI需要の実態以上に評価額を{押|お}し上げるリスクを含み、市場の{歪|ゆが}みとして注視すべきです。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed"
+      },
+      {
+        "rank": 2,
+        "title_ja": "トランプ氏、同盟国オマーンへの{爆撃|ばくげき}を{示唆|しさ}",
+        "summary": "トランプ米大統領は、イランとの{核|かく}合意交渉で仲介役を務めるオマーンが「妨げになれば爆撃する」と発言しました。ホルムズ海峡を巡る60日間の交渉期限が切れたことを受けての発言です。",
+        "take": "💭 同盟国への{威嚇|いかく}発言は中東外交の信頼を{損|そこ}ない、湾岸諸国の対米不信を{増幅|ぞうふく}させる可能性があります。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 3,
+        "title_ja": "トランプ氏、米韓合同軍事{演習|えんしゅう}を{縮小|しゅくしょう}",
+        "summary": "トランプ大統領は北朝鮮の金正恩氏との「良好な関係」を理由に、米韓合同軍事演習の規模縮小を指示しました。米国内では同盟軽視との批判が出ています。",
+        "take": "💭 73年続く同盟の根幹を{揺|ゆ}るがす決定であり、北朝鮮に誤ったシグナルを送りかねず、日本の安全保障環境にも直結する問題です。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un"
+      },
+      {
+        "rank": 4,
+        "title_ja": "中国経済、{減速|げんそく}の{兆候|ちょうこう}が{一段|いちだん}と{鮮明|せんめい}に",
+        "summary": "7月の中国の鉱工業生産と小売売上高が予想を下回り、四半期成長率も過去最低水準に近づいています。北京当局への景気対策圧力が強まっています。",
+        "take": "💭 内需の弱さが構造的である可能性が高く、対症療法的な刺激策では持続的な回復は見込みにくい状況です。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending"
+      },
+      {
+        "rank": 5,
+        "title_ja": "日本のGDP、3{四半期|しはんき}{連続|れんぞく}増も{予想|よそう}下回る",
+        "summary": "日本の実質GDPは3四半期連続でプラス成長となったものの、市場予想を下回りました。内需の弱さが目立ち、日銀の利上げ路線は維持されるとの見方が強まっています。",
+        "take": "💭 内需の弱さは賃上げの実質効果が乏しいことを示し、日銀の利上げペースと家計の実感との{乖離|かいり}が今後の政策論争の焦点になります。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GNlhuZjU1TkpGMzQ3RzhTWElkcHFWNXZHTDBONnNScUM2ZURSa0tYSHB2MV8yLWpPN3czdlhJNzlEaG9sanJSdGhNaC0yYkMtOHVFSUxUSENBNUJxVlE0MnNXXzFzODBlekxSM1AwX2lpZkU?oc=5"
+      },
+      {
+        "rank": 6,
+        "title_ja": "{中東|ちゅうとう}の{勢力図|せいりょくず}、イラン危機で{再編|さいへん}へ",
+        "summary": "イランを巡る一連の対立が、米国もイスラエルも予期しなかった形で中東の同盟関係を再編しつつあると分析されています。サウジ・トルコ・パキスタンの新たな防衛協定もその一例です。",
+        "take": "💭 米国の中東関与が{揺|ゆ}らぐ中、地域大国が独自の安全保障枠組みを構築し始めており、覇権構造の transition{転換|てんかん}点となる可能性があります。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/895ca028-33c7-4295-bf8c-13a3121b80ac?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 7,
+        "title_ja": "コンゴのエボラ{流行|りゅうこう}、{史上|しじょう}最悪に",
+        "summary": "コンゴ民主共和国でのエボラ出血熱の流行により、少なくとも2325人が死亡し、同国史上最悪の流行となりました。国連は30分に1人が死亡していると警告しています。",
+        "take": "💭 感染拡大の速さは医療インフラの脆弱性を{露呈|ろてい}しており、国際的な支援体制の遅れが被害を拡大させている構図です。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history"
+      },
+      {
+        "rank": 8,
+        "title_ja": "ロシア反戦政治家に懲役11年、{弾圧|だんあつ}{強化|きょうか}",
+        "summary": "ロシアの野党ヤブロコ党幹部レフ・シュロスベルグ氏が、ウクライナ戦争批判を理由に懲役11年1カ月の判決を受けました。来月の議会選挙を前にした締め付けとみられています。",
+        "take": "💭 選挙前の露骨な野党弾圧は、プーチン政権の統制強化がむしろ体制の{脆弱|ぜいじゃく}性の裏返しであることを示唆します。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364340/kremlin-critic-jailed-russia-11-years-opposing-war-ukraine?utm_source=rss_feed"
+      },
+      {
+        "rank": 9,
+        "title_ja": "インドネシア地震、{死者|ししゃ}68人に{支援|しえん}{不足|ぶそく}{深刻|しんこく}",
+        "summary": "インドネシア東部で発生した地震により死者数は68人に達し、数千人が避難生活を送っています。独立記念日の祝賀が地震被害の影に隠れる事態となりました。",
+        "take": "💭 島嶼国特有の{救援|きゅうえん}物資輸送の困難さが被害拡大の一因であり、国際支援の到着スピードが今後の生死を左右します。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/crl7686r71yo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 10,
+        "title_ja": "カナダ{首相|しゅしょう}、トランプ{関税|かんぜい}{回避|かいひ}へ{最後|さいご}の{交渉|こうしょう}",
+        "summary": "カナダのカーニー首相が、200億ドル相当の対カナダ関税発動期限を前に、トランプ大統領との電話会談を計画しています。",
+        "take": "💭 米国の同盟国への関税圧力は、北米自由貿易の枠組みそのものへの信頼を{蝕|むしば}んでおり、投資家はサプライチェーン再編リスクを織り込む必要があります。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/e15d3b98-47d0-4a26-9dae-f3147815981e?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 11,
+        "title_ja": "アンソロピック、7月の年間{換算|かんさん}売上高が650億ドルに急増",
+        "summary": "AI企業アンソロピックが投資家に対し、7月時点の年間換算売上高が650億ドルに達したと伝えました。前年比で約7倍の急成長です。",
+        "take": "💭 急成長は企業向けAI需要の実在を示す一方、評価額の妥当性を測る指標としては短期的な急拡大に注意が必要です。",
+        "category": "経済",
+        "source": "CNBC",
+        "link": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html"
+      },
+      {
+        "rank": 12,
+        "title_ja": "ノルウェー{政府|せいふ}{系|けい}{基金|ききん}、AIバブルに{警鐘|けいしょう}",
+        "summary": "ノルウェーの政府系ファンド（世界最大級の政府系投資基金）の責任者が、AI関連株の急騰がバブルであり急落リスクがあると警告しました。",
+        "take": "💭 世界最大の機関投資家からの警告は、AI関連株への資金集中がシステミックリスクになり得ることを示す重要なシグナルです。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 13,
+        "title_ja": "日本企業の{通期|つうき}{利益|りえき}{予想|よそう}、AI{特需|とくじゅ}で14%増",
+        "summary": "日本企業の通期利益予想が前年比14%増と上方修正されました。AI関連需要と半導体好調が主な要因とされています。",
+        "take": "💭 AI関連の設備投資需要が日本企業の業績を{押|お}し上げており、円安と合わせて輸出型企業の追い風が続く可能性があります。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/companies/japan-inc.-raises-full-year-profit-forecast-to-14-jump-on-ai-and-chips"
+      },
+      {
+        "rank": 14,
+        "title_ja": "日本の{生命保険|せいめいほけん}会社、{含|ふく}み{損|そん}が2000億ドル{規模|きぼ}に",
+        "summary": "日本の生命保険会社の債券含み損が、金利上昇を背景に約200億ドル規模に膨らんでいます。日銀の利上げ路線が保険業界の財務に影響を及ぼしています。",
+        "take": "💭 金利上昇は保険会社の運用環境を圧迫し、長期的には保険料や配当政策に波及する可能性があり、家計への影響も無視できません。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/insurance/japan-s-life-insurers-unrealized-bond-losses-near-200bn-as-rates-soar"
+      },
+      {
+        "rank": 15,
+        "title_ja": "プーチン{氏|し}、{北方領土|ほっぽうりょうど}{訪問|ほうもん}で{日本|にほん}を{牽制|けんせい}",
+        "summary": "ロシアのプーチン大統領が係争中の千島列島（北方領土）を訪問し、専門家はウクライナ問題での日本の対露姿勢への「メッセージ」だったと分析しています。",
+        "take": "💭 領土問題を外交カードとして使う姿勢は、日本の対露政策の見直しを迫るとともに、G7内での結束の重要性を再認識させます。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 16,
+        "title_ja": "{高市|たかいち}氏の{終戦|しゅうせん}{行事|ぎょうじ}での{発信|はっしん}に{注目|ちゅうもく}",
+        "summary": "高市氏が靖国神社への遥拝や戦没者追悼の言葉遣いを変えるなど、国内支持層と近隣諸国双方を意識した微妙なシグナルを発したと分析されています。",
+        "take": "💭 歴史認識を巡る発言の一語一句が近隣外交に波及するため、日本の政治指導者の言葉選びは国際関係の温度計として機能しています。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/08/17/japan/politics/takaichi-japanhistory-defense-signals/"
+      },
+      {
+        "rank": 17,
+        "title_ja": "{独|どく}連邦軍、{兵員数|へいいんすう}が13年ぶり高水準に",
+        "summary": "ドイツ連邦軍の兵員数が7月末時点で約18万6700人となり、前年比約3700人増（2%増）と13年ぶりの高水準を記録しました。",
+        "take": "💭 欧州の安全保障環境悪化を受けたドイツの再軍備傾向は、NATO内の防衛負担分担議論にも影響を与える可能性があります。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 18,
+        "title_ja": "{欧州|おうしゅう}{農家|のうか}、{熱波|ねっぱ}{連続|れんぞく}で「{前例|ぜんれい}のない危機」",
+        "summary": "欧州全域を襲う熱波と干ばつにより、野菜・穀物農家が壊滅的な収穫減少への懸念を訴えています。気候変動による農業への打撃が深刻化しています。",
+        "take": "💭 欧州の食料生産基盤の弱体化は世界的な食料価格にも波及しかねず、気候変動対策の遅れが経済安全保障のリスクとして顕在化しています。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves"
+      },
+      {
+        "rank": 19,
+        "title_ja": "ソフトバンクG、{TSMC|ティーエスエムシー}株71.5%を{売却|ばいきゃく}しキャピタル・ワン株{取得|しゅとく}",
+        "summary": "ソフトバンクグループがTSMC株の71.5%を売却し、米金融大手キャピタル・ワンの株式を取得したと報じられました。ポートフォリオの大幅な組み替えです。",
+        "take": "💭 半導体から金融・AIインフラへの資産シフトは、孫氏がAI投資サイクルの次の局面に賭けている表れとみられます。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDZnT0pnNkxCaG13a3Z2VnZJOVdLQkUtREd3dlMzaWhCdEFOMzFBY0JZelk2bjdVT0tpNXdYY0RlZkVya2FGVTFRNk5RR3VSeEI5YkpyRmVxekZxaGxaUnZuallhRXdRUFRnOU55LXNhYzQ3bGdEaU9PSjMyYkJtRg?oc=5"
+      },
+      {
+        "rank": 20,
+        "title_ja": "{楽天|らくてん}と{独|どく}ヘルシング、{防衛|ぼうえい}{用|よう}ドローンを{陸自|りくじ}に{供給|きょうきゅう}へ",
+        "summary": "ドイツの新興防衛企業ヘルシングが楽天グループと連携し、攻撃型ドローンを陸上自衛隊に供給する計画です。9月末まで実地試験が行われます。",
+        "take": "💭 民間IT企業が防衛産業に参入する動きは、日本の防衛調達構造の変化とドローン戦の実戦知見の取り込みを象徴しています。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/business/2026/08/17/companies/rakuten-germany-drones/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-17",
     "dateLabel": "2026年8月17日(月)",
     "generatedAt": "2026-08-16T21:17:44.335Z",
@@ -5651,201 +5846,6 @@
         "category": "アジア",
         "source": "The Hindu",
         "link": "https://www.thehindu.com/news/national/how-will-us-visa-policy-changes-affect-students-media-professionals-and-exchange-visitors-explained/article71238137.ece"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-19",
-    "dateLabel": "2026年7月19日(日)",
-    "generatedAt": "2026-07-18T21:49:08.858Z",
-    "overview": "米国とイランの{軍事|ぐんじ}衝突が全面戦争の瀬戸際まで{激化|げきか}する一方、中国発AIモデルの{台頭|たいとう}が世界の株式市場を揺さぶるなど、地政学とテクノロジーの両面で緊張が高まった一日でした。",
-    "deepdive": {
-      "title": "米国・イラン、全面戦争の{瀬戸際|せとぎわ}へ－{中東|ちゅうとう}情勢が急激に{悪化|あっか}",
-      "body": "米国とイランの軍事衝突が一段と{激化|げきか}し、専門家の間では「全面戦争の{一歩|いっぽ}手前」との見方が広がっています。イランはヨルダンの米軍基地を攻撃し、米兵2人が死亡、1人が行方不明となりました。米側もイランに対して7夜連続で空爆を実施し、ホルムズ海峡周辺での{緊張|きんちょう}が急速に高まっています。\n事の発端は数週間前に成立したはずの停戦・暫定合意でした。しかし米国が合意に反する行動を取ったとしてイランが{反発|はんぱつ}し、合意の履行停止を表明。ここから攻撃の応酬が始まり、クウェートやバーレーンへのイランによる攻撃、サウジアラビアへの数か月ぶりの攻撃など、戦火は{中東|ちゅうとう}地域全体に広がりつつあります。イランの最高指導者{ホメネイ|ホメネイ}師は米国に「忘れられない教訓」を与えると警告し、トランプ大統領の{署名|しょめい}は「無価値」だと{一蹴|いっしゅう}しました。\nこの衝突が重要なのは、単なる二国間の軍事対立にとどまらないからです。ホルムズ海峡は世界の原油輸送の要衝であり、既に原油価格は4月以来の大幅高となっています。エネルギー価格の高騰は日本を含む世界経済に直接影響し、インフレ再燃のリスクを{孕|はら}みます。また米国内では中間選挙を控え、トランプ氏が既に不人気な戦争を再燃させる政治的リスクも指摘されています。\n今後の焦点は、イランが本当にホルムズ海峡の封鎖に踏み切るか、米国が地上兵力の投入に踏み込むかという点です。同盟国や周辺国（イラク、レバノン、パキスタンなど）への波及も既に見られ、原油価格や為替市場、そして日本のエネルギー安全保障にも目が離せない展開が続きそうです。",
-      "category": "アジア",
-      "source": "The Hindu",
-      "link": "https://www.thehindu.com/news/international/us-iran-have-blown-past-red-lines-as-they-lurch-back-toward-all-out-war/article71237644.ece"
-    },
-    "stories": [
-      {
-        "rank": 1,
-        "title_ja": "米・イラン、{全面|ぜんめん}戦争の{瀬戸際|せとぎわ}に－{中東|ちゅうとう}全域で攻撃応酬",
-        "summary": "米国とイランが互いへの攻撃を{激化|げきか}させ、専門家は全面戦争への{移行|いこう}が現実味を帯びていると警告しています。米軍はヨルダンでイランの攻撃により兵士2人が死亡、1人が行方不明となったと発表しました。",
-        "take": "💭 ホルムズ海峡封鎖が現実化すれば原油供給網に{致命|ちめい}的な打撃となり、日本のエネルギー安全保障にも直結する。中間選挙を控えるトランプ政権の政治判断も今後の展開を左右する。",
-        "category": "アジア",
-        "source": "The Hindu",
-        "link": "https://www.thehindu.com/news/international/us-iran-have-blown-past-red-lines-as-they-lurch-back-toward-all-out-war/article71237644.ece"
-      },
-      {
-        "rank": 2,
-        "title_ja": "ホルムズ海峡で機雷によるタンカー爆発、米の攻撃7夜連続",
-        "summary": "イランは、ホルムズ海峡に設置された機雷でタンカーが爆発したと発表しました。米軍は7夜連続でイランへの攻撃を継続し、軍事能力の低下を狙っていると説明しています。",
-        "take": "💭 機雷戦は海峡封鎖への布石とも読める。世界の原油輸送の約2割が通過する要衝だけに、日本の輸入エネルギーコストへの波及は避けられない。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/18/world/iran-tankers-hormuz-mines-us-strikes/"
-      },
-      {
-        "rank": 3,
-        "title_ja": "イスラエル、ガザ・西岸に新規{入植地|にゅうしょくち}計画を発表",
-        "summary": "イスラエルの国防・財務両相が、ガザと西岸に3つの新たな入植地建設計画を発表しました。司令官はガザの65%を実効支配していると述べ、トランプ政権が仲介した停戦合意に違反する内容です。",
-        "take": "💭 停戦の実効性そのものが問われる事態で、米国の仲介外交の信頼性にも影を落とす。国際社会の反発は必至だ。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/18/israel-plan-new-illegal-settlements-gaza-west-bank-occupied-palestine"
-      },
-      {
-        "rank": 4,
-        "title_ja": "ウクライナ国防相の{更迭|こうてつ}、{ゼレンスキー|ゼレンスキー}政権の内部対立を{露呈|ろてい}",
-        "summary": "ゼレンスキー大統領は革新的な手法で評価されていた若手国防相フェドロフ氏を突然解任しました。軍の旧世代勢力が優勢になり、戦況が好転しつつある局面での更迭に懸念の声が上がっています。",
-        "take": "💭 対露戦の最中に指導部の内紛が表面化すれば、西側の支援継続の意欲にも影響しかねない。司令官の交代観測も含め政権基盤の揺らぎに注目したい。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/17/dismissal-ukraine-defence-minister-mykhailo-fedorov-volodomyr-zelenskyy"
-      },
-      {
-        "rank": 5,
-        "title_ja": "ウクライナ、ロシアの物流拠点にドローン攻撃－死者9人",
-        "summary": "ウクライナのドローンがモスクワ近郊やタンボフのWildberries倉庫などを攻撃し、少なくとも9人が死亡、80人以上が負傷しました。ゼレンスキー大統領は制裁対象部品を供給する「主要な物流拠点」だったと説明しています。",
-        "take": "💭 民生インフラを装った軍需サプライチェーンへの攻撃は、戦争の「灰色地帯」を広げる。ロシア国内の反発世論への影響も見逃せない。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 6,
-        "title_ja": "ハンガリー大統領、{罷免|ひめん}に応じ辞任－{オルバン|オルバン}氏の{忠実|ちゅうじつ}な{盟友|めいゆう}",
-        "summary": "オルバン前首相の{忠実|ちゅうじつ}な盟友とされるシュヨク大統領が、議会の罷免決議を受けて辞任に合意しました。土曜夜までに合意するよう求められていました。",
-        "take": "💭 与党内からも見放された形で、EU内での対ハンガリー包囲網の変化を占う試金石になり得る。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 7,
-        "title_ja": "英次期首相{バーナム|バーナム}氏、{スターマー|スターマー}氏のデジタルID計画を撤回へ",
-        "summary": "月曜に就任予定のアンディ・バーナム氏は、不人気だったデジタルID計画を撤回し、生活費対策に資源を振り向ける方針です。「優先順位の刷新」と位置付けています。",
-        "take": "💭 プライバシーと利便性のバランスを巡る政策論争は各国共通の課題。英国の方針転換は日本のマイナンバー政策の議論にも参考になる。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities"
-      },
-      {
-        "rank": 8,
-        "title_ja": "中国AIモデル、{台頭|たいとう}でNvidia等の株が急落",
-        "summary": "中国発の新AIモデルの登場により競争激化への懸念が広がり、Nvidiaをはじめとするハイテク大手株が下落しました。半導体株指数は最高値から20%下落したと報じられています。",
-        "take": "💭 「DeepSeekショック」の再来と言える構図。米国のAI優位という前提そのものが揺らぎ、投資家はハードウェア集中投資の再評価を迫られる。",
-        "category": "アジア",
-        "source": "Nikkei Asia",
-        "link": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears"
-      },
-      {
-        "rank": 9,
-        "title_ja": "アリババ、NvidiaのCUDA{独占|どくせん}に挑戦－ソフトウェア{基盤|きばん}を{オープンソース化|オープンソースか}",
-        "summary": "アリババの半導体設計部門T-Headが独自ソフトウェアスタックのオープンソース化を発表しました。Nvidiaの開発者エコシステム「CUDA」の優位に挑む狙いです。",
-        "take": "💭 ハードだけでなくソフト面でも米中AI覇権争いが本格化。オープンソース戦略は開発者コミュニティの取り込み合戦の号砲となる。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed"
-      },
-      {
-        "rank": 10,
-        "title_ja": "米政権、{最先端|さいせんたん}AIモデルへのアクセスを{統制|とうせい}",
-        "summary": "トランプ政権が最先端AIモデルへのアクセス権限を政府主導で統制する動きを進めていると関係者が明かしました。従来テック大手が握っていた力の所在が変化しつつあります。",
-        "take": "💭 国家安全保障の名の下でAIガバナンスに政府が直接介入する前例となり得る。企業の技術自主権との緊張関係が今後の焦点だ。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/17/white-house-ai-access-anthropic-openai.html"
-      },
-      {
-        "rank": 11,
-        "title_ja": "日銀、成長見通し引き上げも{政策|せいさく}{据え置き|すえおき}へ",
-        "summary": "日銀は最新の経済指標を踏まえ、成長見通しを引き上げつつも金融政策は現状維持とする見通しです。最終判断は会合直前まで持ち越されるとみられています。",
-        "take": "💭 円安と物価高が続く中での据え置きは、追加利上げの機を慎重に見極める姿勢の表れ。市場は次の一手のタイミングを注視している。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/business/2026/07/18/economy/boj-july-meeting-assessment/"
-      },
-      {
-        "rank": 12,
-        "title_ja": "円安響き、日本でiPhone17が10%値上げ",
-        "summary": "アップルは円安を背景に日本国内でのiPhone17の販売価格を引き上げました。256GBモデルの入門機種は14万2800円からとなっています。",
-        "take": "💭 為替が家計に直結する典型例。日銀の金融政策判断がこうした消費財価格にも波及する構図が改めて浮き彫りになった。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/business/2026/07/18/apple-iphone-17-price-hike-yen/"
-      },
-      {
-        "rank": 13,
-        "title_ja": "中国の潜水艦{ミサイル|ミサイル}発射、日本が抑止力強化を検討",
-        "summary": "中国の潜水艦によるミサイル発射を受け、日本政府はより強力な抑止力の構築を検討しています。周辺国の軍事的圧力が増す中での対応です。",
-        "take": "💭 台湾有事シナリオを見据えた防衛力整備の議論が加速する契機となりそうだ。日米同盟の役割分担も再検証されるだろう。",
-        "category": "アジア",
-        "source": "Nikkei Asia",
-        "link": "https://asia.nikkei.com/politics/defense/japan-seeks-stronger-deterrence-after-china-submarine-missile-launch"
-      },
-      {
-        "rank": 14,
-        "title_ja": "データセンター建設に日本の都市部で{反対|はんたい}広がる",
-        "summary": "AIの計算基盤となるデータセンターの急増が世界的に不安を招く中、密集した日本の都市部でも建設反対の動きが拡大しています。",
-        "take": "💭 AIブームの裏で電力・水資源・土地利用という現実的制約が表面化している。日本の脱炭素目標との整合性も問われる局面だ。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/news/2026/07/18/japan/society/japan-data-centers-opposition/"
-      },
-      {
-        "rank": 15,
-        "title_ja": "AI競争のカギは「データ」－中国が国家戦略として{注力|ちゅうりょく}",
-        "summary": "AIの覇権争いはチップやモデルだけでなく「データ」層に移りつつあり、中国政府は中国語データの国家的なエコシステム構築を加速させています。",
-        "take": "💭 学習データの言語的・文化的多様性の確保は、米国中心のAI覇権への対抗軸になり得る。データ主権という新たな争点が生まれつつある。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/politics/article/3361050/why-data-may-become-chinas-most-durable-advantage-ai-race?utm_source=rss_feed"
-      },
-      {
-        "rank": 16,
-        "title_ja": "インド初の民間軌道ロケット「Vikram-1」打ち上げ成功",
-        "summary": "インドの宇宙スタートアップSkyroot Aerospaceが、同国初の商業軌道用ロケット「Vikram-1」の打ち上げに成功しました。インドの宇宙産業における大きな一歩です。",
-        "take": "💭 商業宇宙分野で米中に次ぐ第三極としてのインドの存在感が高まる。今後の打ち上げコスト競争力が市場シェア獲得の鍵となる。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 17,
-        "title_ja": "SpaceX株、上場直後から空売り増加",
-        "summary": "イーロン・マスク氏率いるSpaceXの株式が、上場からわずか数週間で公開価格を下回り、投資家の間で弱気な見方が広がっています。",
-        "take": "💭 宇宙・AI複合企業への期待先行の反動とも読める。ロケット事業の収益性検証が今後の株価を左右するだろう。",
-        "category": "経済",
-        "source": "Financial Times",
-        "link": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1"
-      },
-      {
-        "rank": 18,
-        "title_ja": "{マーティン・ウルフ|マーティン・ウルフ}氏、株式市場の楽観論に警鐘",
-        "summary": "FTのマーティン・ウルフ氏は、株式市場が明白なリスクを無視し、過度な楽観に{包|つつ}まれていると指摘し、次の暴落の可能性を{論|ろん}じています。",
-        "take": "💭 AI相場の過熱と地政学リスクの同時進行は、バリュエーション調整の引き金になり得る組み合わせだ。分散投資の重要性が増す局面。",
-        "category": "経済",
-        "source": "Financial Times",
-        "link": "https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1"
-      },
-      {
-        "rank": 19,
-        "title_ja": "キューバ、米国の{封鎖|ふうさ}と電力危機で社会が{崩壊|ほうかい}寸前",
-        "summary": "米国による半年に及ぶ石油禁輸措置の中、キューバでは10日間で3度目となる大規模停電が発生し、社会不安が高まっています。",
-        "take": "💭 制裁の長期化が民生へのしわ寄せとして噴出する典型例。人道的観点からの制裁見直し論議が国際社会で強まる可能性がある。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink"
-      },
-      {
-        "rank": 20,
-        "title_ja": "米で{寄生虫|きせいちゅう}汚染のレタス回収、27州に拡大",
-        "summary": "Taylor Farms社は、サイクロスポーラ症の原因となり得る氷山レタスを27州で回収すると発表しました。Taco Bellも同社製レタスの使用を停止しています。",
-        "take": "💭 食品サプライチェーンの脆弱性が改めて浮き彫りに。外食大手の対応速度が消費者の信頼維持を左右する。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/18/taylor-farms-recalls-iceberg-lettuce-in-27-states-due-to-cyclosporiasis-outbreak.html"
       }
     ]
   }
