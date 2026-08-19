@@ -1,5 +1,200 @@
 [
   {
+    "date": "2026-08-20",
+    "dateLabel": "2026年8月20日(木)",
+    "generatedAt": "2026-08-19T21:23:01.170Z",
+    "overview": "米国債務が40兆ドルを突破し{財政|ざいせい}リスクが世界市場を{揺|ゆ}さぶる中、イスラエル軍によるガザの少女殺害事件の刑事捜査開始、米・カナダ関税交渉、モデルナのがんワクチン成功など、地政学と経済、科学が同時に動いた一日でした。",
+    "deepdive": {
+      "title": "米国債務、{史上|しじょう}初の40兆ドル突破－財政{懸念|けねん}が世界市場を{揺|ゆ}さぶる",
+      "body": "米国の公的債務残高が初めて40兆ドル（約6000兆円）を突破しました。これはこの5年足らずで実に3割以上も膨らんだ計算で、トランプ政権が財政健全化を掲げていたにもかかわらず、支出は歴史的なペースで増え続けています。\n背景には、コロナ対策や大型減税、金利上昇による利払い負担の増加が積み重なってきたことがあります。米国債は世界中の年金基金や中央銀行が保有する「安全資産」の代表格ですが、その発行残高が急増する一方で、買い手の需要が追いつかなくなる懸念が強まっています。\nこの問題が重要なのは、米国債の金利（利回り）が世界の金利水準の基準になっているためです。米長期金利が急上昇すれば、住宅ローンから企業の資金調達コストまであらゆる金利に波及し、日本を含む世界中の株式・為替市場にも影響します。実際、今回は財務省が長期国債の買い戻し（バイバック）操作を倍増させると発表したことで、長期金利がいったん急低下し、株式市場が反発する場面も見られました。\nただし、この対応には「隠れた火種」もあります。財務省が事実上、市場に資金を供給して金利を抑え込む行為は、中央銀行（FRB）の独立性や将来のインフレ抑制策と{摩擦|まさつ}を生む可能性があると経済専門家は指摘しています。FRB高官からは利上げの必要性を示唆する声も出ており、財政と金融政策のせめぎ合いが今後の焦点になります。\n今後は、米議会での予算・債務上限を巡る攻防、FRBの金融政策判断、そして市場が財政赤字をどこまで許容するかが注目点です。「ドゥームループ（債務が金利を押し上げ、金利がさらに財政を圧迫する悪循環）」に陥るリスクが指摘されており、日本の投資家や企業にとっても対岸の火事ではありません。",
+      "category": "アジア",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364613/us-debt-hits-us40-trillion-high-raising-doom-loop-risk?utm_source=rss_feed"
+    },
+    "stories": [
+      {
+        "rank": 1,
+        "title_ja": "米国債務、40兆ドル突破 財政懸念が拡大",
+        "summary": "米国の公的債務残高が史上初めて40兆ドルを超えました。5年足らずで3割超も急増しており、財政の持続可能性への懸念が強まっています。",
+        "take": "💭 財務省の国債買い戻し倍増は{対症|たいしょう}療法に過ぎず、根本的な歳出改革なしには「{債務|さいむ}が金利を押し上げ、金利がさらに財政を圧迫する」悪循環のリスクが残ります。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3364613/us-debt-hits-us40-trillion-high-raising-doom-loop-risk?utm_source=rss_feed"
+      },
+      {
+        "rank": 2,
+        "title_ja": "イスラエル軍、ガザの少女殺害を認め刑事捜査開始",
+        "summary": "イスラエル軍は2024年にガザで5歳の少女ヒンド・ラジャブさんとその家族6人が乗った車を{銃撃|じゅうげき}し死亡させたことを認め、刑事捜査を開始しました。人権団体は過去の同種の捜査が有罪に至った例は稀だと指摘しています。",
+        "take": "💭 国際的な批判が高まる中での{異例|いれい}の対応ですが、実効性ある処罰につながるかは不透明で、ガザ情勢の国際的な正当性論争にさらに影響するとみられます。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3364595/israel-opens-criminal-probes-over-killings-palestinian-girl-hind-rajab-aid-workers?utm_source=rss_feed"
+      },
+      {
+        "rank": 3,
+        "title_ja": "イラン、米が戦争{激化|げきか}させれば欧州の軍事目標を{標的|ひょうてき}に検討か",
+        "summary": "イラン内部関係者によると、トランプ政権が対イラン軍事行動を強めた場合、欧州にある米関連施設への報復攻撃を検討しているとされます。NATOも同盟国防衛の準備を表明しました。",
+        "take": "💭 中東紛争が欧州本土に飛び火する{可能性|かのうせい}が現実味を帯びており、エネルギー価格や欧州の安全保障政策に波及するリスクを注視すべきです。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/9ea0cde8-129e-4d88-976f-e367b7dd4d2c?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 4,
+        "title_ja": "ゼレンスキー氏、側近{更迭|こうてつ} 汚職{疑惑|ぎわく}が政権を{揺|ゆ}るがす",
+        "summary": "ウクライナのゼレンスキー大統領は汚職疑惑を受け側近を解任しました。解任された前国防相は大統領への厳しい批判を展開し、選挙実施を求める声も上がっています。",
+        "take": "💭 戦時下の指導力に対する内部からの{亀裂|きれつ}は、欧米の支援継続の是非を巡る議論にも影響しかねず、今後の停戦交渉における結束力の弱まりが懸念されます。",
+        "category": "経済",
+        "source": "Financial Times",
+        "link": "https://www.ft.com/content/5799e5fa-c836-443b-935d-eb9fb58681b6?syn-25a6b1a6=1"
+      },
+      {
+        "rank": 5,
+        "title_ja": "イスラエル、シリア空軍基地を空爆 トルコとの緊張高まる",
+        "summary": "イスラエル軍がシリアの空軍基地を空爆し、直前にトルコの代表団が同基地を視察していたことが判明しました。米特使はトルコ軍との直接衝突を招きかねないと警告しています。",
+        "take": "💭 イスラエルとトルコという地域大国同士の直接衝突リスクが浮上しており、シリア再建を巡る勢力図が一気に不安定化する恐れがあります。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/video/inside-story/2026/8/19/whats-behind-israels-latest-attack-on-syria?traffic_source=rss"
+      },
+      {
+        "rank": 6,
+        "title_ja": "米韓合同演習を{縮小|しゅくしょう} トランプ氏の要請受け",
+        "summary": "韓国は米国の要請を受け、米韓合同軍事演習の規模を縮小すると発表しました。トランプ大統領は北朝鮮の金正恩氏との「良好な関係」を理由に演習縮小の方針を示していました。",
+        "take": "💭 北朝鮮の姿勢は変わらぬまま抑止力が弱まれば、韓国内で独自防衛力強化を求める声が強まり、地域の安全保障バランスに微妙な影響を与えそうです。",
+        "category": "世界",
+        "source": "BBC World",
+        "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "rank": 7,
+        "title_ja": "トランプ氏、金正恩氏との年内会談に意欲",
+        "summary": "トランプ米大統領は北朝鮮の金正恩総書記と年内に会談する計画があると述べましたが、金総書記の妹キム・ヨジョン氏は米朝間の直接対話を否定しています。",
+        "take": "💭 トップ会談への期待と現場レベルの否定という食い違いは、対話進展の裏で北朝鮮側が主導権を握ろうとする{駆|か}け引きの一環とみられます。",
+        "category": "アジア",
+        "source": "SCMP",
+        "link": "https://www.scmp.com/news/us/article/3364612/trump-says-he-plans-meet-kim-jong-un-year-citing-excellent-relationship?utm_source=rss_feed"
+      },
+      {
+        "rank": 8,
+        "title_ja": "米、対カナダ関税を一時延期 貿易協定を最終調整",
+        "summary": "トランプ政権はカナダへの50%関税発動を3日間延期し、両国は貿易協定の最終調整を進めています。キーストーンXLパイプライン計画の復活にも言及がありました。",
+        "take": "💭 土壇場での延期は交渉カードとしての関税乱用を示す一方、北米サプライチェーンの不確実性が続くことは日本企業にとってもリスク要因です。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline"
+      },
+      {
+        "rank": 9,
+        "title_ja": "米、ICC所長らに制裁 国際司法への{圧力|あつりょく}強まる",
+        "summary": "米国務長官ルビオ氏は国際刑事裁判所（ICC）所長ら2名に制裁を発動しました。日本人が務めるICC所長への制裁は、多国間主義を重視する日本外交にも波紋を広げています。",
+        "take": "💭 米国主導の国際秩序からの{離反|りはん}が進む象徴的な動きで、同盟国である日本がどこまで独自の立場を貫けるかが問われます。",
+        "category": "世界",
+        "source": "Deutsche Welle",
+        "link": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-rdf"
+      },
+      {
+        "rank": 10,
+        "title_ja": "米制裁、ICC所長の赤根氏に 高市首相「大変残念」",
+        "summary": "米国がICC所長の赤根智子氏に制裁を科したことを受け、高市首相は「大変残念」と表明し、意思疎通を継続する考えを示しました。日本の与野党議員連盟も非難声明を出しています。",
+        "take": "💭 同盟国でありながら国際法秩序を守る立場との{板挟|いたばさ}みとなり、日本外交の独自性が試される局面です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/08/19/world/politics/icc-us-sanctions-multilateralism/"
+      },
+      {
+        "rank": 11,
+        "title_ja": "中国企業、世界のサプライチェーンに{再編|さいへん}を仕掛ける",
+        "summary": "中国企業が海外に生産拠点を広げ、世界の製造業サプライチェーンの再構築を進めていると指摘されています。関税回避や市場多角化が背景にあります。",
+        "take": "💭 「デリスキング」を掲げる欧米の対中戦略の裏で、中国企業自身が先回りしてグローバル化を進めており、規制の網をかいくぐる構図が続きそうです。",
+        "category": "経済",
+        "source": "The Economist",
+        "link": "https://www.economist.com/interactive/business/2026/08/19/chinese-firms-are-wrapping-their-supply-chains-around-the-globe"
+      },
+      {
+        "rank": 12,
+        "title_ja": "中国、南シナ海の人工島で軍事基地建設が進展",
+        "summary": "中国が西沙諸島のアンテロープ礁で人工島建設の第1期工事を完了したとみられ、専門家は最大級の軍事基地の一部になると分析しています。",
+        "take": "💭 南シナ海における既成事実の積み重ねは、フィリピンやベトナムとの緊張を高めるだけでなく、日本のシーレーン安全保障にも直接関わる問題です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/08/19/asia-pacific/politics/china-reef-work/"
+      },
+      {
+        "rank": 13,
+        "title_ja": "中国企業、ロケットブースター回収に成功 米2社に続く",
+        "summary": "中国企業がロケットブースターの回収・再利用技術で成功を収め、スペースXとブルーオリジンに続く3例目となりました。宇宙開発の低コスト化競争が加速しています。",
+        "take": "💭 再利用ロケット技術の民間普及が進めば、衛星打ち上げコストが劇的に下がり、軍事・商業両面で宇宙アクセスの覇権争いが一段と激化するでしょう。",
+        "category": "世界",
+        "source": "Reuters",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QUUotMFBTYVZoWmJzRFV3ZEplVzduZHpiS2x3dm5BbEdKRXRndkg5X2p0emkxRmp4d1ZVdFRsY2dlbWxlU2xZQzFfWE9naGg0VXdMeXhYNHpuRGFRMUNPOWZjcF9BTTZtTnUwREtnX2t4Zmdia1dPWQ?oc=5"
+      },
+      {
+        "rank": 14,
+        "title_ja": "モデルナ・メルク、mRNAがんワクチンで良好な結果",
+        "summary": "モデルナとメルクが共同開発するmRNAベースの黒色腫（メラノーマ）ワクチンが後期臨床試験で有効性を示し、両社の株価が急騰しました。",
+        "take": "💭 mRNA技術のがん治療への応用が現実味を帯びてきましたが、実用化には規制当局の承認と製造コストの課題が残り、過度な期待は禁物です。",
+        "category": "世界",
+        "source": "Al Jazeera",
+        "link": "https://www.aljazeera.com/news/2026/8/19/moderna-merck-unveil-mrna-based-cancer-vaccine-that-cuts-spread?traffic_source=rss"
+      },
+      {
+        "rank": 15,
+        "title_ja": "AI関連取引、日本株の{変動性|へんどうせい}を18年ぶり高水準に",
+        "summary": "AI関連銘柄への投資が急拡大し、日本株の値動きの荒さ（ボラティリティー）が18年ぶりの高水準に達しています。",
+        "take": "💭 AIバブルへの{期待|きたい}と過熱への{警戒|けいかい}が同居する相場で、個人投資家は値動きの荒さを前提としたリスク管理が一段と重要になります。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/markets/equities/ai-related-trades-push-japan-stock-volatility-to-18-year-high"
+      },
+      {
+        "rank": 16,
+        "title_ja": "SKハイニックス、4.5兆円規模の自社株買いを発表",
+        "summary": "韓国の半導体大手SKハイニックスは、AI半導体需要の好況を背景に約40兆ウォン（4.5兆円）規模の自社株買い・消却を実施すると発表しました。",
+        "take": "💭 AIメモリー需要の恩恵を最大限株主に還元する動きで、韓国半導体産業の投資マネー吸引力がさらに強まりそうです。",
+        "category": "アジア",
+        "source": "Nikkei Asia",
+        "link": "https://asia.nikkei.com/business/tech/semiconductors/sk-hynix-announces-28.6bn-buyback-plan-to-boost-stock-price"
+      },
+      {
+        "rank": 17,
+        "title_ja": "オープンAI、増収もアンソロピックに後れ 競争激化",
+        "summary": "オープンAIは4-6月期に増収を確保したものの、競合アンソロピックの成長ペースに後れを取っていると報じられました。企業向けデータ非保持の方針も打ち出し顧客獲得を狙っています。",
+        "take": "💭 生成AI市場は既に「一強」ではなく、企業向け信頼性（データ非保持など）を軸にした差別化競争へと局面が移っています。",
+        "category": "経済",
+        "source": "Wall St Journal",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2syVjJINU9QanRpbjR6WXc5emxpbVVkWENmWnNnckhrVjJ1ZFZNWlZBbVRac0l1OTJUVjRGNnA4OTROSDRMeUFrdW43RDJQQVRkeEVpTElQTXlaYjNWMkpIendwT2k3RlFKYndoalJaQnYxZ0tiLTFNcjcwdmVfcE5JZ2JFVlJqeTh5bHFpcWZmSVdGa1FQamdFc1BiNGlELS1aa09JQTRLVm8?oc=5"
+      },
+      {
+        "rank": 18,
+        "title_ja": "ECBラガルド総裁、「欧州はAI革命に取り残されるな」",
+        "summary": "欧州中央銀行のラガルド総裁は、欧州がAI革命の波に乗り遅れてはならないと{警鐘|けいしょう}を鳴らしました。",
+        "take": "💭 欧州は規制先行でAI投資が米中に比べ出遅れているとの指摘があり、規制と{産業|さんぎょう}育成のバランスが今後の欧州経済の{命運|めいうん}を左右します。",
+        "category": "経済",
+        "source": "Bloomberg",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Jek9kVHdBQThzU0k3RkNHZkxYcmtRN2wyX0xwZ2NkQ1ZzRDhNZHR5YjVEQTFJOXcxRUYxZFhDd0JYMzhIcG45QWVpVkpzSVJjZktsNV92dkVoWUtxT0ZtclpOX2ZaWU1xQ0VIS3NvUU40eEJCTG5V?oc=5"
+      },
+      {
+        "rank": 19,
+        "title_ja": "中国ロボット企業ユニツリー、上場初日に株価600%超急騰",
+        "summary": "人型ロボット世界最大手の中国企業ユニツリーが中国株式市場に上場し、株価が600%以上急騰しました。同社のロボットは格闘技やダンスの動画で世界的に有名です。",
+        "take": "💭 中国のロボティクス産業への投資熱の高さを象徴する出来事で、AIとハードウェアを融合させた「具現化AI」分野での中国の存在感拡大が見込まれます。",
+        "category": "世界",
+        "source": "The Guardian",
+        "link": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut"
+      },
+      {
+        "rank": 20,
+        "title_ja": "日本の超党派議員団、来週中国訪問へ",
+        "summary": "日本の超党派議員団が来週、中国を訪問する予定です。中国共産党幹部との会談は昨年11月以来初めてとなります。",
+        "take": "💭 日中関係が緊張含みの中での議員交流再開は、対話チャンネル維持の意義がある一方、実質的な関係改善につながるかは今後の展開次第です。",
+        "category": "日本",
+        "source": "Japan Times",
+        "link": "https://www.japantimes.co.jp/news/2026/08/19/japan/japan-lawmaker-group-china/"
+      }
+    ]
+  },
+  {
     "date": "2026-08-19",
     "dateLabel": "2026年8月19日(水)",
     "generatedAt": "2026-08-18T21:21:46.198Z",
@@ -5651,201 +5846,6 @@
         "category": "世界",
         "source": "Reuters",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aU3JTQ05IbzYyUDhBWkt6Vlk0aDFGSF9KMjJLOHB0LS1seWVUM3Q1czNyQVdwX20wUUZaVTd2VnRhdDNERXd3UFoxekNMMHhqOTBDSVlRSmw4aWMtRzZIUGYwalpLTm5XaUt0dTRicDI3Yzl5WG14Rm9UY3Yxdw?oc=5"
-      }
-    ]
-  },
-  {
-    "date": "2026-07-21",
-    "dateLabel": "2026年7月21日(火)",
-    "generatedAt": "2026-07-20T21:59:27.462Z",
-    "overview": "{米国|べいこく}のイラン空爆継続と対カナダ関税50％発動が世界を{揺|ゆ}るがす中、英国では新首相{就任|しゅうにん}、{中国|ちゅうごく}発AIモデルが{米国|べいこく}に{衝撃|しょうげき}を与えるなど、地政学と技術の両面で大きな動きが重なった1日でした。",
-    "deepdive": {
-      "title": "米国のイラン攻撃が10日目に突入、ホルムズ海峡{封鎖|ふうさ}の危機",
-      "body": "{米国|べいこく}は{米|べい}兵士の死亡への報復として、イランへの攻撃を10日連続で続けています。攻撃の目的は、イランがホルムズ海峡で船舶を攻撃する能力を{削|そ}ぐことにあるとされます。ホルムズ海峡は世界の石油輸送の約2割が通過する{要衝|ようしょう}で、ここが{封鎖|ふうさ}されれば世界の原油価格に直接的な打撃を与えます。\nそもそもの発端は、{米|べい}とイランの間で{暫定|ざんてい}的に成立していた和平合意が事実上崩壊したことにあります。トランプ大統領は当初、外交的解決を{標榜|ひょうぼう}していましたが、{米|べい}兵の死者が出たことで報復を宣言し、軍事的圧力を強める方向へと{舵|かじ}を切りました。イラン側は{米|べい}の攻撃を「民間インフラへの攻撃」だと非難しつつも、複数国からの{仲介|ちゅうかい}提案を受け取っており、外交努力も水面下では続いているとされます。\nこの事態が重要なのは、単なる二国間の軍事衝突にとどまらず、世界のエネルギー市場と海上輸送の安全保障に直結するからです。イランの{同盟|どうめい}勢力とされるイエメンのフーシ派も、サウジアラビアに対する「海上封鎖」を宣言するなど、周辺地域全体が緊張の連鎖に巻き込まれています。原油価格はすでに今月20％近く急騰しており、{米|べい}の{戦略|せんりゃく}石油備蓄が40年ぶりの低水準にあることも、価格高騰を{抑|おさ}えにくくしている要因です。\n今後の焦点は、{米|べい}とイランが本格的な{停戦|ていせん}交渉に戻れるか、それとも軍事衝突がさらに拡大し{地域|ちいき}紛争化するかです。フィナンシャル・タイムズは、トランプ政権が{泥沼|どろぬま}化しつつあり、事実上の「{体制|たいせい}転換」路線に{回帰|かいき}しつつあると分析しています。日本を含むアジア諸国にとっても、原油輸入コストの上昇や海上輸送の{混乱|こんらん}は避けられず、今後のエネルギー価格動向から目が離せません。",
-      "category": "世界",
-      "source": "BBC World",
-      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
-    },
-    "stories": [
-      {
-        "rank": 1,
-        "title_ja": "米国、イランへの攻撃10日目 トランプ氏が報復を{明言|めいげん}",
-        "summary": "{米国|べいこく}は{米|べい}兵士の死亡を受け、イランへの攻撃を10日連続で継続。攻撃はイランのホルムズ海峡での船舶攻撃能力を{削|そ}ぐことを目的としているとされます。",
-        "take": "💭 ホルムズ海峡の緊張は世界の原油供給に直結し、{米|べい}の{戦略|せんりゃく}備蓄が底をつく中で価格高騰の{歯止|はど}めが効きにくい状況です。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 2,
-        "title_ja": "トランプ氏、カナダに50％関税を発動へ",
-        "summary": "{米|べい}政権はカナダが自動車・酒類・乳製品で不当な差別をしていると主張し、ほとんどのカナダ製品に50％の関税を課すと発表。30日以内に発効する見通しです。",
-        "take": "💭 北米自由貿易圏の根幹を揺るがす措置で、サプライチェーンの再編と物価上昇を{米国|べいこく}自身にも{招|まね}きかねません。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 3,
-        "title_ja": "英国新首相にアンディ・バーナム氏が就任",
-        "summary": "元マンチェスター市長のアンディ・バーナム氏が{英国|えいこく}の新首相に就任し、キア・スターマー氏の後任となりました。労働党内で人気の高い政治家として知られています。",
-        "take": "💭 「大きな政府」路線への転換は財政・防衛政策に大きな{影響|えいきょう}を与え、{米国|べいこく}やEUとの関係再構築が試される局面です。",
-        "category": "世界",
-        "source": "Deutsche Welle",
-        "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-prime-minister/a-77664543?maca=en-rss-en-all-1573-rdf"
-      },
-      {
-        "rank": 4,
-        "title_ja": "{中国|ちゅうごく}発AI「Kimi K3」が{米|べい}シリコンバレーに衝撃",
-        "summary": "{中国|ちゅうごく}のムーンショットAIが公開した{オープンウェイト|おーぷんうぇいと}型AIモデル「Kimi K3」が、{米中|べいちゅう}のAI技術格差を「数週間」にまで縮めたとされ、{米|べい}業界に動揺が広がっています。",
-        "take": "💭 オープンソース戦略で追い上げる{中国|ちゅうごく}に対し、{米国|べいこく}企業がクローズド路線を{堅持|けんじ}できるかが今後の競争軸になりそうです。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/tech/tech-war/article/3361142/why-chinas-open-weight-ai-model-kimi-k3-sparking-anxiety-silicon-valley?utm_source=rss_feed"
-      },
-      {
-        "rank": 5,
-        "title_ja": "ウクライナ軍トップ更迭へ、{国内|こくない}批判が高まる",
-        "summary": "ゼレンスキー大統領は国防相{更迭|こうてつ}を{巡|めぐ}る抗議デモの高まりを受け、軍{最高|さいこう}司令官シルスキー氏を交代させる見通しとなっています。",
-        "take": "💭 戦時下での指導部内紛は{同盟|どうめい}国の支援継続に影響しかねず、ロシアにとっては好機と映る可能性があります。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/world/2026/jul/20/ukraine-army-chief-oleksandr-syrskyi-expected-lose-job-week-protests"
-      },
-      {
-        "rank": 6,
-        "title_ja": "ハマス新指導者にハリル・アルハイヤ氏",
-        "summary": "パレスチナ武装組織ハマスは、カタール{在住|ざいじゅう}の交渉責任者ハリル・アルハイヤ氏を新指導者に選出しました。前指導者シンワル氏は2024年にイスラエル軍により{殺害|さつがい}されています。",
-        "take": "💭 交渉派とされる人物の起用は{停戦|ていせん}交渉再開への{布石|ふせき}とも読めますが、イスラエルの強硬姿勢が続く限り展望は不透明です。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 7,
-        "title_ja": "パラマウントとワーナーの合併、{米|べい}裁判所が一時差し止め",
-        "summary": "{米|べい}連邦判事は、複数の州が起こした{訴訟|そしょう}を受け、パラマウントとワーナー・ブラザースの1100億{米|べい}ドル規模の合併を一時的に差し止めました。",
-        "take": "💭 メディア寡占への懸念が司法判断に反映された形で、9月を超える遅延が生じればパラマウント側に多額の違約金リスクが生じます。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3361266/us-judge-suspends-paramounts-acquisition-warner-bros?utm_source=rss_feed"
-      },
-      {
-        "rank": 8,
-        "title_ja": "トランプ氏、{中国|ちゅうごく}依存の軍事鉱物サプライチェーン{見直|みなお}し{命令|めいれい}",
-        "summary": "トランプ大統領は防衛関連の重要鉱物について{中国|ちゅうごく}依存を減らすための大統領令に署名し、軍事契約企業に{中国|ちゅうごく}系サプライチェーンからの{脱却|だっきゃく}を指示しました。",
-        "take": "💭 レアアース・重要鉱物の{米中|べいちゅう}デカップリングは長期化必至で、{代替|だいたい}供給網構築コストが{米|べい}防衛産業に重くのしかかります。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/us/politics/article/3361267/trump-order-targets-china-linked-military-mineral-supply-chains?utm_source=rss_feed"
-      },
-      {
-        "rank": 9,
-        "title_ja": "フーシ派、サウジアラビアへの「海上封鎖」を宣言",
-        "summary": "イエメンのフーシ派は、サウジアラビアによる港湾・空港封鎖への報復として、即時の海上封鎖を発表しました。",
-        "take": "💭 紅海・{周辺|しゅうへん}海域の緊張連鎖が広がれば、アジア〜欧州間の海上輸送コストにも波及しかねません。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 10,
-        "title_ja": "{米|べい}テック大手5社、AI投資で{隠|かく}れ債務1.65兆{米|べい}ドルに急増",
-        "summary": "{米国|べいこく}の大手テック5社が、不透明なAI関連資金調達を通じて{抱|かか}える{隠|かく}れ債務が1兆6500億{米|べい}ドルに達したとの分析が示されました。",
-        "take": "💭 AIブームの裏で積み上がる{簿外|ぼがい}的な資金調達構造は、金利環境が悪化した際の{信用|しんよう}リスクとして無視できません。",
-        "category": "アジア",
-        "source": "Nikkei Asia",
-        "link": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding"
-      },
-      {
-        "rank": 11,
-        "title_ja": "{韓国|かんこく}株、最高値から1カ月で28％超下落",
-        "summary": "{韓国|かんこく}株式市場はAI関連取引の手じまいを受け、最高値から1カ月あまりで28％超下落しました。シティは{韓国|かんこく}株の投資判断を「中立」に引き下げています。",
-        "take": "💭 AI相場の急速な巻き戻しは、{半導体|はんどうたい}関連銘柄への過度な集中投資のリスクを{改|あらた}めて浮き彫りにしています。",
-        "category": "世界",
-        "source": "Reuters",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sVkljeHdrR2NXUkJRZDVmdnZtZzJsdG13emZuUnRkSnJHQWxaVjBPSUNDMFB4elVwWFp1QU83X3MxQ1dXOEV0dUhBb09uWTVBcWNjYkZUQVpVVWZYM25GbFA5NWpRNUdmRE1UT2hYanZNRUNDOVcwNw?oc=5"
-      },
-      {
-        "rank": 12,
-        "title_ja": "トランプ関税、日本の{自動車|じどうしゃ}メーカーに打撃続く",
-        "summary": "2025{年度|ねんど}、トヨタなど日本の大手{自動車|じどうしゃ}メーカー6社が{被|こうむ}ったトランプ関税の{累計|るいけい}コストは2兆4000億円を超えました。",
-        "take": "💭 関税負担の長期化は日本メーカーの価格{転嫁|てんか}や{生産|せいさん}拠点再配置を{加速|かそく}させる可能性があります。",
-        "category": "日本",
-        "source": "Japan Times",
-        "link": "https://www.japantimes.co.jp/business/2026/07/20/trump-tariffs-japan-automakers/"
-      },
-      {
-        "rank": 13,
-        "title_ja": "{中国|ちゅうごく}・フィリピン、南シナ海で{衝突|しょうとつ}",
-        "summary": "{中国|ちゅうごく}とフィリピンの海上{部隊|ぶたい}がセカンド・トーマス{礁|しょう}で{衝突|しょうとつ}し、双方が相手を非難しています。ASEAN外相会議を目前に控えたタイミングでの発生です。",
-        "take": "💭 ASEAN{議長国|ぎちょうこく}フィリピンでの会議直前の{衝突|しょうとつ}は、{中国|ちゅうごく}の南シナ海戦略に対するASEAN{結束|けっそく}の試金石となります。",
-        "category": "アジア",
-        "source": "SCMP",
-        "link": "https://www.scmp.com/news/china/diplomacy/article/3361250/chinese-and-philippine-maritime-forces-clash-second-thomas-shoal?utm_source=rss_feed"
-      },
-      {
-        "rank": 14,
-        "title_ja": "AliExpressにEUが過去最高額の{制裁金|せいさいきん}",
-        "summary": "EUは{偽造品|ぎぞうひん}や安全性に問題のある商品の{流通|りゅうつう}を防げなかったとして、{中国|ちゅうごく}系ECサイトAliExpressに5億5000万ユーロの{制裁金|せいさいきん}を科しました。",
-        "take": "💭 デジタルサービス法(DSA)の本格適用が{中国|ちゅうごく}系プラットフォームを{標的|ひょうてき}にし始めており、EUの規制強化路線は他社にも波及するでしょう。",
-        "category": "世界",
-        "source": "The Guardian",
-        "link": "https://www.theguardian.com/business/2026/jul/20/aliexpress-fined-by-eu-sale-of-illegal-fake-goods"
-      },
-      {
-        "rank": 15,
-        "title_ja": "ウクライナ、ロシア石油施設を攻撃 モスクワ400機ドローン攻撃の報復",
-        "summary": "ウクライナはロシアの石油関連施設を攻撃し、モスクワが週末に400機のドローンでキーウを攻撃したことへの報復としました。ゼレンスキー氏は{国内|こくない}での{閣僚|かくりょう}更迭を{巡|めぐ}る危機にも直面しています。",
-        "take": "💭 エネルギー施設への相互攻撃が{常態化|じょうたいか}すれば、{冬季|とうき}を前にロシア・ウクライナ双方の{国内|こくない}経済への打撃が深刻化します。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/video/inside-story/2026/7/20/how-will-zelenskyy-handle-the-growing-political-crisis-at-home?traffic_source=rss"
-      },
-      {
-        "rank": 16,
-        "title_ja": "麻薬王「エル・マヨ」に終身刑、150億{米|べい}ドルの{没収|ぼっしゅう}命令",
-        "summary": "シナロア・カルテルの共同創設者イスマエル・サンバダ被告（通称「エル・マヨ」）が{米|べい}連邦裁判所で終身刑を{言|い}い渡され、150億{米|べい}ドルの資産{没収|ぼっしゅう}も命じられました。",
-        "take": "💭 大物麻薬密売組織の指導者{摘発|てきはつ}は象徴的意義が大きい一方、組織の分裂・後継争いが新たな暴力を{招|まね}く懸念も残ります。",
-        "category": "世界",
-        "source": "BBC World",
-        "link": "https://www.bbc.co.uk/news/articles/ce3q1d1ed5do?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "rank": 17,
-        "title_ja": "EU、メタン排出{規制|きせい}の{罰則|ばっそく}を{一時|いちじ}停止",
-        "summary": "{欧州|おうしゅう}委員会はエネルギー{危機|きき}と{米国|べいこく}からの圧力を受け、メタン排出に関する{罰則|ばっそく}の適用を{一時|いちじ}停止すると発表しました。",
-        "take": "💭 気候政策とエネルギー安全保障の{綱引|つなひ}きが表面化しており、{米国|べいこく}産LNG依存の高まりがEUの環境規制に影響を与えています。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/20/eu-pauses-methane-penalties-amid-energy-crisis-us-pressure?traffic_source=rss"
-      },
-      {
-        "rank": 18,
-        "title_ja": "アフガニスタンで{洪水|こうずい}、20人以上死亡",
-        "summary": "モンスーンによる{鉄砲水|てっぽうみず}がアフガニスタン{各地|かくち}を{襲|おそ}い、少なくとも20人が死亡しました。ヌーリスタン州では救助隊が現地入りを急いでいます。",
-        "take": "💭 気候変動による{極端|きょくたん}気象の頻発は、既に{脆弱|ぜいじゃく}な{人道|じんどう}状況にあるアフガニスタンの復興をさらに困難にしています。",
-        "category": "世界",
-        "source": "Al Jazeera",
-        "link": "https://www.aljazeera.com/news/2026/7/20/monsoon-driven-flash-flooding-kills-at-least-20-in-afghanistan?traffic_source=rss"
-      },
-      {
-        "rank": 19,
-        "title_ja": "Google、{独自|どくじ}AIチップでGemini効率化へ",
-        "summary": "アルファベット{傘下|さんか}のGoogleは、AIモデルGeminiの{稼働|かどう}効率を高めるための新型チップを開発中とされます。",
-        "take": "💭 自社チップ内製化は{推論|すいろん}コスト削減の鍵であり、Nvidia依存からの脱却を{図|はか}る大手各社の競争が激化しています。",
-        "category": "AI",
-        "source": "TechCrunch AI",
-        "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/"
-      },
-      {
-        "rank": 20,
-        "title_ja": "{米|べい}AI安全機関トップが3カ月で辞任",
-        "summary": "{米|べい}国立標準技術{研究所|けんきゅうじょ}（NIST）のAI安全{担当|たんとう}局長アルビンド・ラマン氏が就任からわずか3カ月で辞任しました。",
-        "take": "💭 AI安全{規制|きせい}を{巡|めぐ}る{米|べい}政権内の方針の{揺|ゆ}れが、{国際|こくさい}的なAIガバナンス構築の遅れにつながる可能性があります。",
-        "category": "経済",
-        "source": "CNBC",
-        "link": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html"
       }
     ]
   }
